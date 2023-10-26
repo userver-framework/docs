@@ -66,4 +66,16 @@ const init_header = () => {
     create_nav_wrapper();
     remove_legacy_searchbox();
     onBurger();
+
+    const breif = document.getElementById('projectbrief').getElementsByTagName('a')[0];
+    breif.textContent += " v1.0";
+
+    const footer = document.getElementById('nav-path').getElementsByTagName('ul')[0];
+    footer.innerHTML = `
+    <li><b>userver docs version:</b></li>
+    <li style="box-shadow: inset -1px 0 0 0 var(--separator-color); background-image: none;">v1.0</li>
+    <li style="box-shadow: inset -1px 0 0 0 var(--separator-color); background-image: none;"><a href="`
+    + window.location.href.split('/').slice(2).join('/')
+    + `">trunk/develop</a></li>`
+    + footer.innerHTML;
 }
