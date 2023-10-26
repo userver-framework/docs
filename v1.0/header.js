@@ -75,7 +75,7 @@ const init_header = () => {
     <li><b>userver docs version:</b></li>
     <li style="box-shadow: inset -1px 0 0 0 var(--separator-color); background-image: none;">v1.0</li>
     <li style="box-shadow: inset -1px 0 0 0 var(--separator-color); background-image: none;"><a href=../../"`
-    + window.location.pathname.split('/').slice(2).join('/')
+    + window.location.pathname.split('/').slice(3).join('/')
     + `">trunk/develop</a></li>`
     + footer.innerHTML;
 }
