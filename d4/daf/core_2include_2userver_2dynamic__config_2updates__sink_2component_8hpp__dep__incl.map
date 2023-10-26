@@ -1,0 +1,11 @@
+<map id="userver/dynamic_config/updates_sink/component.hpp" name="userver/dynamic_config/updates_sink/component.hpp">
+<area shape="rect" id="Node000001" title="Base class for components acting as dynamic config updates sinks." alt="" coords="97,5,315,45"/>
+<area shape="rect" id="Node000002" href="$d0/d56/core_2include_2userver_2dynamic__config_2fallbacks_2component_8hpp.html" title="Component that setup runtime configs based on fallbacks from file." alt="" coords="5,181,196,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,54,124,72,106,95,98,116,95,139,99,181,94,182,90,139,93,115,101,92,120,68,145,50"/>
+<area shape="rect" id="Node000003" href="$d2/d88/core_2include_2userver_2dynamic__config_2storage_2component_8hpp.html" title="Component that stores the runtime config." alt="" coords="116,93,296,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,59,209,93,203,93,203,59"/>
+<area shape="rect" id="Node000004" href="$db/df3/core_2include_2userver_2dynamic__config_2updater_2component_8hpp.html" title="Component that does a periodic update of runtime configs." alt="" coords="231,181,413,221"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="265,50,290,68,311,92,321,114,326,138,327,181,322,181,321,139,316,116,306,95,287,72,262,54"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="174,144,126,183,122,179,171,140"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="244,140,298,179,295,183,241,144"/>
+</map>

@@ -1,0 +1,447 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="51,2043,165,2069"/>
+<area shape="rect" id="Node000001" href="$da/d17/classclients_1_1http_1_1BaseException.html" title="Exception with string." alt="" coords="259,447,461,473"/>
+<area shape="poly" id="edge365_Node000000_Node000001" title=" " alt="" coords="107,2030,115,1840,137,1519,156,1328,181,1128,214,924,256,726,278,649,305,575,350,472,355,474,310,577,284,651,261,727,220,925,187,1128,161,1329,142,1520,120,1841,113,2030"/>
+<area shape="rect" id="Node000015" href="$df/d6d/classdist__lock_1_1LockIsAcquiredByAnotherHostException.html" title="Indicates that lock cannot be acquired because it&#39;s busy." alt="" coords="267,739,453,779"/>
+<area shape="poly" id="edge379_Node000000_Node000015" title=" " alt="" coords="108,2029,124,1777,155,1382,176,1180,200,1001,227,865,241,818,257,789,270,777,273,781,261,792,246,820,232,866,205,1002,181,1181,160,1383,129,1777,113,2030"/>
+<area shape="rect" id="Node000016" href="$d4/d84/classformats_1_1json_1_1Exception.html" title=" " alt="" coords="270,803,450,829"/>
+<area shape="poly" id="edge380_Node000000_Node000016" title=" " alt="" coords="110,2029,159,1682,203,1425,256,1161,309,962,352,828,357,830,315,964,261,1162,208,1426,164,1683,115,2030"/>
+<area shape="rect" id="Node000026" href="$d6/d9a/classformats_1_1yaml_1_1Exception.html" title=" " alt="" coords="267,1174,453,1199"/>
+<area shape="poly" id="edge390_Node000000_Node000026" title=" " alt="" coords="114,2029,352,1199,357,1200,119,2031"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="301,1649,419,1674"/>
+<area shape="poly" id="edge397_Node000000_Node000033" title=" " alt="" coords="122,2031,348,1673,353,1676,127,2033"/>
+<area shape="rect" id="Node000035" title=" " alt="" coords="291,2018,429,2043"/>
+<area shape="poly" id="edge399_Node000000_Node000035" title=" " alt="" coords="179,2046,290,2035,291,2040,180,2052"/>
+<area shape="rect" id="Node000160" href="$d3/d25/classugrpc_1_1client_1_1BaseError.html" title="Base exception for all the client errors." alt="" coords="273,2067,447,2093"/>
+<area shape="poly" id="edge524_Node000000_Node000160" title=" " alt="" coords="180,2060,273,2069,273,2074,179,2065"/>
+<area shape="rect" id="Node000181" href="$d7/d56/classugrpc_1_1server_1_1BaseError.html" title="Base exception for all the server errors." alt="" coords="271,2117,449,2142"/>
+<area shape="poly" id="edge545_Node000000_Node000181" title=" " alt="" coords="160,2070,259,2101,306,2114,305,2119,258,2107,158,2075"/>
+<area shape="rect" id="Node000184" href="$d2/d73/structutest_1_1DnsServerMock_1_1NoAnswer.html" title=" " alt="" coords="277,2167,443,2207"/>
+<area shape="poly" id="edge548_Node000000_Node000184" title=" " alt="" coords="138,2075,193,2113,260,2151,292,2164,289,2169,257,2156,190,2117,135,2079"/>
+<area shape="rect" id="Node000185" href="$df/dae/classutils_1_1TracefulException.html" title="Exception that remembers the backtrace at the point of its construction." alt="" coords="273,5294,447,5319"/>
+<area shape="poly" id="edge549_Node000000_Node000185" title=" " alt="" coords="114,2082,360,5294,355,5294,109,2083"/>
+<area shape="rect" id="Node000221" href="$d4/dab/classutils_1_1bad__expected__access.html" title=" " alt="" coords="285,2231,435,2271"/>
+<area shape="poly" id="edge584_Node000000_Node000221" title=" " alt="" coords="127,2079,181,2147,218,2184,260,2216,286,2230,284,2234,257,2221,215,2188,177,2151,123,2082"/>
+<area shape="rect" id="Node000222" href="$da/dc1/classutils_1_1ip_1_1AddressSystemError.html" title="Invalid network or address." alt="" coords="271,2295,449,2335"/>
+<area shape="poly" id="edge585_Node000000_Node000222" title=" " alt="" coords="122,2081,142,2124,172,2178,211,2233,235,2258,260,2281,280,2292,277,2297,257,2285,231,2262,207,2237,167,2181,137,2126,117,2083"/>
+<area shape="rect" id="Node000002" href="$d1/de2/classclients_1_1http_1_1BaseCodeException.html" title="Exception with string and error_code." alt="" coords="515,234,751,259"/>
+<area shape="poly" id="edge366_Node000001_Node000002" title=" " alt="" coords="386,437,613,257,617,262,390,441"/>
+<area shape="rect" id="Node000010" href="$d0/dda/classclients_1_1http_1_1CancelException.html" title=" " alt="" coords="525,398,740,423"/>
+<area shape="poly" id="edge374_Node000001_Node000010" title=" " alt="" coords="444,442,561,421,562,426,445,447"/>
+<area shape="rect" id="Node000011" href="$d3/d4f/classclients_1_1http_1_1HttpException.html" title="Base class for HttpClientException and HttpServerException." alt="" coords="533,447,732,473"/>
+<area shape="poly" id="edge375_Node000001_Node000011" title=" " alt="" coords="475,457,533,457,533,463,475,463"/>
+<area shape="rect" id="Node000014" href="$d8/de6/classclients_1_1http_1_1TimeoutException.html" title=" " alt="" coords="520,497,745,522"/>
+<area shape="poly" id="edge378_Node000001_Node000014" title=" " alt="" coords="445,473,562,494,561,499,444,478"/>
+<area shape="rect" id="Node000003" href="$de/dff/classclients_1_1http_1_1AuthFailedException.html" title=" " alt="" coords="846,5,1021,45"/>
+<area shape="poly" id="edge367_Node000002_Node000003" title=" " alt="" coords="647,220,672,183,708,139,752,93,803,55,845,37,847,42,805,60,755,97,712,142,677,187,651,223"/>
+<area shape="rect" id="Node000004" href="$d7/d82/classclients_1_1http_1_1BadArgumentException.html" title=" " alt="" coords="835,69,1031,109"/>
+<area shape="poly" id="edge368_Node000002_Node000004" title=" " alt="" coords="656,222,719,170,760,143,803,119,834,107,836,112,805,124,763,147,722,175,659,227"/>
+<area shape="rect" id="Node000005" href="$db/d8c/classclients_1_1http_1_1DNSProblemException.html" title=" " alt="" coords="839,133,1028,173"/>
+<area shape="poly" id="edge369_Node000002_Node000005" title=" " alt="" coords="678,226,803,183,846,171,847,176,805,188,680,232"/>
+<area shape="rect" id="Node000006" href="$d3/dbd/classclients_1_1http_1_1NetworkProblemException.html" title=" " alt="" coords="825,197,1041,237"/>
+<area shape="poly" id="edge370_Node000002_Node000006" title=" " alt="" coords="764,231,825,225,825,231,764,237"/>
+<area shape="rect" id="Node000007" href="$d8/ddc/classclients_1_1http_1_1SSLException.html" title=" " alt="" coords="836,262,1031,287"/>
+<area shape="poly" id="edge371_Node000002_Node000007" title=" " alt="" coords="765,256,836,263,835,268,764,262"/>
+<area shape="rect" id="Node000008" href="$d3/d1f/classclients_1_1http_1_1TechnicalError.html" title=" " alt="" coords="850,312,1017,352"/>
+<area shape="poly" id="edge372_Node000002_Node000008" title=" " alt="" coords="688,261,805,296,854,309,852,315,803,301,686,266"/>
+<area shape="rect" id="Node000009" href="$d5/de1/classclients_1_1http_1_1TooManyRedirectsException.html" title=" " alt="" coords="820,376,1047,416"/>
+<area shape="poly" id="edge373_Node000002_Node000009" title=" " alt="" coords="661,266,724,314,764,340,805,362,837,373,835,378,803,366,761,344,721,319,658,271"/>
+<area shape="rect" id="Node000012" href="$d0/d63/classclients_1_1http_1_1HttpClientException.html" title=" " alt="" coords="847,440,1020,480"/>
+<area shape="poly" id="edge376_Node000011_Node000012" title=" " alt="" coords="746,457,846,457,846,463,746,463"/>
+<area shape="rect" id="Node000013" href="$dd/d66/classclients_1_1http_1_1HttpServerException.html" title=" " alt="" coords="845,504,1022,544"/>
+<area shape="poly" id="edge377_Node000011_Node000013" title=" " alt="" coords="714,473,757,481,847,501,846,507,755,487,713,478"/>
+<area shape="rect" id="Node000017" href="$d8/d1f/classformats_1_1json_1_1BadStreamException.html" title=" " alt="" coords="539,547,727,587"/>
+<area shape="poly" id="edge381_Node000016_Node000017" title=" " alt="" coords="454,794,459,789,476,766,484,743,485,719,483,695,481,671,482,646,490,621,507,597,537,577,540,582,511,601,494,624,487,647,486,670,488,695,490,719,489,744,481,768,463,792,457,798"/>
+<area shape="rect" id="Node000018" href="$de/d49/classformats_1_1json_1_1ConversionException.html" title="Conversion error." alt="" coords="538,611,727,651"/>
+<area shape="poly" id="edge382_Node000016_Node000018" title=" " alt="" coords="452,794,459,789,472,774,479,759,483,726,487,693,494,677,508,661,536,643,539,647,511,665,498,680,492,695,488,727,484,760,477,777,463,793,456,799"/>
+<area shape="rect" id="Node000019" href="$d0/da8/classformats_1_1json_1_1MemberMissingException.html" title=" " alt="" coords="523,675,743,715"/>
+<area shape="poly" id="edge383_Node000016_Node000019" title=" " alt="" coords="447,796,460,789,475,774,483,758,491,741,508,725,530,713,532,717,511,729,496,744,488,760,479,777,463,793,450,800"/>
+<area shape="rect" id="Node000020" href="$de/d4c/classformats_1_1json_1_1OutOfBoundsException.html" title=" " alt="" coords="531,739,734,779"/>
+<area shape="poly" id="edge384_Node000016_Node000020" title=" " alt="" coords="434,798,537,776,538,781,435,803"/>
+<area shape="rect" id="Node000021" href="$de/dff/classformats_1_1json_1_1ParseException.html" title=" " alt="" coords="525,803,740,829"/>
+<area shape="poly" id="edge385_Node000016_Node000021" title=" " alt="" coords="464,813,525,813,525,819,464,819"/>
+<area shape="rect" id="Node000022" href="$db/da0/classformats_1_1json_1_1TypeMismatchException.html" title=" " alt="" coords="527,853,738,893"/>
+<area shape="poly" id="edge386_Node000016_Node000022" title=" " alt="" coords="435,829,538,851,537,856,434,834"/>
+<area shape="rect" id="Node000023" href="$de/d7c/classformats_1_1json_1_1parser_1_1BaseError.html" title=" " alt="" coords="554,917,711,957"/>
+<area shape="poly" id="edge387_Node000016_Node000023" title=" " alt="" coords="391,834,445,869,510,903,554,918,553,923,508,908,443,874,388,839"/>
+<area shape="rect" id="Node000024" href="$d7/da4/classformats_1_1json_1_1parser_1_1InternalParseError.html" title=" " alt="" coords="855,885,1012,925"/>
+<area shape="poly" id="edge388_Node000023_Node000024" title=" " alt="" coords="725,925,854,911,855,916,726,930"/>
+<area shape="rect" id="Node000025" href="$d2/d03/classformats_1_1json_1_1parser_1_1ParseError.html" title=" " alt="" coords="855,949,1012,989"/>
+<area shape="poly" id="edge389_Node000023_Node000025" title=" " alt="" coords="726,944,855,958,854,964,725,950"/>
+<area shape="rect" id="Node000027" href="$d7/d15/classformats_1_1yaml_1_1BadStreamException.html" title=" " alt="" coords="535,981,730,1021"/>
+<area shape="poly" id="edge391_Node000026_Node000027" title=" " alt="" coords="376,1161,429,1096,466,1061,508,1031,534,1019,536,1024,511,1036,470,1065,433,1100,380,1164"/>
+<area shape="rect" id="Node000028" href="$d4/dcb/classformats_1_1yaml_1_1MemberMissingException.html" title=" " alt="" coords="519,1045,746,1085"/>
+<area shape="poly" id="edge392_Node000026_Node000028" title=" " alt="" coords="388,1164,443,1129,508,1095,541,1083,543,1088,510,1100,445,1133,391,1168"/>
+<area shape="rect" id="Node000029" href="$d1/d0b/classformats_1_1yaml_1_1OutOfBoundsException.html" title=" " alt="" coords="529,1109,737,1149"/>
+<area shape="poly" id="edge393_Node000026_Node000029" title=" " alt="" coords="434,1169,537,1147,538,1152,435,1174"/>
+<area shape="rect" id="Node000030" href="$d9/d8f/classformats_1_1yaml_1_1ParseException.html" title=" " alt="" coords="522,1174,743,1199"/>
+<area shape="poly" id="edge394_Node000026_Node000030" title=" " alt="" coords="467,1184,522,1184,522,1189,467,1189"/>
+<area shape="rect" id="Node000031" href="$de/d64/classformats_1_1yaml_1_1PathPrefixException.html" title=" " alt="" coords="539,1224,726,1264"/>
+<area shape="poly" id="edge395_Node000026_Node000031" title=" " alt="" coords="435,1200,540,1222,539,1227,434,1205"/>
+<area shape="rect" id="Node000032" href="$d0/df6/classformats_1_1yaml_1_1TypeMismatchException.html" title=" " alt="" coords="525,1288,741,1328"/>
+<area shape="poly" id="edge396_Node000026_Node000032" title=" " alt="" coords="391,1205,445,1240,510,1274,543,1285,541,1290,508,1278,443,1245,388,1210"/>
+<area shape="rect" id="Node000034" href="$d0/d3e/classcache_1_1ConfigError.html" title=" " alt="" coords="563,1353,703,1378"/>
+<area shape="poly" id="edge398_Node000033_Node000034" title=" " alt="" coords="365,1635,381,1582,409,1514,428,1479,451,1445,477,1414,508,1387,534,1373,562,1366,563,1371,536,1378,511,1392,481,1418,455,1448,433,1482,414,1516,386,1583,370,1636"/>
+<area shape="rect" id="Node000036" href="$da/d88/classbaggage_1_1BaggageException.html" title="Baggage base exception." alt="" coords="529,1402,736,1427"/>
+<area shape="poly" id="edge400_Node000035_Node000036" title=" " alt="" coords="367,2004,409,1868,459,1685,465,1647,466,1612,463,1551,464,1523,470,1494,483,1466,508,1437,528,1422,531,1427,511,1441,488,1469,475,1496,469,1523,468,1551,471,1612,470,1647,464,1686,414,1869,372,2005"/>
+<area shape="rect" id="Node000037" href="$df/de1/classcache_1_1DataError.html" title=" " alt="" coords="567,1451,698,1477"/>
+<area shape="poly" id="edge401_Node000035_Node000037" title=" " alt="" coords="367,2004,459,1685,465,1654,467,1626,467,1577,469,1554,475,1532,487,1509,508,1486,535,1469,566,1461,567,1466,537,1474,511,1490,492,1512,480,1534,474,1555,472,1577,472,1627,470,1655,464,1686,372,2005"/>
+<area shape="rect" id="Node000039" href="$d9/d52/classcache_1_1EmptyCacheError.html" title=" " alt="" coords="542,1501,723,1526"/>
+<area shape="poly" id="edge403_Node000035_Node000039" title=" " alt="" coords="366,2004,444,1736,485,1599,507,1536,523,1524,541,1517,543,1522,526,1529,511,1539,490,1601,449,1737,371,2006"/>
+<area shape="rect" id="Node000040" href="$d8/d54/classclients_1_1dns_1_1ResolverException.html" title="Generic resolver error." alt="" coords="520,1550,745,1575"/>
+<area shape="poly" id="edge404_Node000035_Node000040" title=" " alt="" coords="366,2004,433,1773,474,1652,492,1609,507,1586,527,1573,530,1578,511,1590,497,1612,479,1654,438,1774,371,2006"/>
+<area shape="rect" id="Node000044" href="$d2/d43/classcomponents_1_1ComponentsLoadCancelledException.html" title="Exception that is thrown from components::ComponentContext::FindComponent() if a component load faile..." alt="" coords="521,1600,744,1640"/>
+<area shape="poly" id="edge408_Node000035_Node000044" title=" " alt="" coords="361,2004,372,1933,396,1838,415,1787,439,1737,470,1690,508,1650,524,1638,528,1642,511,1654,474,1694,444,1740,420,1789,401,1840,377,1935,366,2005"/>
+<area shape="rect" id="Node000045" href="$d7/dfa/classdecimal64_1_1DecimalError.html" title="The base class for Decimal&#45;related exceptions." alt="" coords="541,1665,724,1690"/>
+<area shape="poly" id="edge409_Node000035_Node000045" title=" " alt="" coords="362,2004,375,1941,401,1858,420,1814,444,1772,473,1733,508,1699,540,1682,542,1687,511,1703,477,1736,448,1775,425,1816,406,1860,380,1942,368,2005"/>
+<area shape="rect" id="Node000049" href="$dc/d09/classdump_1_1Error.html" title=" " alt="" coords="583,1714,682,1739"/>
+<area shape="poly" id="edge413_Node000035_Node000049" title=" " alt="" coords="365,2004,381,1950,409,1881,428,1844,450,1810,477,1777,508,1750,544,1732,582,1725,583,1730,546,1737,511,1754,481,1781,455,1813,432,1847,413,1883,386,1951,370,2005"/>
+<area shape="rect" id="Node000050" href="$d2/dd3/classengine_1_1SemaphoreLockCancelledError.html" title="Thrown by engine::CancellableSemaphore on current task cancellation." alt="" coords="511,1764,754,1804"/>
+<area shape="poly" id="edge414_Node000035_Node000050" title=" " alt="" coords="369,2004,389,1962,419,1911,459,1858,482,1835,508,1814,529,1802,531,1807,511,1818,486,1838,463,1862,424,1914,394,1965,374,2006"/>
+<area shape="rect" id="Node000051" href="$d8/dc1/classengine_1_1TaskCancelledException.html" title="Thrown if a TaskWithResult, for which we were waiting, got cancelled." alt="" coords="517,1829,748,1854"/>
+<area shape="poly" id="edge415_Node000035_Node000051" title=" " alt="" coords="374,2005,396,1973,427,1934,464,1896,508,1864,537,1852,539,1857,511,1869,468,1900,431,1938,400,1976,378,2008"/>
+<area shape="rect" id="Node000052" href="$dc/d5a/classengine_1_1UnreachableSemaphoreLockError.html" title=" " alt="" coords="517,1879,748,1919"/>
+<area shape="poly" id="edge416_Node000035_Node000052" title=" " alt="" coords="386,2007,440,1967,508,1928,540,1916,542,1921,510,1933,443,1972,389,2011"/>
+<area shape="rect" id="Node000053" href="$de/dae/classengine_1_1WaitInterruptedException.html" title=" " alt="" coords="513,1943,752,1969"/>
+<area shape="poly" id="edge417_Node000035_Node000053" title=" " alt="" coords="406,2011,509,1977,557,1966,559,1971,510,1983,408,2016"/>
+<area shape="rect" id="Node000054" href="$d3/d6f/classengine_1_1io_1_1AddrException.html" title="Socket address&#45;related exceptions." alt="" coords="539,1993,727,2018"/>
+<area shape="poly" id="edge418_Node000035_Node000054" title=" " alt="" coords="443,2020,538,2011,538,2017,443,2026"/>
+<area shape="rect" id="Node000055" href="$de/dc6/classhttp_1_1MalformedContentType.html" title="Content&#45;Type parsing error." alt="" coords="529,2042,737,2067"/>
+<area shape="poly" id="edge419_Node000035_Node000055" title=" " alt="" coords="443,2035,529,2043,528,2048,443,2041"/>
+<area shape="rect" id="Node000056" href="$da/d73/classhttp_1_1headers_1_1HeaderMap_1_1TooManyHeadersException.html" title="The exception being thrown in case of capacity overflow." alt="" coords="529,2092,736,2132"/>
+<area shape="poly" id="edge420_Node000035_Node000056" title=" " alt="" coords="438,2044,462,2052,487,2064,510,2076,550,2089,548,2094,508,2081,484,2069,460,2057,436,2049"/>
+<area shape="rect" id="Node000057" href="$d1/dff/classredis_1_1Exception.html" title="Generic redis&#45;related exception." alt="" coords="569,2157,696,2182"/>
+<area shape="poly" id="edge421_Node000035_Node000057" title=" " alt="" coords="443,2041,463,2053,481,2075,488,2099,494,2121,500,2132,511,2142,539,2156,570,2164,569,2169,537,2161,508,2146,496,2135,489,2124,483,2100,476,2078,460,2057,441,2046"/>
+<area shape="rect" id="Node000068" href="$d7/d7f/classserver_1_1handlers_1_1CustomHandlerException.html" title="The generic base class for handler exceptions. Thrown exceptions should typically derive from Excepti..." alt="" coords="540,2521,725,2561"/>
+<area shape="poly" id="edge432_Node000035_Node000068" title=" " alt="" coords="444,2040,463,2053,478,2069,489,2085,498,2117,502,2151,512,2193,627,2520,622,2522,507,2194,497,2152,493,2118,484,2087,474,2072,460,2057,441,2045"/>
+<area shape="rect" id="Node000083" href="$da/d46/classserver_1_1handlers_1_1auth_1_1Exception.html" title=" " alt="" coords="551,2879,715,2919"/>
+<area shape="poly" id="edge447_Node000035_Node000083" title=" " alt="" coords="444,2038,463,2053,476,2072,487,2097,500,2156,506,2227,507,2305,504,2457,506,2522,512,2573,538,2664,569,2751,624,2877,619,2879,564,2753,533,2665,507,2574,500,2522,499,2457,501,2305,500,2228,495,2157,482,2098,472,2075,459,2056,441,2042"/>
+<area shape="rect" id="Node000087" href="$df/d78/classstorages_1_1clickhouse_1_1Cluster_1_1NoAvailablePoolError.html" title="Exception that is thrown if all specified endpoints are unavailable." alt="" coords="522,2943,743,2983"/>
+<area shape="poly" id="edge451_Node000035_Node000087" title=" " alt="" coords="444,2038,463,2053,484,2086,497,2129,504,2178,507,2233,502,2358,489,2492,476,2627,470,2751,472,2806,480,2855,492,2897,511,2929,524,2941,520,2945,507,2932,487,2899,474,2856,467,2807,465,2751,470,2626,483,2492,496,2358,502,2233,499,2178,492,2130,479,2089,459,2056,441,2042"/>
+<area shape="rect" id="Node000088" href="$d5/d4c/classstorages_1_1mysql_1_1MySQLException.html" title="Base class for all uMySQL driver exceptions." alt="" coords="511,3135,754,3161"/>
+<area shape="poly" id="edge452_Node000035_Node000088" title=" " alt="" coords="444,2038,463,2053,475,2077,484,2114,494,2222,499,2362,499,2518,498,2818,502,2929,506,2968,512,2994,534,3037,563,3077,618,3133,614,3137,559,3080,530,3040,507,2996,501,2969,497,2930,493,2818,494,2518,493,2362,489,2222,478,2115,470,2078,459,2056,441,2042"/>
+<area shape="rect" id="Node000094" href="$df/d3d/classstorages_1_1postgres_1_1Error.html" title="Base class for all exceptions that may be thrown by the driver." alt="" coords="561,3185,704,3225"/>
+<area shape="poly" id="edge458_Node000035_Node000094" title=" " alt="" coords="444,2038,463,2053,477,2081,486,2126,494,2256,493,2425,489,2613,484,2801,483,2970,491,3100,499,3144,511,3170,534,3188,562,3199,560,3204,531,3193,507,3174,494,3145,486,3100,478,2970,478,2801,483,2613,488,2425,489,2256,480,2127,472,2083,459,2056,441,2042"/>
+<area shape="rect" id="Node000150" href="$df/de2/classstorages_1_1secdist_1_1SecdistError.html" title=" " alt="" coords="563,3249,703,3289"/>
+<area shape="poly" id="edge514_Node000035_Node000150" title=" " alt="" coords="444,2038,463,2053,477,2083,487,2130,495,2268,494,2447,488,2646,483,2845,481,3024,490,3161,499,3207,511,3236,534,3254,563,3264,561,3269,532,3259,507,3239,494,3209,484,3162,476,3024,477,2845,483,2646,489,2446,490,2268,481,2131,472,2084,459,2056,441,2042"/>
+<area shape="rect" id="Node000155" href="$d5/d55/classtestsuite_1_1TaskAlreadyRunning.html" title=" " alt="" coords="523,3314,742,3339"/>
+<area shape="poly" id="edge519_Node000035_Node000155" title=" " alt="" coords="444,2038,463,2053,478,2084,488,2134,493,2200,496,2280,494,2468,487,2679,481,2889,479,3077,482,3156,488,3221,498,3270,511,3300,526,3312,522,3316,507,3303,492,3272,483,3222,477,3156,474,3077,475,2889,482,2678,489,2468,491,2280,488,2201,482,2135,473,2086,459,2056,441,2042"/>
+<area shape="rect" id="Node000156" href="$d8/d2d/classtestsuite_1_1TaskNotFound.html" title=" " alt="" coords="543,3363,722,3389"/>
+<area shape="poly" id="edge520_Node000035_Node000156" title=" " alt="" coords="444,2038,463,2053,478,2086,488,2137,494,2206,497,2289,495,2485,487,2703,480,2922,478,3117,481,3200,487,3268,497,3318,511,3349,526,3361,544,3370,542,3375,523,3366,507,3352,492,3320,482,3268,476,3200,473,3117,475,2922,482,2703,489,2485,492,2289,489,2206,483,2138,473,2087,459,2056,441,2042"/>
+<area shape="rect" id="Node000157" href="$d6/db9/classutils_1_1datetime_1_1DateParseError.html" title="Date/time parsing error." alt="" coords="537,3413,728,3453"/>
+<area shape="poly" id="edge521_Node000035_Node000157" title=" " alt="" coords="444,2038,463,2053,479,2087,489,2141,496,2212,498,2297,496,2500,489,2727,481,2953,479,3157,481,3242,487,3313,497,3366,512,3398,524,3410,538,3419,536,3423,520,3414,507,3402,492,3368,482,3314,476,3242,473,3157,476,2953,483,2727,491,2500,493,2297,490,2212,484,2141,474,2088,459,2056,441,2042"/>
+<area shape="rect" id="Node000158" href="$d0/d3a/classutils_1_1datetime_1_1TimezoneLookupError.html" title="Timezone information lookup error." alt="" coords="538,3477,727,3517"/>
+<area shape="poly" id="edge522_Node000035_Node000158" title=" " alt="" coords="444,2038,463,2053,480,2088,490,2145,497,2219,500,2309,497,2522,488,2760,480,2997,477,3210,480,3300,486,3374,496,3430,512,3464,524,3475,539,3484,536,3489,521,3480,507,3467,491,3431,481,3375,474,3300,472,3210,475,2997,483,2760,492,2522,494,2309,492,2220,485,2146,475,2090,459,2056,441,2042"/>
+<area shape="rect" id="Node000159" href="$d6/d5a/classutils_1_1statistics_1_1MetricQueryError.html" title="Thrown by statistics::Snapshot queries on unexpected metrics states." alt="" coords="566,3541,699,3581"/>
+<area shape="poly" id="edge523_Node000035_Node000159" title=" " alt="" coords="444,2038,463,2053,480,2090,492,2149,498,2227,501,2321,498,2543,488,2792,479,3040,476,3263,478,3356,485,3434,496,3492,511,3528,536,3547,567,3557,565,3562,533,3551,507,3531,491,3494,480,3435,473,3357,471,3263,474,3040,483,2791,492,2543,495,2321,493,2227,486,2150,475,2092,459,2056,441,2042"/>
+<area shape="rect" id="Node000038" href="$df/d37/classcache_1_1EmptyDataError.html" title=" " alt="" coords="847,1302,1019,1327"/>
+<area shape="poly" id="edge402_Node000037_Node000038" title=" " alt="" coords="711,1456,734,1449,754,1437,765,1425,772,1414,777,1389,783,1363,790,1350,802,1338,823,1326,846,1318,848,1323,825,1330,806,1342,795,1353,788,1365,783,1390,777,1416,770,1429,758,1441,736,1453,712,1461"/>
+<area shape="rect" id="Node000041" href="$dc/d1a/classclients_1_1dns_1_1InvalidConfigException.html" title="Configuration error." alt="" coords="839,1352,1028,1392"/>
+<area shape="poly" id="edge405_Node000040_Node000041" title=" " alt="" coords="747,1541,754,1535,768,1520,774,1504,778,1471,781,1436,788,1419,802,1402,819,1390,837,1381,840,1386,822,1395,806,1406,793,1422,786,1437,783,1471,780,1506,772,1523,758,1539,750,1545"/>
+<area shape="rect" id="Node000042" href="$dd/d02/classclients_1_1dns_1_1NotResolvedException.html" title="Host resolution error." alt="" coords="840,1416,1027,1456"/>
+<area shape="poly" id="edge406_Node000040_Node000042" title=" " alt="" coords="742,1542,754,1535,770,1519,778,1502,786,1483,802,1466,839,1448,841,1453,806,1470,790,1486,783,1504,775,1522,758,1539,744,1547"/>
+<area shape="rect" id="Node000043" href="$d7/da8/classclients_1_1dns_1_1UnsupportedDomainException.html" title="Unsupported domain error." alt="" coords="840,1480,1027,1520"/>
+<area shape="poly" id="edge407_Node000040_Node000043" title=" " alt="" coords="708,1545,755,1535,839,1517,840,1522,757,1540,709,1550"/>
+<area shape="rect" id="Node000046" href="$da/da6/classdecimal64_1_1DivisionByZeroError.html" title="Thrown on division by zero in Decimal arithmetic." alt="" coords="834,1544,1033,1584"/>
+<area shape="poly" id="edge410_Node000045_Node000046" title=" " alt="" coords="736,1659,755,1650,769,1637,778,1623,787,1608,803,1594,833,1579,835,1584,805,1598,791,1611,782,1626,774,1640,757,1654,738,1663"/>
+<area shape="rect" id="Node000047" href="$d2/db9/classdecimal64_1_1OutOfBoundsError.html" title="Thrown on overflow in Decimal arithmetic." alt="" coords="826,1609,1041,1634"/>
+<area shape="poly" id="edge411_Node000045_Node000047" title=" " alt="" coords="714,1660,804,1643,864,1631,865,1637,804,1648,715,1665"/>
+<area shape="rect" id="Node000048" href="$da/d3e/classdecimal64_1_1ParseError.html" title="Thrown on all errors related to parsing Decimal from string." alt="" coords="851,1658,1015,1683"/>
+<area shape="poly" id="edge412_Node000045_Node000048" title=" " alt="" coords="738,1672,851,1670,851,1675,738,1678"/>
+<area shape="rect" id="Node000058" href="$db/d84/classredis_1_1ClientNotConnectedException.html" title="Cannot connect to some redis server shard." alt="" coords="837,1708,1029,1748"/>
+<area shape="poly" id="edge422_Node000057_Node000058" title=" " alt="" coords="709,2166,734,2157,754,2142,772,2119,784,2095,791,2072,794,2049,790,2001,778,1953,767,1905,762,1857,765,1832,771,1807,784,1783,802,1758,818,1745,836,1735,838,1740,821,1749,806,1762,788,1786,776,1809,770,1833,767,1857,772,1904,784,1952,795,2000,799,2049,797,2073,789,2097,777,2122,758,2146,736,2162,711,2171"/>
+<area shape="rect" id="Node000059" href="$d6/da6/classredis_1_1InvalidArgumentException.html" title="Invalid redis command argument." alt="" coords="816,1773,1051,1798"/>
+<area shape="poly" id="edge423_Node000057_Node000059" title=" " alt="" coords="709,2166,734,2157,754,2142,770,2122,781,2102,790,2061,786,2020,777,1978,768,1935,765,1893,767,1872,774,1851,785,1830,802,1809,818,1796,821,1800,806,1813,790,1833,779,1853,773,1873,770,1893,773,1935,782,1977,792,2019,795,2061,786,2104,775,2125,758,2146,736,2162,710,2171"/>
+<area shape="rect" id="Node000060" href="$dc/ddc/classredis_1_1KeyHasNoExpirationException.html" title="Trying to get expiration from a nonexistent or a persistent key." alt="" coords="836,1823,1031,1863"/>
+<area shape="poly" id="edge424_Node000057_Node000060" title=" " alt="" coords="708,2165,733,2157,754,2142,777,2110,785,2077,784,2044,778,2010,772,1976,771,1942,779,1907,802,1873,817,1860,834,1851,837,1856,820,1865,806,1876,784,1909,776,1942,777,1976,783,2010,789,2044,790,2078,781,2112,758,2146,736,2162,710,2170"/>
+<area shape="rect" id="Node000061" href="$d1/d79/classredis_1_1ParseConfigException.html" title="Invalid config format." alt="" coords="832,1887,1035,1913"/>
+<area shape="poly" id="edge425_Node000057_Node000061" title=" " alt="" coords="709,2165,733,2156,754,2142,773,2116,781,2089,781,2062,777,2034,773,2006,774,1977,782,1949,802,1922,830,1904,833,1909,806,1926,787,1952,779,1978,779,2006,782,2033,786,2062,786,2090,778,2118,758,2146,736,2161,710,2170"/>
+<area shape="rect" id="Node000062" href="$d3/da8/classredis_1_1ParseReplyException.html" title="Invalid reply data format." alt="" coords="834,1937,1033,1962"/>
+<area shape="poly" id="edge426_Node000057_Node000062" title=" " alt="" coords="709,2164,733,2156,754,2142,770,2122,777,2102,777,2058,777,2014,785,1992,802,1971,832,1954,835,1958,806,1975,790,1995,783,2015,782,2058,782,2103,775,2125,758,2146,736,2161,711,2169"/>
+<area shape="rect" id="Node000063" href="$d7/d1d/classredis_1_1RequestCancelledException.html" title="Request was cancelled." alt="" coords="812,1986,1055,2011"/>
+<area shape="poly" id="edge427_Node000057_Node000063" title=" " alt="" coords="709,2163,733,2155,754,2142,767,2128,773,2114,777,2083,781,2051,789,2035,802,2021,820,2009,823,2014,806,2025,793,2038,786,2053,783,2084,778,2115,771,2131,758,2146,735,2160,710,2168"/>
+<area shape="rect" id="Node000064" href="$dc/d8b/classredis_1_1RequestFailedException.html" title="Request execution failed." alt="" coords="825,2035,1042,2061"/>
+<area shape="poly" id="edge428_Node000057_Node000064" title=" " alt="" coords="709,2160,733,2153,754,2142,770,2126,777,2108,785,2089,802,2071,828,2058,830,2063,806,2075,790,2092,782,2110,775,2128,758,2146,735,2158,711,2165"/>
+<area shape="rect" id="Node000065" href="$da/dd8/classstorages_1_1redis_1_1EmptyTransactionException.html" title=" " alt="" coords="812,2085,1055,2125"/>
+<area shape="poly" id="edge429_Node000057_Node000065" title=" " alt="" coords="709,2151,755,2141,841,2123,842,2128,757,2147,710,2156"/>
+<area shape="rect" id="Node000066" href="$d2/de6/classstorages_1_1redis_1_1NotStartedTransactionException.html" title=" " alt="" coords="835,2149,1031,2189"/>
+<area shape="poly" id="edge430_Node000057_Node000066" title=" " alt="" coords="710,2167,835,2167,835,2172,710,2172"/>
+<area shape="rect" id="Node000067" href="$d5/d22/classstorages_1_1redis_1_1ScanRequest_1_1GetAfterEofException.html" title=" " alt="" coords="805,2213,1062,2253"/>
+<area shape="poly" id="edge431_Node000057_Node000067" title=" " alt="" coords="707,2182,839,2211,838,2216,706,2187"/>
+<area shape="rect" id="Node000069" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="826,2278,1041,2333"/>
+<area shape="poly" id="edge433_Node000068_Node000069" title=" " alt="" coords="651,2508,677,2470,712,2425,754,2380,803,2342,824,2330,827,2334,805,2346,758,2384,716,2428,681,2473,655,2511"/>
+<area shape="rect" id="Node000071" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="804,2357,1063,2411"/>
+<area shape="poly" id="edge435_Node000068_Node000071" title=" " alt="" coords="667,2510,728,2465,803,2420,830,2409,832,2414,805,2425,731,2469,670,2515"/>
+<area shape="rect" id="Node000073" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="826,2435,1041,2490"/>
+<area shape="poly" id="edge437_Node000068_Node000073" title=" " alt="" coords="722,2515,827,2488,829,2493,724,2520"/>
+<area shape="rect" id="Node000075" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="826,2514,1041,2569"/>
+<area shape="poly" id="edge439_Node000068_Node000075" title=" " alt="" coords="739,2539,826,2539,826,2544,739,2544"/>
+<area shape="rect" id="Node000077" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="826,2593,1041,2647"/>
+<area shape="poly" id="edge441_Node000068_Node000077" title=" " alt="" coords="724,2562,829,2590,827,2595,722,2567"/>
+<area shape="rect" id="Node000079" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="826,2671,1041,2726"/>
+<area shape="poly" id="edge443_Node000068_Node000079" title=" " alt="" coords="670,2568,732,2613,805,2656,835,2669,833,2674,803,2661,729,2617,667,2572"/>
+<area shape="rect" id="Node000081" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title="Base class for handler exceptions. For common HandlerErrorCode values you can use more specific excep..." alt="" coords="834,2751,1033,2791"/>
+<area shape="poly" id="edge445_Node000068_Node000081" title=" " alt="" coords="655,2571,680,2609,715,2654,757,2698,805,2735,835,2749,833,2754,803,2740,754,2702,711,2657,676,2613,650,2574"/>
+<area shape="rect" id="Node000082" href="$d1/dc3/classserver_1_1http_1_1CustomHandlerException.html" title="An extension of server::handlers::CustomHandlerException that allows to specify a custom HttpStatus." alt="" coords="830,2815,1037,2855"/>
+<area shape="poly" id="edge446_Node000068_Node000082" title=" " alt="" coords="648,2573,671,2624,704,2686,749,2748,776,2776,805,2800,831,2814,828,2819,803,2805,772,2780,745,2751,700,2688,666,2626,643,2575"/>
+<area shape="rect" id="Node000070" href="$db/d63/classserver_1_1handlers_1_1ClientError.html" title=" " alt="" coords="1147,2285,1320,2325"/>
+<area shape="poly" id="edge434_Node000069_Node000070" title=" " alt="" coords="1054,2303,1146,2303,1146,2308,1054,2308"/>
+<area shape="rect" id="Node000072" href="$db/d1c/classserver_1_1handlers_1_1ConflictError.html" title=" " alt="" coords="1141,2364,1325,2404"/>
+<area shape="poly" id="edge436_Node000071_Node000072" title=" " alt="" coords="1077,2381,1141,2381,1141,2387,1077,2387"/>
+<area shape="rect" id="Node000074" href="$d3/d98/classserver_1_1handlers_1_1InternalServerError.html" title=" " alt="" coords="1141,2443,1326,2483"/>
+<area shape="poly" id="edge438_Node000073_Node000074" title=" " alt="" coords="1054,2460,1140,2460,1140,2465,1054,2465"/>
+<area shape="rect" id="Node000076" href="$d4/ddf/classserver_1_1handlers_1_1RequestParseError.html" title=" " alt="" coords="1139,2521,1327,2561"/>
+<area shape="poly" id="edge440_Node000075_Node000076" title=" " alt="" coords="1054,2539,1139,2539,1139,2544,1054,2544"/>
+<area shape="rect" id="Node000078" href="$d2/d91/classserver_1_1handlers_1_1ResourceNotFound.html" title=" " alt="" coords="1136,2592,1331,2632"/>
+<area shape="poly" id="edge442_Node000077_Node000078" title=" " alt="" coords="1054,2614,1136,2612,1136,2617,1054,2619"/>
+<area shape="rect" id="Node000080" href="$d1/d7b/classserver_1_1handlers_1_1Unauthorized.html" title=" " alt="" coords="1122,2657,1345,2682"/>
+<area shape="poly" id="edge444_Node000079_Node000080" title=" " alt="" coords="1054,2684,1122,2678,1122,2683,1055,2689"/>
+<area shape="rect" id="Node000084" href="$d8/d63/classserver_1_1handlers_1_1auth_1_1DuplicateDirectiveException.html" title=" " alt="" coords="826,2879,1041,2919"/>
+<area shape="poly" id="edge448_Node000083_Node000084" title=" " alt="" coords="729,2896,826,2896,826,2901,729,2901"/>
+<area shape="rect" id="Node000085" href="$d3/d41/classserver_1_1handlers_1_1auth_1_1MissingDirectivesException.html" title=" " alt="" coords="828,2943,1039,2983"/>
+<area shape="poly" id="edge449_Node000083_Node000085" title=" " alt="" coords="729,2916,839,2940,838,2945,728,2922"/>
+<area shape="rect" id="Node000086" href="$d3/d61/classserver_1_1handlers_1_1auth_1_1ParseException.html" title=" " alt="" coords="851,3007,1015,3047"/>
+<area shape="poly" id="edge450_Node000083_Node000086" title=" " alt="" coords="729,2914,758,2929,774,2945,782,2962,790,2978,806,2993,828,3004,852,3013,850,3018,826,3009,802,2997,786,2981,778,2964,770,2948,754,2933,726,2919"/>
+<area shape="rect" id="Node000089" href="$d5/d5f/classstorages_1_1mysql_1_1MySQLCommandException.html" title="Command exception &#45; something went wrong with the command." alt="" coords="810,3071,1057,3111"/>
+<area shape="poly" id="edge453_Node000088_Node000089" title=" " alt="" coords="713,3130,827,3108,829,3113,714,3135"/>
+<area shape="rect" id="Node000090" href="$d1/d7d/classstorages_1_1mysql_1_1MySQLIOException.html" title="IO exception (read/write timeout/cancelled)" alt="" coords="805,3135,1062,3161"/>
+<area shape="poly" id="edge454_Node000088_Node000090" title=" " alt="" coords="768,3145,804,3145,804,3151,768,3151"/>
+<area shape="rect" id="Node000091" href="$d3/d16/classstorages_1_1mysql_1_1MySQLStatementException.html" title="Statement exception &#45; something went wrong with the statement." alt="" coords="810,3185,1057,3225"/>
+<area shape="poly" id="edge455_Node000088_Node000091" title=" " alt="" coords="714,3161,829,3183,827,3188,713,3166"/>
+<area shape="rect" id="Node000092" href="$dc/db5/classstorages_1_1mysql_1_1MySQLTransactionException.html" title="Transaction exception &#45; something went wrong with the transaction." alt="" coords="807,3249,1059,3289"/>
+<area shape="poly" id="edge456_Node000088_Node000092" title=" " alt="" coords="744,3164,758,3171,774,3187,783,3204,790,3220,806,3235,827,3247,825,3252,802,3239,786,3223,778,3206,770,3190,754,3175,741,3168"/>
+<area shape="rect" id="Node000093" href="$d3/d2d/classstorages_1_1mysql_1_1MySQLValidationException.html" title=" " alt="" coords="812,3313,1055,3353"/>
+<area shape="poly" id="edge457_Node000088_Node000093" title=" " alt="" coords="750,3165,758,3171,772,3187,779,3204,783,3237,786,3269,793,3284,806,3299,822,3311,819,3315,802,3303,789,3287,781,3271,778,3237,774,3205,767,3190,754,3175,747,3170"/>
+<area shape="rect" id="Node000095" href="$d4/d74/classstorages_1_1postgres_1_1LogicError.html" title="Base Postgres logic error. Reports errors that are consequences of erroneous driver usage,..." alt="" coords="862,3377,1005,3417"/>
+<area shape="poly" id="edge459_Node000094_Node000095" title=" " alt="" coords="718,3213,739,3222,758,3235,771,3251,779,3268,783,3301,786,3333,793,3348,806,3363,832,3380,863,3390,861,3395,830,3385,802,3367,789,3351,781,3335,777,3302,774,3270,767,3254,754,3239,737,3227,716,3218"/>
+<area shape="rect" id="Node000136" href="$d6/d97/classstorages_1_1postgres_1_1RuntimeError.html" title="Base Postgres runtime error. Reports errors that are consequences of erroneous data,..." alt="" coords="862,3633,1005,3673"/>
+<area shape="poly" id="edge500_Node000094_Node000136" title=" " alt="" coords="719,3212,740,3222,758,3235,777,3259,787,3281,792,3304,794,3326,794,3373,798,3400,806,3428,834,3488,866,3546,920,3632,916,3635,861,3548,829,3491,802,3430,792,3401,789,3374,788,3326,787,3304,782,3283,772,3262,754,3239,737,3226,717,3217"/>
+<area shape="rect" id="Node000096" href="$d6/d1b/classstorages_1_1postgres_1_1ArrayError.html" title="Base error when working with array types." alt="" coords="1162,2707,1305,2747"/>
+<area shape="poly" id="edge460_Node000095_Node000096" title=" " alt="" coords="1017,3390,1041,3380,1061,3364,1074,3342,1084,3313,1092,3241,1091,3155,1084,3062,1078,2969,1076,2883,1085,2810,1094,2780,1109,2757,1132,2738,1161,2728,1163,2733,1135,2743,1113,2760,1099,2783,1090,2811,1082,2883,1083,2969,1090,3062,1096,3155,1097,3242,1089,3314,1079,3344,1065,3367,1044,3384,1019,3395"/>
+<area shape="rect" id="Node000099" href="$dc/d02/classstorages_1_1postgres_1_1BitStringError.html" title="Base error when working with bit string types." alt="" coords="1162,2771,1305,2811"/>
+<area shape="poly" id="edge463_Node000095_Node000099" title=" " alt="" coords="1017,3389,1041,3380,1061,3364,1072,3345,1081,3322,1090,3262,1091,3190,1088,3112,1084,3033,1084,2960,1091,2897,1098,2871,1109,2850,1133,2826,1162,2809,1165,2813,1136,2830,1113,2854,1103,2873,1096,2898,1089,2960,1089,3033,1093,3111,1096,3190,1095,3262,1086,3323,1077,3347,1065,3367,1044,3384,1019,3394"/>
+<area shape="rect" id="Node000102" href="$d5/d44/classstorages_1_1postgres_1_1BoundedRangeError.html" title="PostgreSQL range type has at least one end unbound." alt="" coords="1154,2864,1313,2904"/>
+<area shape="poly" id="edge466_Node000095_Node000102" title=" " alt="" coords="1017,3389,1041,3379,1061,3363,1081,3336,1095,3308,1102,3280,1105,3253,1099,3197,1084,3142,1070,3086,1064,3029,1066,3001,1074,2972,1088,2943,1109,2914,1129,2898,1153,2888,1155,2893,1132,2902,1113,2918,1092,2946,1079,2974,1072,3002,1069,3029,1075,3085,1090,3140,1104,3196,1110,3253,1107,3281,1100,3310,1086,3338,1065,3367,1044,3384,1019,3394"/>
+<area shape="rect" id="Node000103" href="$d8/d70/classstorages_1_1postgres_1_1EnumerationError.html" title=" " alt="" coords="1161,2928,1305,2968"/>
+<area shape="poly" id="edge467_Node000095_Node000103" title=" " alt="" coords="1017,3389,1041,3379,1061,3364,1087,3325,1098,3288,1099,3251,1094,3213,1087,3175,1084,3134,1090,3091,1108,3045,1126,3021,1148,2999,1193,2966,1196,2970,1151,3003,1130,3024,1113,3048,1095,3092,1089,3134,1092,3174,1099,3212,1104,3251,1103,3289,1092,3327,1065,3367,1043,3384,1019,3394"/>
+<area shape="rect" id="Node000106" href="$d9/d89/classstorages_1_1postgres_1_1InvalidInputFormat.html" title="Invalid format for input data." alt="" coords="1157,3059,1310,3099"/>
+<area shape="poly" id="edge470_Node000095_Node000106" title=" " alt="" coords="1017,3388,1041,3379,1061,3363,1082,3333,1090,3302,1089,3270,1084,3239,1079,3206,1079,3174,1087,3141,1109,3109,1130,3092,1155,3082,1157,3087,1133,3097,1113,3112,1092,3143,1084,3175,1084,3206,1090,3238,1095,3270,1095,3302,1087,3335,1065,3367,1044,3383,1019,3393"/>
+<area shape="rect" id="Node000107" href="$d6/d97/classstorages_1_1postgres_1_1IpAddressError.html" title=" " alt="" coords="1162,3123,1305,3163"/>
+<area shape="poly" id="edge471_Node000095_Node000107" title=" " alt="" coords="1017,3388,1041,3378,1061,3363,1078,3341,1085,3318,1086,3294,1084,3270,1082,3246,1083,3222,1091,3197,1109,3173,1133,3156,1161,3146,1163,3151,1136,3160,1113,3177,1096,3199,1089,3222,1087,3246,1089,3270,1091,3294,1090,3319,1082,3343,1065,3367,1043,3383,1019,3392"/>
+<area shape="rect" id="Node000109" href="$d2/d9d/classstorages_1_1postgres_1_1NotImplemented.html" title=" " alt="" coords="1162,3187,1305,3227"/>
+<area shape="poly" id="edge473_Node000095_Node000109" title=" " alt="" coords="1017,3386,1040,3377,1061,3363,1074,3349,1080,3334,1084,3302,1088,3269,1095,3253,1109,3237,1133,3221,1161,3211,1162,3216,1136,3225,1112,3241,1100,3255,1093,3271,1089,3302,1085,3335,1078,3351,1064,3367,1043,3382,1019,3391"/>
+<area shape="rect" id="Node000110" href="$d2/d86/classstorages_1_1postgres_1_1NumericError.html" title=" " alt="" coords="1162,3251,1305,3291"/>
+<area shape="poly" id="edge474_Node000095_Node000110" title=" " alt="" coords="1017,3378,1062,3363,1086,3348,1109,3331,1189,3288,1192,3293,1112,3336,1089,3353,1064,3368,1019,3383"/>
+<area shape="rect" id="Node000114" href="$d5/d9d/classstorages_1_1postgres_1_1ResultSetError.html" title=" " alt="" coords="1162,3345,1305,3385"/>
+<area shape="poly" id="edge478_Node000095_Node000114" title=" " alt="" coords="1018,3386,1162,3370,1162,3376,1019,3391"/>
+<area shape="rect" id="Node000129" href="$da/d65/classstorages_1_1postgres_1_1TransactionError.html" title=" " alt="" coords="1162,3409,1305,3449"/>
+<area shape="poly" id="edge493_Node000095_Node000129" title=" " alt="" coords="1019,3404,1162,3419,1162,3424,1018,3409"/>
+<area shape="rect" id="Node000132" href="$d3/db3/classstorages_1_1postgres_1_1UnsupportedInterval.html" title=" " alt="" coords="1152,3473,1315,3513"/>
+<area shape="poly" id="edge496_Node000095_Node000132" title=" " alt="" coords="999,3420,1111,3459,1152,3471,1151,3476,1110,3464,998,3425"/>
+<area shape="rect" id="Node000133" href="$d8/d1c/classstorages_1_1postgres_1_1UserTypeError.html" title="Base error when working with mapped types." alt="" coords="1162,3537,1305,3577"/>
+<area shape="poly" id="edge497_Node000095_Node000133" title=" " alt="" coords="969,3424,1032,3475,1071,3501,1112,3523,1163,3541,1161,3546,1110,3528,1068,3505,1029,3479,965,3429"/>
+<area shape="rect" id="Node000097" href="$d7/d98/classstorages_1_1postgres_1_1DimensionMismatch.html" title="Array received from postgres has different dimensions from those of C++ container." alt="" coords="1446,2321,1610,2361"/>
+<area shape="poly" id="edge461_Node000096_Node000097" title=" " alt="" coords="1317,2715,1337,2706,1354,2691,1369,2672,1379,2652,1388,2613,1385,2573,1377,2534,1369,2494,1367,2453,1376,2412,1386,2392,1402,2371,1422,2356,1445,2346,1447,2351,1425,2360,1406,2375,1391,2395,1381,2414,1372,2454,1374,2493,1382,2533,1390,2573,1393,2613,1384,2654,1373,2675,1358,2695,1340,2710,1319,2720"/>
+<area shape="rect" id="Node000098" href="$da/d07/classstorages_1_1postgres_1_1InvalidDimensions.html" title=" " alt="" coords="1453,2385,1603,2425"/>
+<area shape="poly" id="edge462_Node000096_Node000098" title=" " alt="" coords="1316,2715,1337,2705,1354,2692,1375,2660,1383,2629,1382,2597,1377,2566,1372,2533,1372,2501,1380,2468,1402,2435,1425,2419,1451,2408,1453,2413,1427,2423,1406,2439,1385,2470,1377,2501,1377,2533,1382,2565,1387,2597,1388,2630,1380,2662,1358,2695,1340,2710,1319,2720"/>
+<area shape="rect" id="Node000100" href="$da/d9a/classstorages_1_1postgres_1_1BitStringOverflow.html" title="Value in PostgreSQL binary buffer cannot be represented by a given C++ type." alt="" coords="1456,2449,1600,2489"/>
+<area shape="poly" id="edge464_Node000099_Node000100" title=" " alt="" coords="1316,2780,1337,2770,1354,2757,1375,2726,1383,2694,1382,2662,1377,2630,1372,2598,1372,2565,1380,2532,1402,2499,1427,2482,1455,2471,1457,2476,1429,2486,1406,2503,1385,2534,1377,2566,1377,2597,1383,2630,1388,2662,1388,2695,1380,2728,1358,2760,1340,2775,1319,2785"/>
+<area shape="rect" id="Node000101" href="$d5/d1b/classstorages_1_1postgres_1_1InvalidBitStringRepresentation.html" title="Value in PostgreSQL binary buffer cannot be represented as bit string type." alt="" coords="1413,2513,1643,2553"/>
+<area shape="poly" id="edge465_Node000099_Node000101" title=" " alt="" coords="1317,2779,1337,2770,1354,2757,1371,2734,1378,2710,1379,2686,1377,2662,1375,2638,1376,2613,1384,2588,1402,2563,1417,2551,1421,2556,1406,2567,1389,2590,1382,2614,1381,2637,1383,2662,1385,2686,1384,2711,1376,2736,1358,2761,1340,2774,1319,2784"/>
+<area shape="rect" id="Node000104" href="$d0/d05/classstorages_1_1postgres_1_1InvalidEnumerationLiteral.html" title=" " alt="" coords="1429,2577,1627,2617"/>
+<area shape="poly" id="edge468_Node000103_Node000104" title=" " alt="" coords="1318,2937,1337,2928,1354,2914,1377,2879,1385,2844,1384,2809,1377,2773,1371,2737,1369,2701,1378,2664,1402,2627,1427,2609,1430,2614,1406,2631,1383,2666,1375,2701,1376,2736,1383,2772,1389,2808,1391,2845,1382,2881,1358,2918,1340,2932,1320,2942"/>
+<area shape="rect" id="Node000105" href="$da/dc8/classstorages_1_1postgres_1_1InvalidEnumerationValue.html" title=" " alt="" coords="1431,2641,1625,2681"/>
+<area shape="poly" id="edge469_Node000103_Node000105" title=" " alt="" coords="1318,2936,1337,2927,1354,2914,1373,2887,1381,2860,1381,2833,1377,2805,1374,2777,1374,2748,1382,2720,1402,2691,1429,2673,1433,2677,1406,2695,1387,2722,1379,2749,1379,2776,1383,2804,1386,2833,1386,2861,1378,2890,1358,2918,1340,2932,1320,2941"/>
+<area shape="rect" id="Node000108" href="$de/dc0/classstorages_1_1postgres_1_1IpAddressInvalidFormat.html" title=" " alt="" coords="1436,2705,1620,2745"/>
+<area shape="poly" id="edge472_Node000107_Node000108" title=" " alt="" coords="1317,3132,1337,3123,1354,3109,1370,3087,1381,3065,1388,3044,1390,3022,1387,2978,1377,2935,1368,2890,1364,2846,1367,2823,1374,2801,1385,2778,1402,2756,1417,2743,1435,2733,1437,2738,1420,2747,1406,2759,1390,2781,1379,2803,1372,2824,1370,2846,1373,2890,1383,2933,1392,2978,1396,3022,1393,3045,1386,3067,1375,3090,1358,3113,1340,3127,1319,3137"/>
+<area shape="rect" id="Node000111" href="$da/d3b/classstorages_1_1postgres_1_1InvalidRepresentation.html" title="Integral representation for a numeric contains invalid data." alt="" coords="1441,2769,1615,2809"/>
+<area shape="poly" id="edge475_Node000110_Node000111" title=" " alt="" coords="1317,3260,1337,3251,1354,3237,1373,3211,1386,3185,1393,3159,1395,3134,1390,3082,1377,3031,1365,2979,1359,2926,1362,2900,1369,2873,1382,2846,1402,2820,1420,2805,1440,2795,1442,2800,1422,2809,1406,2823,1387,2849,1374,2875,1367,2901,1365,2926,1370,2978,1383,3029,1395,3081,1401,3134,1398,3160,1391,3187,1378,3214,1358,3240,1340,3256,1319,3265"/>
+<area shape="rect" id="Node000112" href="$d0/d40/classstorages_1_1postgres_1_1NumericOverflow.html" title="Value in PostgreSQL binary buffer cannot be represented by a given C++ type." alt="" coords="1457,2833,1599,2873"/>
+<area shape="poly" id="edge476_Node000110_Node000112" title=" " alt="" coords="1317,3260,1337,3251,1354,3237,1370,3215,1381,3193,1388,3172,1390,3150,1387,3106,1377,3063,1368,3018,1364,2974,1367,2951,1374,2929,1385,2906,1402,2883,1426,2865,1455,2855,1457,2860,1429,2870,1406,2887,1390,2909,1379,2931,1372,2952,1370,2974,1373,3018,1383,3061,1392,3106,1396,3150,1393,3173,1386,3195,1375,3218,1358,3241,1340,3255,1319,3265"/>
+<area shape="rect" id="Node000113" href="$d0/dee/classstorages_1_1postgres_1_1ValueIsNaN.html" title=" " alt="" coords="1457,2897,1599,2937"/>
+<area shape="poly" id="edge477_Node000110_Node000113" title=" " alt="" coords="1317,3260,1337,3251,1354,3237,1377,3201,1386,3166,1384,3130,1377,3094,1371,3058,1369,3021,1378,2984,1402,2948,1427,2929,1455,2919,1457,2924,1429,2934,1406,2951,1383,2987,1374,3022,1376,3057,1383,3093,1389,3130,1391,3167,1382,3204,1358,3240,1340,3255,1319,3265"/>
+<area shape="rect" id="Node000115" href="$d3/d1e/classstorages_1_1postgres_1_1FieldIndexOutOfBounds.html" title="Result set has less columns that the requested index." alt="" coords="1437,2961,1619,3001"/>
+<area shape="poly" id="edge479_Node000114_Node000115" title=" " alt="" coords="1310,3337,1334,3321,1354,3301,1374,3263,1381,3226,1379,3190,1373,3155,1368,3120,1368,3084,1377,3048,1402,3012,1417,2999,1435,2990,1437,2994,1420,3003,1406,3015,1382,3050,1373,3085,1373,3119,1378,3154,1384,3190,1386,3227,1379,3265,1358,3304,1338,3325,1313,3341"/>
+<area shape="rect" id="Node000116" href="$d5/db8/classstorages_1_1postgres_1_1FieldNameDoesntExist.html" title="Result set doesn&#39;t have field with the requested name." alt="" coords="1439,3025,1617,3065"/>
+<area shape="poly" id="edge480_Node000114_Node000116" title=" " alt="" coords="1309,3337,1333,3321,1354,3301,1371,3272,1377,3243,1377,3215,1374,3188,1371,3160,1373,3132,1382,3104,1402,3075,1418,3062,1437,3053,1440,3058,1421,3067,1406,3079,1387,3106,1378,3133,1377,3160,1379,3187,1382,3215,1382,3244,1375,3274,1358,3304,1337,3325,1312,3342"/>
+<area shape="rect" id="Node000117" href="$d9/de9/classstorages_1_1postgres_1_1FieldTupleMismatch.html" title="A row was requested to be parsed based on field names/indexed, the count of names/indexes doesn&#39;t mat..." alt="" coords="1449,3089,1607,3129"/>
+<area shape="poly" id="edge481_Node000114_Node000117" title=" " alt="" coords="1307,3337,1332,3321,1354,3301,1367,3280,1373,3260,1375,3220,1378,3180,1386,3159,1402,3139,1423,3124,1447,3115,1449,3120,1426,3129,1406,3143,1391,3162,1383,3181,1380,3220,1379,3261,1372,3282,1358,3304,1336,3325,1310,3341"/>
+<area shape="rect" id="Node000118" href="$d8/d2e/classstorages_1_1postgres_1_1FieldValueIsNull.html" title="Data extraction from a null field value to a non&#45;nullable type requested." alt="" coords="1457,3153,1599,3193"/>
+<area shape="poly" id="edge482_Node000114_Node000118" title=" " alt="" coords="1302,3337,1329,3321,1354,3301,1370,3276,1376,3252,1383,3227,1402,3203,1428,3188,1455,3178,1457,3183,1430,3193,1406,3207,1388,3230,1381,3253,1375,3278,1358,3304,1333,3325,1304,3342"/>
+<area shape="rect" id="Node000119" href="$df/dd8/classstorages_1_1postgres_1_1InvalidBinaryBuffer.html" title="Binary buffer contains invalid data. Can occur when parsing binary buffers containing multiple fields..." alt="" coords="1451,3217,1605,3257"/>
+<area shape="poly" id="edge483_Node000114_Node000119" title=" " alt="" coords="1288,3337,1355,3300,1378,3283,1403,3267,1450,3250,1452,3255,1405,3272,1381,3287,1357,3305,1290,3341"/>
+<area shape="rect" id="Node000120" href="$da/d14/classstorages_1_1postgres_1_1InvalidInputBufferSize.html" title="Buffer size is invalid for a fixed&#45;size type. Can occur when a wrong field type is requested for repl..." alt="" coords="1441,3281,1615,3321"/>
+<area shape="poly" id="edge484_Node000114_Node000120" title=" " alt="" coords="1318,3344,1440,3318,1441,3323,1319,3350"/>
+<area shape="rect" id="Node000121" href="$d5/d0d/classstorages_1_1postgres_1_1InvalidParserCategory.html" title="Field buffer contains different category of data than expected by data parser." alt="" coords="1441,3345,1615,3385"/>
+<area shape="poly" id="edge485_Node000114_Node000121" title=" " alt="" coords="1319,3363,1441,3363,1441,3368,1319,3368"/>
+<area shape="rect" id="Node000122" href="$da/d37/classstorages_1_1postgres_1_1InvalidTupleSizeRequested.html" title="A tuple was requested to be parsed out of a row that doesn&#39;t have enough fields." alt="" coords="1426,3409,1630,3449"/>
+<area shape="poly" id="edge486_Node000114_Node000122" title=" " alt="" coords="1319,3381,1436,3407,1435,3412,1318,3386"/>
+<area shape="rect" id="Node000123" href="$dd/d9a/classstorages_1_1postgres_1_1NoBinaryParser.html" title="A field in a result set doesn&#39;t have a binary parser." alt="" coords="1457,3473,1599,3513"/>
+<area shape="poly" id="edge487_Node000114_Node000123" title=" " alt="" coords="1319,3377,1358,3395,1374,3411,1382,3428,1390,3444,1406,3459,1430,3472,1457,3481,1456,3486,1428,3477,1402,3463,1386,3447,1378,3431,1370,3414,1354,3400,1317,3382"/>
+<area shape="rect" id="Node000124" href="$d1/d0b/classstorages_1_1postgres_1_1NonSingleColumnResultSet.html" title="A row or result set requested to be treated as a single column, but contains more than one column." alt="" coords="1424,3537,1632,3577"/>
+<area shape="poly" id="edge488_Node000114_Node000124" title=" " alt="" coords="1319,3374,1339,3382,1358,3395,1371,3411,1379,3428,1383,3461,1386,3493,1393,3508,1406,3523,1425,3537,1422,3541,1402,3527,1389,3511,1381,3495,1377,3462,1374,3430,1367,3414,1354,3399,1337,3387,1317,3378"/>
+<area shape="rect" id="Node000125" href="$da/d2a/classstorages_1_1postgres_1_1NonSingleRowResultSet.html" title="A result set containing a single row was expected." alt="" coords="1435,3601,1621,3641"/>
+<area shape="poly" id="edge489_Node000114_Node000125" title=" " alt="" coords="1319,3372,1340,3382,1358,3395,1376,3420,1383,3444,1385,3469,1383,3494,1381,3518,1382,3541,1389,3564,1406,3587,1436,3607,1433,3611,1402,3591,1384,3567,1376,3542,1375,3518,1377,3493,1379,3469,1378,3445,1371,3422,1354,3399,1337,3386,1317,3377"/>
+<area shape="rect" id="Node000126" href="$db/dea/classstorages_1_1postgres_1_1RowIndexOutOfBounds.html" title="Result set has less rows than the requested row index." alt="" coords="1438,3665,1618,3705"/>
+<area shape="poly" id="edge490_Node000114_Node000126" title=" " alt="" coords="1319,3371,1340,3381,1358,3396,1380,3428,1388,3461,1388,3493,1383,3526,1378,3558,1377,3589,1385,3620,1406,3652,1421,3664,1439,3673,1436,3677,1418,3668,1402,3655,1380,3623,1372,3590,1372,3557,1377,3525,1382,3493,1383,3461,1375,3430,1354,3399,1337,3386,1316,3376"/>
+<area shape="rect" id="Node000127" href="$d7/df0/classstorages_1_1postgres_1_1TypeCannotBeNull.html" title="A value of a non&#45;nullable type requested to be set null. Can occur if io::traits::IsNullable for the ..." alt="" coords="1453,3729,1603,3769"/>
+<area shape="poly" id="edge491_Node000114_Node000127" title=" " alt="" coords="1319,3371,1340,3381,1358,3395,1374,3416,1384,3437,1393,3477,1391,3518,1383,3558,1375,3598,1372,3637,1381,3676,1391,3696,1406,3715,1428,3732,1454,3742,1452,3747,1425,3737,1402,3719,1386,3699,1376,3678,1367,3637,1369,3597,1377,3557,1385,3517,1388,3478,1379,3438,1369,3419,1354,3399,1337,3385,1317,3376"/>
+<area shape="rect" id="Node000128" href="$dc/dd7/classstorages_1_1postgres_1_1UnknownBufferCategory.html" title="While checking result set types, failed to determine the buffer category for a type oid...." alt="" coords="1433,3793,1623,3833"/>
+<area shape="poly" id="edge492_Node000114_Node000128" title=" " alt="" coords="1319,3371,1340,3381,1358,3396,1376,3420,1388,3445,1395,3469,1398,3494,1394,3542,1383,3590,1371,3638,1367,3685,1370,3708,1377,3732,1388,3756,1406,3780,1419,3791,1435,3800,1432,3804,1416,3795,1402,3783,1384,3759,1372,3734,1365,3709,1362,3685,1366,3637,1377,3589,1388,3541,1393,3494,1390,3470,1383,3447,1372,3423,1354,3399,1337,3385,1317,3376"/>
+<area shape="rect" id="Node000130" href="$dd/d03/classstorages_1_1postgres_1_1AlreadyInTransaction.html" title=" " alt="" coords="1445,3857,1611,3897"/>
+<area shape="poly" id="edge494_Node000129_Node000130" title=" " alt="" coords="1319,3435,1340,3445,1358,3460,1376,3484,1388,3509,1395,3533,1398,3558,1394,3606,1383,3654,1371,3702,1367,3749,1370,3772,1377,3796,1388,3820,1406,3843,1424,3858,1446,3868,1443,3873,1421,3863,1402,3847,1384,3823,1372,3798,1365,3773,1362,3749,1366,3701,1377,3653,1388,3605,1393,3558,1390,3534,1383,3511,1372,3487,1354,3463,1337,3449,1317,3440"/>
+<area shape="rect" id="Node000131" href="$d8/dcd/classstorages_1_1postgres_1_1NotInTransaction.html" title=" " alt="" coords="1457,3921,1599,3961"/>
+<area shape="poly" id="edge495_Node000129_Node000131" title=" " alt="" coords="1319,3435,1340,3444,1358,3460,1379,3488,1393,3517,1400,3546,1403,3574,1397,3630,1383,3686,1368,3741,1362,3797,1365,3824,1372,3852,1386,3880,1406,3907,1429,3925,1457,3935,1456,3940,1427,3930,1402,3911,1381,3882,1367,3854,1360,3825,1357,3797,1363,3740,1377,3685,1391,3629,1398,3574,1395,3547,1388,3519,1374,3491,1354,3463,1337,3449,1317,3439"/>
+<area shape="rect" id="Node000134" href="$d4/dcf/classstorages_1_1postgres_1_1CompositeMemberTypeMismatch.html" title="PostgreSQL composite type has different member type that the C++ mapping suggests." alt="" coords="1404,3985,1652,4025"/>
+<area shape="poly" id="edge498_Node000133_Node000134" title=" " alt="" coords="1319,3563,1340,3573,1358,3588,1376,3612,1388,3637,1395,3661,1398,3686,1394,3734,1383,3782,1371,3830,1367,3877,1370,3900,1377,3924,1388,3948,1406,3972,1419,3983,1415,3987,1402,3975,1384,3951,1372,3926,1365,3901,1362,3877,1366,3829,1377,3781,1388,3733,1393,3686,1390,3662,1383,3639,1372,3615,1354,3591,1337,3577,1317,3568"/>
+<area shape="rect" id="Node000135" href="$de/dee/classstorages_1_1postgres_1_1CompositeSizeMismatch.html" title="PostgreSQL composite type has different count of members from the C++ counterpart." alt="" coords="1433,4049,1623,4089"/>
+<area shape="poly" id="edge499_Node000133_Node000135" title=" " alt="" coords="1319,3563,1340,3572,1358,3588,1379,3616,1393,3645,1400,3674,1403,3702,1397,3758,1383,3814,1368,3869,1362,3925,1365,3952,1372,3980,1386,4008,1406,4036,1419,4047,1434,4055,1431,4060,1416,4051,1402,4039,1381,4010,1367,3982,1360,3953,1357,3925,1363,3868,1377,3813,1391,3757,1398,3702,1395,3675,1388,3647,1374,3619,1354,3591,1337,3577,1317,3567"/>
+<area shape="rect" id="Node000137" href="$d1/df6/classstorages_1_1postgres_1_1ClusterError.html" title=" " alt="" coords="1162,3601,1305,3641"/>
+<area shape="poly" id="edge501_Node000136_Node000137" title=" " alt="" coords="1018,3642,1162,3626,1162,3632,1019,3647"/>
+<area shape="rect" id="Node000138" href="$d1/de2/classstorages_1_1postgres_1_1ConnectionBusy.html" title="An attempt to make a query to server was made while there is another query in flight." alt="" coords="1162,3665,1305,3705"/>
+<area shape="poly" id="edge502_Node000136_Node000138" title=" " alt="" coords="1019,3660,1162,3675,1162,3680,1018,3665"/>
+<area shape="rect" id="Node000139" href="$d1/dea/classstorages_1_1postgres_1_1ConnectionError.html" title=" " alt="" coords="1162,3729,1305,3769"/>
+<area shape="poly" id="edge503_Node000136_Node000139" title=" " alt="" coords="1019,3667,1064,3683,1088,3699,1112,3715,1163,3733,1161,3738,1109,3720,1085,3703,1061,3688,1017,3672"/>
+<area shape="rect" id="Node000146" href="$d0/d18/classstorages_1_1postgres_1_1ConnectionInterrupted.html" title="A network operation was interrupted by task cancellation." alt="" coords="1146,3793,1321,3833"/>
+<area shape="poly" id="edge510_Node000136_Node000146" title=" " alt="" coords="1019,3661,1043,3670,1064,3683,1076,3695,1083,3708,1089,3733,1095,3757,1102,3768,1112,3779,1147,3798,1144,3803,1109,3783,1097,3771,1090,3759,1084,3734,1078,3710,1072,3698,1061,3687,1040,3674,1017,3666"/>
+<area shape="rect" id="Node000147" href="$d9/db7/classstorages_1_1postgres_1_1InvalidConfig.html" title=" " alt="" coords="1162,3857,1305,3897"/>
+<area shape="poly" id="edge511_Node000136_Node000147" title=" " alt="" coords="1019,3659,1043,3668,1065,3683,1080,3704,1088,3724,1089,3765,1091,3805,1098,3824,1112,3843,1136,3859,1163,3869,1161,3874,1133,3864,1109,3847,1093,3827,1086,3806,1084,3765,1083,3725,1076,3706,1061,3687,1041,3673,1017,3664"/>
+<area shape="rect" id="Node000148" href="$d9/dde/classstorages_1_1postgres_1_1InvalidDSN.html" title=" " alt="" coords="1162,3921,1305,3961"/>
+<area shape="poly" id="edge512_Node000136_Node000148" title=" " alt="" coords="1019,3658,1044,3668,1065,3683,1085,3712,1093,3740,1093,3769,1089,3797,1086,3826,1086,3853,1094,3880,1113,3907,1135,3924,1162,3934,1161,3939,1133,3929,1109,3911,1089,3883,1081,3854,1081,3825,1084,3797,1088,3769,1087,3741,1080,3714,1061,3687,1041,3672,1017,3663"/>
+<area shape="rect" id="Node000149" href="$d9/d12/classstorages_1_1postgres_1_1PoolError.html" title="Indicates errors during pool operation." alt="" coords="1162,3985,1305,4025"/>
+<area shape="poly" id="edge513_Node000136_Node000149" title=" " alt="" coords="1019,3657,1043,3667,1065,3684,1089,3720,1098,3757,1096,3793,1090,3830,1083,3866,1081,3901,1090,3936,1113,3972,1135,3988,1163,3998,1161,4003,1133,3993,1109,3975,1085,3938,1076,3902,1078,3865,1084,3829,1091,3793,1092,3757,1084,3722,1061,3687,1041,3672,1017,3662"/>
+<area shape="rect" id="Node000140" href="$da/d34/classstorages_1_1postgres_1_1ServerError.html" title=" " alt="" coords="1409,4113,1647,4153"/>
+<area shape="poly" id="edge504_Node000139_Node000140" title=" " alt="" coords="1319,3755,1340,3765,1358,3779,1374,3800,1384,3821,1393,3861,1391,3902,1383,3942,1375,3982,1372,4021,1381,4060,1391,4080,1406,4100,1420,4111,1416,4115,1402,4103,1386,4083,1376,4062,1367,4021,1369,3981,1377,3941,1385,3901,1388,3862,1379,3822,1369,3803,1354,3783,1337,3769,1317,3760"/>
+<area shape="rect" id="Node000142" href="$d1/d0d/classstorages_1_1postgres_1_1ClusterUnavailable.html" title=" " alt="" coords="1451,4177,1605,4217"/>
+<area shape="poly" id="edge506_Node000139_Node000142" title=" " alt="" coords="1319,3755,1340,3765,1358,3780,1376,3804,1388,3829,1395,3853,1398,3878,1394,3926,1383,3974,1371,4022,1367,4069,1370,4092,1377,4116,1388,4140,1406,4163,1426,4180,1451,4189,1449,4194,1424,4184,1402,4167,1384,4143,1372,4118,1365,4093,1362,4069,1366,4021,1377,3973,1388,3925,1393,3878,1390,3854,1383,3831,1372,3807,1354,3783,1337,3769,1317,3760"/>
+<area shape="rect" id="Node000143" href="$dc/d36/classstorages_1_1postgres_1_1CommandError.html" title="Error when invoking a libpq function." alt="" coords="1457,4241,1599,4281"/>
+<area shape="poly" id="edge507_Node000139_Node000143" title=" " alt="" coords="1319,3755,1340,3764,1358,3780,1379,3808,1393,3837,1400,3866,1403,3894,1397,3950,1383,4006,1368,4061,1362,4117,1365,4144,1372,4172,1386,4200,1406,4227,1429,4245,1457,4255,1456,4260,1427,4250,1402,4231,1381,4202,1367,4174,1360,4145,1357,4117,1363,4060,1377,4005,1391,3949,1398,3894,1395,3867,1388,3839,1374,3811,1354,3783,1337,3769,1317,3759"/>
+<area shape="rect" id="Node000144" href="$d9/d90/classstorages_1_1postgres_1_1ConnectionFailed.html" title="Exception is thrown when a single connection fails to connect." alt="" coords="1457,4305,1599,4345"/>
+<area shape="poly" id="edge508_Node000139_Node000144" title=" " alt="" coords="1319,3755,1340,3764,1358,3780,1370,3799,1379,3824,1387,3886,1387,3959,1383,4038,1378,4116,1378,4189,1386,4249,1394,4273,1406,4292,1429,4309,1457,4319,1455,4324,1426,4314,1402,4295,1390,4275,1381,4251,1373,4189,1373,4116,1377,4037,1381,3959,1382,3886,1374,3825,1365,3802,1354,3783,1337,3769,1317,3759"/>
+<area shape="rect" id="Node000145" href="$d4/db0/classstorages_1_1postgres_1_1ConnectionTimeoutError.html" title="A network operation on a connection has timed out." alt="" coords="1434,4369,1622,4409"/>
+<area shape="poly" id="edge509_Node000139_Node000145" title=" " alt="" coords="1319,3754,1340,3764,1358,3780,1372,3802,1381,3830,1389,3899,1388,3981,1383,4070,1377,4158,1376,4240,1384,4308,1393,4335,1406,4356,1419,4367,1435,4376,1432,4381,1416,4372,1402,4359,1388,4337,1379,4309,1371,4240,1372,4158,1377,4069,1383,3981,1384,3899,1376,3831,1367,3804,1354,3783,1337,3769,1317,3759"/>
+<area shape="rect" id="Node000141" href="$dd/d4f/classstorages_1_1postgres_1_1ServerConnectionError.html" title="Connection error reported by PostgreSQL server. Doc: https://www.postgresql.org/docs/12/static/errcod..." alt="" coords="1700,4113,1876,4153"/>
+<area shape="poly" id="edge505_Node000140_Node000141" title=" " alt="" coords="1660,4131,1700,4131,1700,4136,1660,4136"/>
+<area shape="rect" id="Node000151" href="$d9/da1/classstorages_1_1secdist_1_1InvalidSecdistJson.html" title=" " alt="" coords="863,3697,1003,3737"/>
+<area shape="poly" id="edge515_Node000150_Node000151" title=" " alt="" coords="717,3274,739,3284,758,3299,776,3324,788,3349,795,3373,798,3398,794,3446,782,3494,771,3542,767,3589,770,3613,776,3636,788,3660,806,3683,832,3703,864,3713,862,3718,830,3707,802,3687,784,3663,771,3638,764,3614,762,3589,766,3541,777,3493,788,3445,793,3398,790,3374,783,3351,772,3327,754,3303,736,3289,715,3279"/>
+<area shape="rect" id="Node000152" href="$d6/d07/classstorages_1_1secdist_1_1UnknownMongoDbAlias.html" title=" " alt="" coords="845,3761,1022,3801"/>
+<area shape="poly" id="edge516_Node000150_Node000152" title=" " alt="" coords="717,3274,739,3284,758,3300,779,3328,793,3357,800,3386,803,3414,797,3470,782,3526,768,3582,762,3637,765,3664,772,3692,786,3720,806,3748,824,3762,845,3772,843,3777,821,3767,802,3751,781,3722,767,3694,759,3665,757,3637,763,3581,777,3525,791,3469,797,3414,795,3387,788,3359,774,3331,754,3303,736,3289,715,3279"/>
+<area shape="rect" id="Node000153" href="$d6/de0/classstorages_1_1secdist_1_1UnknownPostgresDbAlias.html" title=" " alt="" coords="839,3825,1028,3865"/>
+<area shape="poly" id="edge517_Node000150_Node000153" title=" " alt="" coords="717,3274,739,3284,758,3300,770,3319,779,3344,787,3406,787,3479,782,3558,778,3636,778,3709,786,3769,794,3793,806,3812,821,3825,839,3834,837,3839,818,3829,802,3815,790,3795,781,3771,773,3709,773,3636,777,3557,781,3479,782,3406,774,3345,765,3322,754,3303,736,3288,715,3279"/>
+<area shape="rect" id="Node000154" href="$dd/d12/classstorages_1_1secdist_1_1UnknownRedisClientName.html" title=" " alt="" coords="835,3889,1031,3929"/>
+<area shape="poly" id="edge518_Node000150_Node000154" title=" " alt="" coords="717,3274,739,3284,758,3300,772,3322,781,3350,789,3419,788,3501,782,3590,777,3678,776,3760,784,3828,793,3855,806,3876,820,3888,836,3897,834,3901,817,3892,802,3879,788,3857,779,3829,770,3760,771,3678,777,3589,783,3501,784,3419,776,3351,767,3324,754,3303,736,3288,715,3279"/>
+<area shape="rect" id="Node000161" href="$d3/d28/classugrpc_1_1client_1_1RpcError.html" title="Error during an RPC." alt="" coords="550,4467,715,4493"/>
+<area shape="poly" id="edge525_Node000160_Node000161" title=" " alt="" coords="460,2098,464,2103,473,2130,481,2183,493,2352,500,2582,505,2842,509,3335,512,3593,542,3869,578,4134,632,4467,626,4467,573,4135,536,3870,507,3593,504,3335,500,2842,495,2582,487,2352,475,2183,468,2131,459,2105,456,2102"/>
+<area shape="rect" id="Node000162" href="$d4/d7d/classugrpc_1_1client_1_1ErrorWithStatus.html" title="Error with grpc::Status details." alt="" coords="848,4428,1019,4468"/>
+<area shape="poly" id="edge526_Node000161_Node000162" title=" " alt="" coords="729,4467,847,4454,848,4460,729,4472"/>
+<area shape="rect" id="Node000179" href="$d8/ddb/classugrpc_1_1client_1_1RpcCancelledError.html" title="RPC failed due to task cancellation." alt="" coords="834,4492,1033,4532"/>
+<area shape="poly" id="edge543_Node000161_Node000179" title=" " alt="" coords="729,4488,834,4499,833,4504,729,4493"/>
+<area shape="rect" id="Node000180" href="$db/d86/classugrpc_1_1client_1_1RpcInterruptedError.html" title="RPC failed without a status. This means that either the call got cancelled using TryCancel,..." alt="" coords="830,4556,1037,4596"/>
+<area shape="poly" id="edge544_Node000161_Node000180" title=" " alt="" coords="679,4496,805,4541,847,4553,845,4558,803,4547,677,4501"/>
+<area shape="rect" id="Node000163" href="$d3/d0b/classugrpc_1_1client_1_1AbortedError.html" title=" " alt="" coords="1137,4050,1329,4075"/>
+<area shape="poly" id="edge527_Node000162_Node000163" title=" " alt="" coords="938,4414,956,4344,988,4255,1011,4208,1038,4163,1071,4122,1109,4086,1135,4071,1138,4076,1112,4090,1075,4125,1042,4166,1015,4211,993,4257,961,4346,943,4415"/>
+<area shape="rect" id="Node000164" href="$dc/d5f/classugrpc_1_1client_1_1AlreadyExistsError.html" title=" " alt="" coords="1134,4100,1333,4140"/>
+<area shape="poly" id="edge528_Node000162_Node000164" title=" " alt="" coords="942,4414,964,4357,999,4285,1047,4212,1076,4179,1109,4150,1132,4136,1135,4141,1112,4154,1080,4183,1051,4215,1003,4288,969,4359,947,4416"/>
+<area shape="rect" id="Node000165" href="$d3/dc0/classugrpc_1_1client_1_1CancelledError.html" title="Concrete errors for all the error codes." alt="" coords="1146,4164,1321,4204"/>
+<area shape="poly" id="edge529_Node000162_Node000165" title=" " alt="" coords="948,4414,973,4369,1009,4314,1055,4260,1109,4214,1144,4197,1147,4202,1112,4218,1059,4264,1014,4318,978,4371,953,4417"/>
+<area shape="rect" id="Node000166" href="$d6/d3e/classugrpc_1_1client_1_1DataLossError.html" title=" " alt="" coords="1133,4229,1334,4254"/>
+<area shape="poly" id="edge530_Node000162_Node000166" title=" " alt="" coords="954,4415,981,4379,1017,4338,1060,4298,1109,4264,1140,4252,1142,4257,1112,4269,1064,4302,1021,4342,985,4383,958,4418"/>
+<area shape="rect" id="Node000167" href="$d2/dc6/classugrpc_1_1client_1_1DeadlineExceededError.html" title=" " alt="" coords="1118,4279,1349,4319"/>
+<area shape="poly" id="edge531_Node000162_Node000167" title=" " alt="" coords="969,4417,1032,4372,1110,4328,1141,4316,1143,4321,1112,4333,1035,4376,972,4421"/>
+<area shape="rect" id="Node000168" href="$d3/d87/classugrpc_1_1client_1_1FailedPreconditionError.html" title=" " alt="" coords="1119,4343,1348,4383"/>
+<area shape="poly" id="edge532_Node000162_Node000168" title=" " alt="" coords="1011,4421,1110,4392,1154,4380,1155,4385,1111,4397,1012,4427"/>
+<area shape="rect" id="Node000169" href="$d9/d4d/classugrpc_1_1client_1_1InternalError.html" title=" " alt="" coords="1138,4407,1329,4433"/>
+<area shape="poly" id="edge533_Node000162_Node000169" title=" " alt="" coords="1032,4436,1137,4426,1138,4432,1032,4441"/>
+<area shape="rect" id="Node000170" href="$d4/dc9/classugrpc_1_1client_1_1InvalidArgumentError.html" title=" " alt="" coords="1124,4457,1343,4497"/>
+<area shape="poly" id="edge534_Node000162_Node000170" title=" " alt="" coords="1033,4455,1124,4464,1123,4469,1032,4460"/>
+<area shape="rect" id="Node000171" href="$d9/dc2/classugrpc_1_1client_1_1NotFoundError.html" title=" " alt="" coords="1132,4522,1335,4547"/>
+<area shape="poly" id="edge535_Node000162_Node000171" title=" " alt="" coords="1033,4466,1064,4478,1088,4493,1112,4507,1152,4519,1150,4524,1110,4512,1085,4497,1062,4482,1031,4471"/>
+<area shape="rect" id="Node000172" href="$dd/d53/classugrpc_1_1client_1_1OutOfRangeError.html" title=" " alt="" coords="1139,4572,1328,4612"/>
+<area shape="poly" id="edge536_Node000162_Node000172" title=" " alt="" coords="1033,4461,1064,4478,1082,4498,1089,4518,1096,4538,1112,4557,1140,4572,1137,4577,1109,4561,1092,4541,1084,4520,1077,4500,1061,4482,1030,4466"/>
+<area shape="rect" id="Node000173" href="$d1/d8a/classugrpc_1_1client_1_1PermissionDeniedError.html" title=" " alt="" coords="1142,4636,1325,4676"/>
+<area shape="poly" id="edge537_Node000162_Node000173" title=" " alt="" coords="1034,4459,1064,4478,1079,4496,1087,4515,1089,4552,1092,4588,1099,4605,1112,4622,1143,4641,1140,4645,1109,4626,1094,4608,1087,4589,1084,4552,1082,4516,1075,4499,1061,4482,1031,4463"/>
+<area shape="rect" id="Node000174" href="$d8/db2/classugrpc_1_1client_1_1ResourceExhaustedError.html" title=" " alt="" coords="1114,4700,1353,4740"/>
+<area shape="poly" id="edge538_Node000162_Node000174" title=" " alt="" coords="1033,4457,1050,4466,1065,4478,1083,4504,1092,4531,1092,4558,1089,4584,1087,4610,1087,4636,1095,4661,1113,4686,1127,4698,1124,4702,1109,4690,1090,4663,1082,4637,1081,4610,1084,4584,1087,4557,1086,4532,1079,4507,1061,4482,1047,4471,1030,4462"/>
+<area shape="rect" id="Node000175" href="$d4/da1/classugrpc_1_1client_1_1UnauthenticatedError.html" title=" " alt="" coords="1124,4764,1343,4804"/>
+<area shape="poly" id="edge539_Node000162_Node000175" title=" " alt="" coords="1033,4457,1050,4466,1065,4478,1088,4513,1096,4547,1095,4582,1090,4616,1084,4650,1083,4684,1091,4717,1113,4750,1126,4762,1123,4766,1109,4754,1086,4719,1077,4684,1078,4650,1084,4615,1090,4581,1091,4548,1083,4515,1061,4482,1047,4470,1031,4462"/>
+<area shape="rect" id="Node000176" href="$de/df2/classugrpc_1_1client_1_1UnavailableError.html" title=" " alt="" coords="1139,4828,1327,4868"/>
+<area shape="poly" id="edge540_Node000162_Node000176" title=" " alt="" coords="1033,4456,1050,4465,1065,4478,1081,4500,1092,4521,1101,4564,1098,4606,1090,4648,1081,4690,1078,4732,1086,4773,1097,4793,1113,4814,1125,4825,1140,4834,1138,4838,1122,4830,1109,4818,1092,4796,1081,4775,1072,4732,1075,4689,1084,4647,1093,4605,1096,4564,1087,4523,1077,4502,1061,4482,1047,4470,1030,4461"/>
+<area shape="rect" id="Node000177" href="$da/dc4/classugrpc_1_1client_1_1UnimplementedError.html" title=" " alt="" coords="1126,4892,1341,4932"/>
+<area shape="poly" id="edge541_Node000162_Node000177" title=" " alt="" coords="1033,4456,1050,4465,1065,4478,1084,4504,1096,4529,1104,4555,1106,4580,1102,4630,1090,4680,1078,4730,1073,4779,1075,4804,1082,4829,1094,4853,1113,4878,1128,4891,1124,4895,1109,4882,1090,4856,1077,4830,1070,4805,1068,4779,1072,4729,1084,4679,1096,4630,1101,4580,1098,4556,1091,4531,1079,4507,1061,4482,1047,4470,1031,4461"/>
+<area shape="rect" id="Node000178" href="$dc/d6c/classugrpc_1_1client_1_1UnknownError.html" title=" " alt="" coords="1132,4957,1335,4982"/>
+<area shape="poly" id="edge542_Node000162_Node000178" title=" " alt="" coords="1033,4456,1050,4465,1065,4478,1086,4508,1101,4538,1108,4567,1111,4597,1104,4656,1088,4714,1073,4771,1066,4829,1069,4857,1077,4885,1091,4914,1113,4942,1133,4957,1130,4962,1109,4946,1086,4917,1072,4887,1064,4858,1061,4829,1068,4770,1083,4712,1098,4655,1105,4597,1103,4568,1096,4540,1082,4511,1061,4482,1047,4470,1031,4461"/>
+<area shape="rect" id="Node000182" href="$db/d1c/classugrpc_1_1server_1_1RpcError.html" title="Error during an RPC." alt="" coords="547,4573,718,4598"/>
+<area shape="poly" id="edge546_Node000181_Node000182" title=" " alt="" coords="460,2149,464,2153,471,2169,477,2196,487,2280,493,2400,497,2549,498,2913,495,3325,489,4103,495,4374,502,4459,512,4503,529,4525,550,4544,597,4570,595,4575,547,4548,525,4529,507,4505,497,4460,490,4375,484,4103,490,3325,493,2913,492,2549,488,2400,481,2280,472,2197,466,2171,459,2156,456,2152"/>
+<area shape="rect" id="Node000183" href="$d0/dd9/classugrpc_1_1server_1_1RpcInterruptedError.html" title="RPC failed without a status. This means that either the call got cancelled using TryCancel,..." alt="" coords="828,4620,1039,4660"/>
+<area shape="poly" id="edge547_Node000182_Node000183" title=" " alt="" coords="717,4598,828,4618,827,4623,716,4603"/>
+<area shape="rect" id="Node000186" href="$d4/d92/classcrypto_1_1CryptoException.html" title="Base exception." alt="" coords="543,4931,722,4957"/>
+<area shape="poly" id="edge550_Node000185_Node000186" title=" " alt="" coords="376,5281,507,5098,619,4955,623,4958,511,5102,380,5284"/>
+<area shape="rect" id="Node000190" href="$d2/d81/classengine_1_1io_1_1IoException.html" title="Generic I/O error." alt="" coords="547,5113,718,5138"/>
+<area shape="poly" id="edge554_Node000185_Node000190" title=" " alt="" coords="390,5284,611,5136,614,5140,393,5289"/>
+<area shape="rect" id="Node000197" href="$d5/dc3/classengine_1_1subprocess_1_1ChildProcessStatusException.html" title=" " alt="" coords="523,5259,742,5299"/>
+<area shape="poly" id="edge561_Node000185_Node000197" title=" " alt="" coords="460,5294,523,5287,523,5293,460,5299"/>
+<area shape="rect" id="Node000198" href="$d5/d9e/classformats_1_1bson_1_1BsonException.html" title="Generic BSON&#45;related exception." alt="" coords="525,5323,741,5349"/>
+<area shape="poly" id="edge562_Node000185_Node000198" title=" " alt="" coords="461,5315,525,5322,524,5327,460,5320"/>
+<area shape="rect" id="Node000204" href="$d1/d7c/classrcu_1_1MissingKeyException.html" title="Thrown on missing element access." alt="" coords="539,5373,727,5398"/>
+<area shape="poly" id="edge568_Node000185_Node000204" title=" " alt="" coords="405,5322,510,5359,557,5370,556,5375,509,5364,403,5327"/>
+<area shape="rect" id="Node000205" href="$d9/dc4/classstorages_1_1mongo_1_1MongoException.html" title="Generic mongo&#45;related exception." alt="" coords="509,5726,756,5751"/>
+<area shape="poly" id="edge569_Node000185_Node000205" title=" " alt="" coords="379,5330,626,5724,621,5727,375,5333"/>
+<area shape="rect" id="Node000219" href="$d5/de0/classutils_1_1InvariantError.html" title="Exception that is thrown on UINVARIANT violation." alt="" coords="559,5775,706,5801"/>
+<area shape="poly" id="edge583_Node000185_Node000219" title=" " alt="" coords="364,5333,369,5417,377,5473,389,5534,407,5596,433,5657,467,5714,511,5762,534,5776,560,5784,558,5789,532,5781,508,5766,463,5717,428,5660,402,5598,384,5535,371,5474,364,5418,359,5333"/>
+<area shape="rect" id="Node000187" href="$da/d49/classcrypto_1_1KeyParseError.html" title="Signing key parse error." alt="" coords="853,4858,1014,4883"/>
+<area shape="poly" id="edge551_Node000186_Node000187" title=" " alt="" coords="686,4925,803,4892,857,4881,858,4886,805,4897,688,4930"/>
+<area shape="rect" id="Node000188" href="$d2/deb/classcrypto_1_1SignError.html" title="Signature generation error." alt="" coords="868,4907,999,4933"/>
+<area shape="poly" id="edge552_Node000186_Node000188" title=" " alt="" coords="735,4933,867,4923,868,4928,736,4938"/>
+<area shape="rect" id="Node000189" href="$d0/dc8/classcrypto_1_1VerificationError.html" title="Signature verification error." alt="" coords="846,4957,1021,4982"/>
+<area shape="poly" id="edge553_Node000186_Node000189" title=" " alt="" coords="736,4950,846,4959,845,4965,735,4955"/>
+<area shape="rect" id="Node000191" href="$dc/de4/classengine_1_1io_1_1IoInterrupted.html" title="I/O interruption." alt="" coords="844,5006,1023,5031"/>
+<area shape="poly" id="edge555_Node000190_Node000191" title=" " alt="" coords="666,5103,729,5071,803,5040,846,5029,847,5034,805,5045,731,5076,669,5108"/>
+<area shape="rect" id="Node000194" href="$d1/d90/classengine_1_1io_1_1IoSystemError.html" title="Operating system I/O error." alt="" coords="840,5055,1027,5081"/>
+<area shape="poly" id="edge558_Node000190_Node000194" title=" " alt="" coords="713,5107,866,5078,867,5083,714,5113"/>
+<area shape="rect" id="Node000195" href="$dd/d4c/classengine_1_1io_1_1TerminatorNotFoundException.html" title=" " alt="" coords="840,5105,1027,5145"/>
+<area shape="poly" id="edge559_Node000190_Node000195" title=" " alt="" coords="732,5123,840,5123,840,5128,732,5128"/>
+<area shape="rect" id="Node000196" href="$d1/d1d/classengine_1_1io_1_1TlsException.html" title="TLS I/O error." alt="" coords="845,5170,1022,5195"/>
+<area shape="poly" id="edge560_Node000190_Node000196" title=" " alt="" coords="714,5138,867,5167,866,5173,713,5143"/>
+<area shape="rect" id="Node000192" href="$df/de3/classengine_1_1io_1_1IoCancelled.html" title=" " alt="" coords="1148,5006,1319,5031"/>
+<area shape="poly" id="edge556_Node000191_Node000192" title=" " alt="" coords="1036,5016,1148,5016,1148,5021,1036,5021"/>
+<area shape="rect" id="Node000193" href="$de/d2d/classengine_1_1io_1_1IoTimeout.html" title="I/O timeout." alt="" coords="1153,5055,1313,5081"/>
+<area shape="poly" id="edge557_Node000191_Node000193" title=" " alt="" coords="1025,5031,1156,5053,1155,5058,1024,5036"/>
+<area shape="rect" id="Node000199" href="$d9/de6/classformats_1_1bson_1_1ConversionException.html" title="Conversion error." alt="" coords="837,5220,1030,5260"/>
+<area shape="poly" id="edge563_Node000198_Node000199" title=" " alt="" coords="733,5317,755,5308,769,5299,778,5290,788,5279,803,5270,836,5256,838,5261,805,5274,791,5284,782,5293,772,5303,757,5313,735,5322"/>
+<area shape="rect" id="Node000200" href="$d5/d07/classformats_1_1bson_1_1MemberMissingException.html" title="BSON nonexisting member access error." alt="" coords="821,5284,1045,5324"/>
+<area shape="poly" id="edge564_Node000198_Node000200" title=" " alt="" coords="754,5320,821,5313,821,5319,755,5326"/>
+<area shape="rect" id="Node000201" href="$dc/dd1/classformats_1_1bson_1_1OutOfBoundsException.html" title="BSON array indexing error." alt="" coords="830,5348,1037,5388"/>
+<area shape="poly" id="edge565_Node000198_Node000201" title=" " alt="" coords="754,5346,830,5354,830,5360,754,5352"/>
+<area shape="rect" id="Node000202" href="$d8/d86/classformats_1_1bson_1_1ParseException.html" title="BSON parsing error." alt="" coords="824,5413,1043,5438"/>
+<area shape="poly" id="edge566_Node000198_Node000202" title=" " alt="" coords="735,5350,757,5359,772,5369,782,5379,791,5389,805,5398,841,5410,839,5415,803,5402,788,5393,778,5383,769,5373,755,5364,733,5355"/>
+<area shape="rect" id="Node000203" href="$d2/d94/classformats_1_1bson_1_1TypeMismatchException.html" title="BSON types mismatch error." alt="" coords="826,5463,1041,5503"/>
+<area shape="poly" id="edge567_Node000198_Node000203" title=" " alt="" coords="747,5353,758,5359,776,5382,783,5405,789,5428,806,5449,827,5462,825,5466,802,5453,784,5430,778,5406,771,5384,754,5363,745,5357"/>
+<area shape="rect" id="Node000206" href="$d5/dd6/classstorages_1_1mongo_1_1AuthenticationException.html" title="Authentication error." alt="" coords="816,5527,1051,5567"/>
+<area shape="poly" id="edge570_Node000205_Node000206" title=" " alt="" coords="650,5713,713,5645,755,5608,803,5576,830,5564,832,5569,805,5581,759,5612,717,5649,654,5717"/>
+<area shape="rect" id="Node000207" href="$d0/d98/classstorages_1_1mongo_1_1CancelledException.html" title="The current task has been cancelled, e.g. by deadline propagation." alt="" coords="832,5591,1035,5631"/>
+<area shape="poly" id="edge571_Node000205_Node000207" title=" " alt="" coords="663,5716,726,5678,803,5640,838,5628,840,5633,805,5645,728,5683,665,5721"/>
+<area shape="rect" id="Node000208" href="$d8/d48/classstorages_1_1mongo_1_1ClusterUnavailableException.html" title="No server available to satisfy request constraints." alt="" coords="841,5655,1026,5695"/>
+<area shape="poly" id="edge572_Node000205_Node000208" title=" " alt="" coords="706,5720,840,5692,841,5697,707,5726"/>
+<area shape="rect" id="Node000209" href="$d7/df9/classstorages_1_1mongo_1_1IncompatibleServerException.html" title="Incompatible server version." alt="" coords="821,5719,1045,5759"/>
+<area shape="poly" id="edge573_Node000205_Node000209" title=" " alt="" coords="770,5736,821,5736,821,5741,770,5741"/>
+<area shape="rect" id="Node000210" href="$d4/d1d/classstorages_1_1mongo_1_1InvalidConfigException.html" title="Config validation error." alt="" coords="842,5783,1025,5823"/>
+<area shape="poly" id="edge574_Node000205_Node000210" title=" " alt="" coords="710,5752,757,5761,842,5780,841,5785,755,5767,709,5757"/>
+<area shape="rect" id="Node000211" href="$da/d68/classstorages_1_1mongo_1_1NetworkException.html" title="Network (connectivity) error." alt="" coords="836,5847,1031,5887"/>
+<area shape="poly" id="edge575_Node000205_Node000211" title=" " alt="" coords="744,5754,758,5762,775,5779,783,5798,790,5816,806,5833,837,5848,834,5853,802,5837,786,5819,778,5800,770,5782,754,5766,742,5759"/>
+<area shape="rect" id="Node000212" href="$d3/d28/classstorages_1_1mongo_1_1PoolNotFoundException.html" title="Nonexistent pool requested from the set." alt="" coords="838,5911,1029,5951"/>
+<area shape="poly" id="edge576_Node000205_Node000212" title=" " alt="" coords="750,5756,758,5762,772,5779,780,5796,783,5831,786,5865,793,5881,806,5897,839,5916,836,5921,802,5901,788,5884,781,5866,778,5831,775,5797,768,5781,754,5766,747,5760"/>
+<area shape="rect" id="Node000213" href="$dc/d28/classstorages_1_1mongo_1_1PoolOverloadException.html" title="Pool refused to satisfy connection request due to high load." alt="" coords="820,5975,1047,6015"/>
+<area shape="poly" id="edge577_Node000205_Node000213" title=" " alt="" coords="752,5757,758,5762,777,5787,785,5812,786,5838,783,5863,781,5888,781,5913,789,5937,806,5961,821,5973,818,5977,802,5965,784,5939,776,5914,775,5888,778,5863,780,5838,779,5813,772,5789,754,5766,749,5761"/>
+<area shape="rect" id="Node000214" href="$de/db7/classstorages_1_1mongo_1_1QueryException.html" title="Generic query error." alt="" coords="812,6039,1055,6065"/>
+<area shape="poly" id="edge578_Node000205_Node000214" title=" " alt="" coords="753,5757,758,5762,781,5795,789,5829,788,5862,782,5896,777,5929,776,5962,784,5993,806,6025,822,6037,819,6041,802,6029,779,5996,770,5962,771,5929,777,5895,783,5862,784,5829,776,5797,754,5766,749,5761"/>
+<area shape="rect" id="Node000215" href="$d6/db8/classstorages_1_1mongo_1_1InvalidQueryArgumentException.html" title="Query argument validation error." alt="" coords="1139,6003,1328,6043"/>
+<area shape="poly" id="edge579_Node000214_Node000215" title=" " alt="" coords="1068,6036,1138,6029,1139,6035,1069,6041"/>
+<area shape="rect" id="Node000216" href="$d1/de8/classstorages_1_1mongo_1_1ServerException.html" title="Server&#45;side error." alt="" coords="1111,6067,1356,6093"/>
+<area shape="poly" id="edge580_Node000214_Node000216" title=" " alt="" coords="1068,6062,1111,6066,1110,6071,1068,6067"/>
+<area shape="rect" id="Node000217" href="$d7/d4b/classstorages_1_1mongo_1_1DuplicateKeyException.html" title="Duplicate key error." alt="" coords="1427,6028,1629,6068"/>
+<area shape="poly" id="edge581_Node000216_Node000217" title=" " alt="" coords="1364,6063,1427,6056,1427,6062,1365,6068"/>
+<area shape="rect" id="Node000218" href="$d9/d98/classstorages_1_1mongo_1_1WriteConcernException.html" title="Write concern error." alt="" coords="1415,6092,1641,6132"/>
+<area shape="poly" id="edge582_Node000216_Node000218" title=" " alt="" coords="1364,6092,1415,6097,1414,6102,1364,6097"/>
+<area shape="rect" id="Node000220" href="$d9/d28/classutils_1_1TracefulExceptionBase.html" title="Base class implementing backtrace storage and message builder, published only for documentation purpo..." alt="" coords="5,5294,211,5319"/>
+<area shape="poly" id="edge586_Node000220_Node000185" title=" " alt="" coords="224,5304,273,5304,273,5309,224,5309"/>
+</map>
