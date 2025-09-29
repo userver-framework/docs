@@ -1,0 +1,11 @@
+<map id="ugrpc::server::BaseError" name="ugrpc::server::BaseError">
+<area shape="rect" id="Node000001" title="Base exception for all the server errors." alt="" coords="96,79,260,104"/>
+<area shape="rect" id="Node000003" href="$d1/d68/classugrpc_1_1server_1_1ErrorWithStatus.html" title="Users can throw ErrorWithStatus in their RPC&#39;s implementation to return provided status code as a res..." alt="" coords="5,152,167,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,115,110,154,106,150,152,111"/>
+<area shape="rect" id="Node000004" href="$db/d1c/classugrpc_1_1server_1_1RpcError.html" title="Error during an RPC." alt="" coords="191,159,349,185"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,111,258,157,255,161,200,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="126,5,230,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,44,181,79,175,79,175,44"/>
+<area shape="rect" id="Node000005" href="$d0/dd9/classugrpc_1_1server_1_1RpcInterruptedError.html" title="RPC failed without a status. This means that either the call got cancelled using TryCancel,..." alt="" coords="174,240,366,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,198,273,240,267,240,267,198"/>
+</map>

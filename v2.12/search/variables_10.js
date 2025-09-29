@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['recent_5ferrors_5fthreshold_0',['recent_errors_threshold',['../d0/dbf/structstorages_1_1postgres_1_1ConnectionSettings.html#a7e24ceca0f70f89e836c698202b0b9b6',1,'storages::postgres::ConnectionSettings']]],
+  ['relation_5fid_1',['relation_id',['../d5/d73/structstorages_1_1postgres_1_1DBTypeDescription.html#ad0c0b4153e271749f484ea8feebd0d7c',1,'storages::postgres::DBTypeDescription']]],
+  ['replication_5flag_2',['replication_lag',['../d1/db4/structstorages_1_1postgres_1_1InstanceTopologyStatistics.html#aceec3d50ad1563b97e60abca135df268',1,'storages::postgres::InstanceTopologyStatistics']]],
+  ['reply_5ftotal_3',['reply_total',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#af51e7141b56a1e7a15e7bb351370bca6',1,'storages::postgres::TransactionStatistics']]],
+  ['require_5flabels_4',['require_labels',['../da/dc2/classutils_1_1statistics_1_1Request.html#a890218072aa7f135314f6acd32ad9a6c',1,'utils::statistics::Request']]],
+  ['restart_5fdelay_5',['restart_delay',['../d8/d26/structydb_1_1DistLockSettings.html#a487ad34ea0468f3ca331af31b3ce633e',1,'ydb::DistLockSettings']]],
+  ['restart_5fsession_5fdelay_6',['restart_session_delay',['../d8/d26/structydb_1_1DistLockSettings.html#a57c85621d048653edb77ad9acf94244d',1,'ydb::DistLockSettings']]],
+  ['retries_5fcount_7',['retries_count',['../dd/dd6/structclients_1_1http_1_1LocalStats.html#a24d468a918652aa15fb3aec12bdbbaaf',1,'clients::http::LocalStats']]],
+  ['retry_5fconfig_8',['retry_config',['../db/d27/structugrpc_1_1client_1_1ClientFactorySettings.html#ab0fb312b10dffb1f4d8b83c96410c000',1,'ugrpc::client::ClientFactorySettings']]],
+  ['retry_5fcounter_9',['retry_counter',['../dd/dc2/structstorages_1_1redis_1_1CommandControl.html#afcc9fbcf68ab94c278d8f0d67e8c0a67',1,'storages::redis::CommandControl']]],
+  ['return_5fto_5fpool_5fpercentile_10',['return_to_pool_percentile',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#a480b65acb4a566fa4cffe2a31b1ce1c7',1,'storages::postgres::TransactionStatistics']]],
+  ['ro_11',['RO',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#abff60a085b8598ad4ac72c392c969dd0',1,'storages::postgres::Transaction']]],
+  ['rollback_5ftotal_12',['rollback_total',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#a1066b67016a20bd17ef17aa5ce5282e1',1,'storages::postgres::TransactionStatistics']]],
+  ['roundtrip_5ftime_13',['roundtrip_time',['../d1/db4/structstorages_1_1postgres_1_1InstanceTopologyStatistics.html#aa3005ee6dde24612fa4278a9c72df7b8',1,'storages::postgres::InstanceTopologyStatistics']]],
+  ['rows_5faffected_14',['rows_affected',['../d1/df4/structstorages_1_1mysql_1_1ExecutionResult.html#a559e9272a2443484a3880cdc4d244bdb',1,'storages::mysql::ExecutionResult::rows_affected'],['../dc/db4/structstorages_1_1sqlite_1_1ExecutionResult.html#aab27b840cd1c13123fa89da1e967fa70',1,'storages::sqlite::ExecutionResult::rows_affected']]],
+  ['rw_15',['RW',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#af17e2fdf88aa13347bc64ad1aae75fe0',1,'storages::postgres::Transaction']]]
+];

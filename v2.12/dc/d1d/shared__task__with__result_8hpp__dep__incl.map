@@ -1,0 +1,112 @@
+<map id="userver/engine/task/shared_task_with_result.hpp" name="userver/engine/task/shared_task_with_result.hpp">
+<area shape="rect" id="Node000001" title="Asynchronous task with result that has a shared ownership of payload." alt="" coords="2009,5,2201,45"/>
+<area shape="rect" id="Node000002" href="$d4/dbb/engine_2async_8hpp.html" title="Low&#45;level TaskWithResult creation helpers." alt="" coords="2020,93,2191,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2108,59,2108,93,2103,93,2103,59"/>
+<area shape="rect" id="Node000003" href="$d2/d65/validator__client__test_8cpp_source.html" title=" " alt="" coords="1432,167,1619,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2007,115,1830,133,1730,148,1631,169,1620,172,1618,167,1630,164,1729,143,1830,128,2006,110"/>
+<area shape="rect" id="Node000004" href="$d5/d32/validator__service__test_8cpp_source.html" title=" " alt="" coords="1643,167,1829,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="2030,124,1940,143,1842,169,1830,173,1829,168,1841,164,1938,138,2029,119"/>
+<area shape="rect" id="Node000005" href="$df/d56/caching__component__base_8hpp.html" title="Base class for caching components." alt="" coords="2945,445,3098,485"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="2179,119,2267,142,2373,178,2429,202,2483,229,2536,261,2585,297,2602,319,2611,341,2619,362,2638,381,2674,401,2706,413,2737,418,2767,419,2831,418,2869,421,2911,428,2964,443,2963,448,2910,433,2868,426,2831,423,2767,424,2736,423,2705,418,2671,406,2634,385,2615,365,2606,343,2598,322,2581,301,2533,265,2481,234,2427,207,2371,183,2266,147,2178,124"/>
+<area shape="rect" id="Node000009" href="$d8/de1/expirable__lru__cache_8hpp.html" title="Class for expirable LRU cache. Use cache::LruMap for not expirable LRU Cache." alt="" coords="1853,189,2013,229"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="2075,128,1967,191,1964,186,2073,123"/>
+<area shape="rect" id="Node000012" href="$d7/d1b/rcu_8hpp.html" title="Read&#45;Copy&#45;Update variable." alt="" coords="2038,196,2173,221"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="2108,133,2108,196,2103,196,2103,133"/>
+<area shape="rect" id="Node000057" href="$d6/dd3/pool__strategy_8hpp_source.html" title=" " alt="" coords="2750,189,2957,229"/>
+<area shape="poly" id="edge47_Node000002_Node000057" title=" " alt="" coords="2205,114,2402,135,2630,164,2759,186,2758,191,2629,169,2401,140,2204,119"/>
+<area shape="rect" id="Node000061" href="$de/d4e/utils_2async_8hpp.html" title="Utility functions to start asynchronous tasks." alt="" coords="3436,196,3593,221"/>
+<area shape="poly" id="edge51_Node000002_Node000061" title=" " alt="" coords="2205,111,2970,164,3436,199,3435,204,2969,169,2205,117"/>
+<area shape="rect" id="Node000006" href="$dd/d6c/base__mongo__cache_8hpp.html" title="Base class for all caches polling mongo collection" alt="" coords="2867,570,3003,610"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="3002,498,2950,571,2946,568,2998,495"/>
+<area shape="rect" id="Node000007" href="$dc/df7/base__postgres__cache_8hpp.html" title="Caching component for PostgreSQL. See Caching Component for PostgreSQL." alt="" coords="2615,570,2761,610"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="2958,493,2740,572,2738,567,2956,488"/>
+<area shape="rect" id="Node000008" href="$db/df3/core_2include_2userver_2dynamic__config_2updater_2component_8hpp.html" title="Component that does a periodic update of runtime configs." alt="" coords="3027,570,3189,610"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="3045,495,3097,568,3092,571,3041,498"/>
+<area shape="rect" id="Node000010" href="$d9/daf/lru__cache__component__base_8hpp.html" title="Base class for LRU&#45;cache components." alt="" coords="237,321,401,361"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1888,237,1842,253,1731,276,1628,290,1533,298,1444,301,1281,294,1127,279,974,263,811,255,722,258,628,265,525,280,414,301,383,311,355,323,353,318,381,306,413,296,524,274,627,260,722,252,811,250,974,257,1128,273,1281,289,1444,296,1533,293,1627,285,1730,270,1841,248,1886,232"/>
+<area shape="rect" id="Node000011" href="$db/df0/standalone__checker_8hpp.html" title="Class for digest authentication checker. Implements a stand&#45;alone digest&#45;authentication logic." alt="" coords="1189,563,1347,617"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1887,237,1842,253,1796,262,1742,267,1616,271,1322,266,1171,264,1030,266,906,278,854,288,810,301,755,324,714,348,682,381,653,432,645,451,641,467,643,482,653,498,668,512,688,524,743,545,812,560,889,572,1051,584,1188,587,1188,592,1050,589,888,577,811,566,742,550,686,529,665,516,649,502,638,484,636,467,640,449,648,429,678,378,711,344,753,319,808,296,853,282,906,272,1029,261,1171,258,1322,261,1616,266,1741,262,1795,256,1841,248,1886,232"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="2187,217,2279,230,2381,248,2473,270,2509,283,2536,297,2556,318,2566,340,2574,361,2594,381,2636,403,2674,415,2709,420,2744,421,2819,418,2862,420,2911,428,2966,443,2964,448,2910,433,2862,425,2819,423,2744,426,2709,426,2673,420,2634,408,2590,385,2570,364,2561,342,2552,320,2533,301,2507,288,2471,275,2379,253,2278,235,2186,222"/>
+<area shape="rect" id="Node000013" href="$d3/db8/core_2include_2userver_2clients_2http_2client_8hpp.html" title="HTTP client that returns a HTTP request builder from CreateRequest()." alt="" coords="425,321,559,361"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="2078,231,2053,243,2026,253,1909,274,1763,286,1597,293,1420,294,1076,294,928,296,810,301,676,316,559,332,558,326,675,310,809,296,928,290,1076,289,1420,289,1597,287,1763,281,1909,269,2025,248,2051,239,2075,226"/>
+<area shape="rect" id="Node000026" href="$de/d04/environment__variables_8hpp.html" title="Environment variables representation." alt="" coords="821,321,1003,361"/>
+<area shape="poly" id="edge21_Node000012_Node000026" title=" " alt="" coords="2077,231,2053,243,2026,253,1944,269,1841,279,1601,288,1359,292,1256,296,1172,301,1004,325,1003,320,1172,296,1255,290,1359,287,1601,283,1841,274,1943,263,2025,248,2051,239,2075,226"/>
+<area shape="rect" id="Node000029" href="$d1/d0d/rcu__map_8hpp.html" title="Map&#45;like structure allowing RCU keyset updates." alt="" coords="1185,328,1351,353"/>
+<area shape="poly" id="edge23_Node000012_Node000029" title=" " alt="" coords="2076,231,2026,253,1919,271,1734,294,1352,334,1351,329,1733,289,1919,266,2025,248,2074,226"/>
+<area shape="rect" id="Node000036" href="$d4/db3/server_2congestion__control_2sensor_8hpp_source.html" title=" " alt="" coords="1699,321,1871,361"/>
+<area shape="poly" id="edge29_Node000012_Node000036" title=" " alt="" coords="2074,230,2026,253,1930,292,1843,323,1841,318,1928,287,2024,248,2072,225"/>
+<area shape="rect" id="Node000046" href="$d2/de5/multi__mongo_8hpp_source.html" title=" " alt="" coords="2360,321,2523,361"/>
+<area shape="poly" id="edge33_Node000012_Node000046" title=" " alt="" coords="2150,223,2342,296,2397,318,2395,323,2340,301,2148,228"/>
+<area shape="rect" id="Node000048" href="$d9/d02/postgresql_2include_2userver_2storages_2postgres_2dist__lock__strategy_8hpp.html" title="Postgres distributed locking strategy." alt="" coords="1923,321,2096,361"/>
+<area shape="poly" id="edge35_Node000012_Node000048" title=" " alt="" coords="2091,234,2026,322,2021,319,2087,231"/>
+<area shape="rect" id="Node000050" href="$d8/dc6/redis_2include_2userver_2storages_2redis_2component_8hpp.html" title="Valkey and Redis client component." alt="" coords="2718,445,2869,485"/>
+<area shape="poly" id="edge37_Node000012_Node000050" title=" " alt="" coords="2161,223,2231,252,2266,272,2299,297,2316,319,2324,342,2332,362,2350,381,2396,406,2439,419,2479,423,2519,422,2603,416,2651,418,2706,428,2750,443,2749,448,2705,433,2651,424,2603,422,2519,428,2479,429,2438,424,2394,411,2346,385,2327,365,2319,344,2311,322,2295,301,2264,276,2228,256,2159,228"/>
+<area shape="rect" id="Node000051" href="$dd/d27/secdist_8hpp.html" title="Client to retrieve credentials from the components::Secdist." alt="" coords="2120,321,2285,361"/>
+<area shape="poly" id="edge38_Node000012_Node000051" title=" " alt="" coords="2124,231,2190,319,2186,322,2120,234"/>
+<area shape="rect" id="Node000014" href="$db/dbf/s3__connection_8cpp_source.html" title=" " alt="" coords="396,431,588,500"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="495,374,495,430,489,430,489,374"/>
+<area shape="rect" id="Node000015" href="$d7/d98/core_2include_2userver_2clients_2http_2component_8hpp.html" title="Component that manages clients::http::Client." alt="" coords="239,445,372,485"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="453,370,336,447,333,443,450,366"/>
+<area shape="rect" id="Node000021" href="$d9/d66/easy_8hpp.html" title="Headers of an library for easy prototyping." alt="" coords="95,453,215,478"/>
+<area shape="poly" id="edge18_Node000013_Node000021" title=" " alt="" coords="449,369,413,385,361,401,320,410,279,418,228,433,178,455,176,450,226,428,278,413,319,405,360,396,411,380,446,364"/>
+<area shape="rect" id="Node000016" href="$d4/d8e/easy_2samples_24__custom__dependency_2main_8cpp_source.html" title=" " alt="" coords="5,548,219,632"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="266,495,178,550,175,546,263,490"/>
+<area shape="rect" id="Node000017" href="$d3/dc4/easy_2samples_25__pg__service__template_2src_2main_8cpp_source.html" title=" " alt="" coords="243,548,456,632"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="319,498,337,547,332,548,314,499"/>
+<area shape="poly" id="edge19_Node000021_Node000016" title=" " alt="" coords="149,492,129,549,124,547,144,490"/>
+<area shape="poly" id="edge20_Node000021_Node000017" title=" " alt="" coords="186,483,286,546,283,550,183,488"/>
+<area shape="rect" id="Node000027" href="$d9/d32/engine_2subprocess_2process__starter_8hpp.html" title="Creates a new OS subprocess and executes a command in it." alt="" coords="663,445,841,485"/>
+<area shape="poly" id="edge22_Node000026_Node000027" title=" " alt="" coords="878,371,779,447,775,443,875,367"/>
+<area shape="poly" id="edge28_Node000029_Node000011" title=" " alt="" coords="1271,368,1271,563,1265,563,1265,368"/>
+<area shape="rect" id="Node000030" href="$d6/dc2/fs__cache__client_8hpp.html" title="Class client for storing files in memory Usually retrieved from components::FsCache" alt="" coords="866,445,1003,485"/>
+<area shape="poly" id="edge24_Node000029_Node000030" title=" " alt="" coords="1222,360,1017,433,980,448,978,443,1015,428,1220,355"/>
+<area shape="rect" id="Node000033" href="$dc/d2e/core_2include_2userver_2logging_2component_8hpp.html" title="Logging component" alt="" coords="1028,453,1231,478"/>
+<area shape="poly" id="edge25_Node000029_Node000033" title=" " alt="" coords="1246,365,1144,455,1141,451,1243,361"/>
+<area shape="rect" id="Node000035" href="$de/d82/digest_2auth__checker__base_8hpp.html" title="Base class for digest authentication checkers. Implements a digest&#45;authentication logic." alt="" coords="1491,438,1663,493"/>
+<area shape="poly" id="edge26_Node000029_Node000035" title=" " alt="" coords="1311,356,1512,435,1510,440,1309,361"/>
+<area shape="poly" id="edge27_Node000035_Node000011" title=" " alt="" coords="1500,500,1335,565,1333,560,1498,495"/>
+<area shape="rect" id="Node000037" href="$dd/d55/core_2include_2userver_2congestion__control_2component_8hpp.html" title="Component to limit too active requests, also known as CC." alt="" coords="1306,445,1467,485"/>
+<area shape="poly" id="edge30_Node000036_Node000037" title=" " alt="" coords="1703,367,1479,433,1437,448,1436,443,1478,428,1702,362"/>
+<area shape="rect" id="Node000038" href="$d8/d82/core_2include_2userver_2server_2server_8hpp_source.html" title=" " alt="" coords="1863,577,2033,603"/>
+<area shape="poly" id="edge31_Node000036_Node000038" title=" " alt="" coords="1808,371,1943,576,1938,579,1803,374"/>
+<area shape="rect" id="Node000040" href="$d4/d79/grpc_2include_2userver_2ugrpc_2server_2server_8hpp.html" title="Manages the gRPC server." alt="" coords="1688,445,1829,485"/>
+<area shape="poly" id="edge32_Node000036_Node000040" title=" " alt="" coords="1781,375,1765,446,1760,445,1776,374"/>
+<area shape="rect" id="Node000047" href="$d1/dd7/mongo_2include_2userver_2storages_2mongo_2component_8hpp.html" title="MongoDB client component." alt="" coords="2284,570,2447,610"/>
+<area shape="poly" id="edge34_Node000046_Node000047" title=" " alt="" coords="2494,363,2542,380,2605,392,2674,399,2808,408,2860,418,2880,425,2895,434,2904,446,2905,462,2899,480,2883,502,2448,577,2447,572,2880,498,2894,478,2900,461,2899,448,2892,438,2878,429,2859,423,2808,414,2674,404,2604,397,2541,385,2492,368"/>
+<area shape="rect" id="Node000049" href="$dc/d89/postgresql_2include_2userver_2storages_2postgres_2dist__lock__component__base_8hpp.html" title="Base class for postgres&#45;based distlock worker components." alt="" coords="1905,445,2114,485"/>
+<area shape="poly" id="edge36_Node000048_Node000049" title=" " alt="" coords="2012,375,2012,445,2007,445,2007,375"/>
+<area shape="poly" id="edge39_Node000051_Node000035" title=" " alt="" coords="2155,369,2109,385,2044,400,1988,408,1893,412,1797,415,1741,421,1677,433,1649,441,1648,435,1675,428,1741,416,1797,410,1893,407,1988,402,2043,395,2107,380,2153,364"/>
+<area shape="poly" id="edge42_Node000051_Node000050" title=" " alt="" coords="2256,363,2305,380,2365,393,2416,400,2505,405,2594,409,2646,416,2706,428,2751,443,2749,448,2705,433,2645,421,2593,414,2504,410,2415,406,2364,398,2303,385,2254,369"/>
+<area shape="rect" id="Node000052" href="$df/d08/postgresql_2include_2userver_2storages_2postgres_2component_8hpp.html" title="PosgreSQL client component." alt="" coords="2520,445,2693,485"/>
+<area shape="poly" id="edge40_Node000051_Node000052" title=" " alt="" coords="2259,363,2305,380,2361,396,2406,405,2509,428,2555,443,2553,448,2507,433,2405,410,2360,401,2303,385,2257,369"/>
+<area shape="rect" id="Node000054" href="$dd/d60/core_2include_2userver_2storages_2secdist_2component_8hpp.html" title="Component that stores security related data (keys, passwords, ...)." alt="" coords="2139,445,2304,485"/>
+<area shape="poly" id="edge43_Node000051_Node000054" title=" " alt="" coords="2210,374,2221,445,2216,445,2205,375"/>
+<area shape="rect" id="Node000056" href="$dd/d8c/provider__component_8hpp_source.html" title=" " alt="" coords="2328,445,2496,485"/>
+<area shape="poly" id="edge46_Node000051_Node000056" title=" " alt="" coords="2248,365,2381,443,2378,447,2245,370"/>
+<area shape="poly" id="edge41_Node000052_Node000007" title=" " alt="" coords="2629,495,2678,568,2673,571,2625,498"/>
+<area shape="poly" id="edge44_Node000054_Node000038" title=" " alt="" coords="2168,493,1975,580,1973,575,2166,489"/>
+<area shape="poly" id="edge45_Node000054_Node000047" title=" " alt="" coords="2256,492,2345,568,2341,572,2252,496"/>
+<area shape="rect" id="Node000058" href="$d8/de5/exclusive__read__write_8hpp_source.html" title=" " alt="" coords="3073,313,3234,368"/>
+<area shape="poly" id="edge48_Node000057_Node000058" title=" " alt="" coords="2911,231,3062,296,3096,311,3093,316,3060,301,2909,236"/>
+<area shape="rect" id="Node000059" href="$d3/d3e/read__only_8hpp_source.html" title=" " alt="" coords="2649,321,2834,361"/>
+<area shape="poly" id="edge49_Node000057_Node000059" title=" " alt="" coords="2830,241,2760,322,2756,319,2826,238"/>
+<area shape="rect" id="Node000060" href="$d6/db0/read__write_8hpp_source.html" title=" " alt="" coords="2858,321,3049,361"/>
+<area shape="poly" id="edge50_Node000057_Node000060" title=" " alt="" coords="2878,238,2941,319,2937,322,2874,241"/>
+<area shape="rect" id="Node000062" href="$df/d07/validator__test_8cpp_source.html" title=" " alt="" coords="3421,299,3608,383"/>
+<area shape="poly" id="edge52_Node000061_Node000062" title=" " alt="" coords="3517,235,3517,298,3512,298,3512,235"/>
+<area shape="rect" id="Node000063" href="$d2/d09/async__event__channel_8hpp.html" title=" " alt="" coords="3633,321,3810,361"/>
+<area shape="poly" id="edge53_Node000061_Node000063" title=" " alt="" coords="3546,226,3693,318,3690,323,3543,231"/>
+<area shape="rect" id="Node000068" href="$d5/dbc/background__task__storage_8hpp.html" title=" " alt="" coords="3835,321,4035,361"/>
+<area shape="poly" id="edge57_Node000061_Node000068" title=" " alt="" coords="3571,222,3688,255,3823,296,3886,318,3884,323,3822,301,3686,260,3570,227"/>
+<area shape="rect" id="Node000070" href="$d7/daa/core_2include_2userver_2utils_2hedged__request_8hpp.html" title="Classes and functions for performing hedged requests." alt="" coords="3259,321,3397,361"/>
+<area shape="poly" id="edge59_Node000061_Node000070" title=" " alt="" coords="3488,232,3357,322,3354,318,3485,227"/>
+<area shape="poly" id="edge54_Node000063_Node000005" title=" " alt="" coords="3670,369,3621,385,3516,407,3432,417,3349,422,3242,433,3099,455,3098,449,3241,428,3348,417,3432,411,3515,402,3619,380,3668,364"/>
+<area shape="rect" id="Node000064" href="$d3/d71/conflated__event__channel_8hpp_source.html" title=" " alt="" coords="3629,445,3824,485"/>
+<area shape="poly" id="edge55_Node000063_Node000064" title=" " alt="" coords="3725,375,3729,445,3723,445,3720,375"/>
+<area shape="rect" id="Node000065" href="$d9/d5e/processor_8hpp.html" title="A client that allows to subscribe to OS signals SIGUSR1 and SIGUSR2." alt="" coords="3475,445,3605,485"/>
+<area shape="poly" id="edge56_Node000063_Node000065" title=" " alt="" coords="3683,371,3570,447,3567,443,3680,366"/>
+<area shape="rect" id="Node000069" href="$d2/d41/tcp__acceptor__base_8hpp.html" title="Component for accepting incoming TCP connections." alt="" coords="3854,445,4015,485"/>
+<area shape="poly" id="edge58_Node000068_Node000069" title=" " alt="" coords="3937,375,3937,445,3932,445,3932,375"/>
+<area shape="rect" id="Node000071" href="$df/d70/redis_2include_2userver_2storages_2redis_2hedged__request_8hpp.html" title="Classes and functions for performing hedged requests." alt="" coords="3253,445,3403,485"/>
+<area shape="poly" id="edge60_Node000070_Node000071" title=" " alt="" coords="3331,375,3331,445,3325,445,3325,375"/>
+</map>

@@ -1,0 +1,68 @@
+<map id="userver/storages/redis/fwd.hpp" name="userver/storages/redis/fwd.hpp">
+<area shape="rect" id="Node000001" title="Forward declarations of storages::redis::Reply, storages::redis::ReplyData, storages::redis::CommandC..." alt="" coords="571,5,721,45"/>
+<area shape="rect" id="Node000002" href="$de/d97/redis_2include_2userver_2storages_2redis_2base_8hpp_source.html" title=" " alt="" coords="341,181,492,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="558,39,496,58,468,74,444,95,431,115,423,138,419,182,413,181,418,137,426,113,440,92,465,70,494,53,556,33"/>
+<area shape="rect" id="Node000009" href="$d8/dc6/redis_2include_2userver_2storages_2redis_2component_8hpp.html" title="Valkey and Redis client component." alt="" coords="5,269,156,309"/>
+<area shape="poly" id="edge38_Node000001_Node000009" title=" " alt="" coords="558,49,488,70,416,96,325,140,238,189,109,271,106,267,236,184,323,135,414,91,486,64,557,44"/>
+<area shape="rect" id="Node000016" href="$d1/daf/parse__reply_8hpp.html" title="Customizations for Redis response parsings." alt="" coords="907,445,1057,485"/>
+<area shape="poly" id="edge41_Node000001_Node000016" title=" " alt="" coords="735,34,858,56,911,72,946,91,969,116,980,140,984,167,985,200,985,291,985,445,979,445,979,291,979,200,979,167,975,141,964,119,943,95,909,77,856,61,734,40"/>
+<area shape="rect" id="Node000017" href="$d7/d98/redis_2include_2userver_2storages_2redis_2request_8hpp.html" title="Valkey/Redis futures for storages::redis::Client and storages::redis::Transaction." alt="" coords="557,445,708,485"/>
+<area shape="poly" id="edge42_Node000001_Node000017" title=" " alt="" coords="648,59,636,445,631,445,642,59"/>
+<area shape="rect" id="Node000020" href="$d7/d79/command__control_8hpp.html" title="Redis command execution options." alt="" coords="454,93,609,133"/>
+<area shape="poly" id="edge34_Node000001_Node000020" title=" " alt="" coords="611,56,558,95,555,91,608,52"/>
+<area shape="rect" id="Node000021" href="$d8/d9c/expire__reply_8hpp.html" title="Reply for the EXPIRE command." alt="" coords="689,181,840,221"/>
+<area shape="poly" id="edge39_Node000001_Node000021" title=" " alt="" coords="669,55,754,180,750,183,664,58"/>
+<area shape="rect" id="Node000022" href="$d6/d19/ttl__reply_8hpp_source.html" title=" " alt="" coords="781,93,932,133"/>
+<area shape="poly" id="edge43_Node000001_Node000022" title=" " alt="" coords="706,48,812,91,810,96,704,53"/>
+<area shape="rect" id="Node000003" href="$dd/dc2/redis_2include_2userver_2storages_2redis_2client_8hpp.html" title="Valkey or Redis client." alt="" coords="447,621,597,661"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,229,301,247,273,271,256,296,249,319,247,376,247,467,251,501,261,526,279,548,306,571,339,593,375,609,447,629,446,634,373,614,336,597,303,575,276,552,256,529,245,502,242,467,242,376,244,318,252,294,269,268,298,242,331,224"/>
+<area shape="rect" id="Node000007" href="$d6/ddc/command__options_8hpp.html" title="Definitions of structures representing options for different commands." alt="" coords="370,357,527,397"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="436,233,449,269,454,316,453,357,448,357,449,317,443,270,431,235"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="330,227,155,272,154,267,329,222"/>
+<area shape="rect" id="Node000010" href="$d0/d5e/redis__config_8hpp.html" title="Main config for the Valkey/Redis." alt="" coords="283,269,433,309"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="398,234,373,271,369,268,394,231"/>
+<area shape="rect" id="Node000011" href="$dd/dc2/reply_8hpp_source.html" title=" " alt="" coords="732,445,883,485"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="446,229,533,309,589,354,649,395,701,422,752,443,750,448,698,427,646,400,586,359,529,313,443,233"/>
+<area shape="rect" id="Node000015" href="$d9/dd6/reply__types_8hpp.html" title="Definitions of structures representing different Redis replies." alt="" coords="705,269,856,309"/>
+<area shape="poly" id="edge19_Node000002_Node000015" title=" " alt="" coords="506,221,705,268,704,273,505,226"/>
+<area shape="rect" id="Node000019" href="$dd/dfe/subscribe__client_8hpp.html" title="Client that allows subscribing to Redis channel messages." alt="" coords="196,621,347,661"/>
+<area shape="poly" id="edge32_Node000002_Node000019" title=" " alt="" coords="329,224,284,243,244,271,221,295,206,318,199,343,197,376,197,466,203,511,219,554,239,591,259,619,254,622,235,594,214,556,198,513,191,467,191,376,194,342,201,315,216,292,240,267,281,238,327,219"/>
+<area shape="rect" id="Node000004" href="$df/d70/redis_2include_2userver_2storages_2redis_2hedged__request_8hpp.html" title="Classes and functions for performing hedged requests." alt="" coords="701,709,852,749"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,663,722,707,720,712,590,668"/>
+<area shape="rect" id="Node000005" href="$da/dbe/redis__local_8hpp.html" title="Valkey or Redis local class." alt="" coords="283,709,433,749"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="475,670,395,712,393,707,473,665"/>
+<area shape="rect" id="Node000006" href="$d0/dd7/redis__fixture_8hpp.html" title="Valkey or Redis fixture." alt="" coords="281,797,435,837"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="361,763,361,797,355,797,355,763"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="411,408,370,442,333,483,320,506,313,528,314,550,324,572,349,597,379,614,413,626,447,633,446,638,412,631,377,619,346,601,320,575,309,552,308,528,315,504,328,480,366,438,407,404"/>
+<area shape="rect" id="Node000008" href="$db/d36/redis_2include_2userver_2storages_2redis_2transaction_8hpp.html" title="Atomic sequence of Redis commands (https://redis.io/topics/transactions), that is usually retrieved f..." alt="" coords="333,533,484,573"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="444,411,416,534,410,533,439,410"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="446,580,499,619,495,623,443,584"/>
+<area shape="rect" id="Node000012" href="$da/df5/request__eval_8hpp.html" title="Redis future for EVAL responses." alt="" coords="735,533,885,573"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="811,499,812,533,807,533,806,499"/>
+<area shape="rect" id="Node000013" href="$de/d60/request__evalsha_8hpp.html" title="Redis future for EVALSHA responses." alt="" coords="909,533,1060,573"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="860,489,947,531,945,536,857,494"/>
+<area shape="rect" id="Node000014" href="$df/d94/request__generic_8hpp.html" title="Redis future for generic command responses. Can be used to request custom modules commands or unsuppo..." alt="" coords="560,533,711,573"/>
+<area shape="poly" id="edge17_Node000011_Node000014" title=" " alt="" coords="758,494,674,536,672,531,756,489"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="734,580,586,624,584,619,733,575"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="896,576,598,630,597,625,895,571"/>
+<area shape="poly" id="edge18_Node000014_Node000003" title=" " alt="" coords="601,584,549,623,545,619,598,580"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="815,316,962,443,958,447,811,320"/>
+<area shape="poly" id="edge24_Node000015_Node000017" title=" " alt="" coords="813,318,828,336,838,357,842,378,835,399,818,410,786,422,703,448,701,443,784,417,815,405,831,396,837,378,833,359,823,339,809,321"/>
+<area shape="rect" id="Node000018" href="$db/d81/request__data__base_8hpp_source.html" title=" " alt="" coords="659,357,820,397"/>
+<area shape="poly" id="edge30_Node000015_Node000018" title=" " alt="" coords="768,323,751,358,746,356,763,321"/>
+<area shape="poly" id="edge21_Node000016_Node000012" title=" " alt="" coords="933,494,849,536,846,531,931,489"/>
+<area shape="poly" id="edge22_Node000016_Node000013" title=" " alt="" coords="986,499,987,533,981,533,980,499"/>
+<area shape="poly" id="edge23_Node000016_Node000014" title=" " alt="" coords="894,491,711,536,710,531,892,486"/>
+<area shape="poly" id="edge25_Node000017_Node000003" title=" " alt="" coords="590,495,569,513,551,535,540,556,533,580,526,622,520,621,527,578,535,554,546,532,565,510,587,491"/>
+<area shape="poly" id="edge29_Node000017_Node000008" title=" " alt="" coords="572,493,459,536,457,531,570,488"/>
+<area shape="poly" id="edge26_Node000017_Node000012" title=" " alt="" coords="685,489,772,531,770,536,683,494"/>
+<area shape="poly" id="edge27_Node000017_Node000013" title=" " alt="" coords="722,486,910,531,909,536,721,491"/>
+<area shape="poly" id="edge28_Node000017_Node000014" title=" " alt="" coords="636,499,637,533,632,533,631,499"/>
+<area shape="poly" id="edge31_Node000018_Node000017" title=" " alt="" coords="707,408,658,447,655,443,703,404"/>
+<area shape="poly" id="edge33_Node000019_Node000005" title=" " alt="" coords="302,669,341,707,337,711,298,673"/>
+<area shape="poly" id="edge35_Node000020_Node000002" title=" " alt="" coords="497,144,444,183,440,179,493,140"/>
+<area shape="poly" id="edge37_Node000020_Node000004" title=" " alt="" coords="623,115,678,121,737,133,798,152,854,179,936,234,966,260,992,288,1014,319,1034,354,1072,444,1086,480,1093,511,1090,541,1075,575,1054,603,1030,627,972,667,911,696,853,715,851,709,909,691,970,663,1026,623,1050,599,1070,572,1085,540,1087,511,1080,482,1068,446,1029,356,1010,321,988,291,963,264,932,238,851,184,796,157,736,138,677,127,622,120"/>
+<area shape="poly" id="edge36_Node000020_Node000007" title=" " alt="" coords="527,148,507,222,459,358,454,356,502,221,522,146"/>
+<area shape="poly" id="edge40_Node000021_Node000015" title=" " alt="" coords="773,234,780,269,775,270,768,235"/>
+<area shape="poly" id="edge44_Node000022_Node000015" title=" " alt="" coords="864,147,865,184,855,222,836,250,812,271,808,267,832,247,850,220,859,183,859,147"/>
+</map>

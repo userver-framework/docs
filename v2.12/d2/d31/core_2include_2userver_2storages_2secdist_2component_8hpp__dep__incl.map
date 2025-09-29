@@ -1,0 +1,13 @@
+<map id="userver/storages/secdist/component.hpp" name="userver/storages/secdist/component.hpp">
+<area shape="rect" id="Node000001" title="Component that stores security related data (keys, passwords, ...)." alt="" coords="317,5,482,45"/>
+<area shape="rect" id="Node000002" href="$db/d29/grpc-reflection_2functional__tests_2golden__path_2main_8cpp_source.html" title=" " alt="" coords="5,93,180,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,52,194,96,181,100,179,95,192,91,323,47"/>
+<area shape="rect" id="Node000003" href="$da/db3/auth__checker__settings__component_8hpp.html" title="Component that loads auth configuration settings from a components::Secdist component if the latter w..." alt="" coords="205,108,391,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="374,57,325,110,321,106,370,54"/>
+<area shape="rect" id="Node000004" href="$d8/d82/core_2include_2userver_2server_2server_8hpp_source.html" title=" " alt="" coords="416,123,585,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,54,491,120,488,124,425,57"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/mongo_2include_2userver_2storages_2mongo_2component_8hpp.html" title="MongoDB client component." alt="" coords="610,115,773,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="474,47,599,91,651,113,649,118,597,96,472,52"/>
+<area shape="rect" id="Node000005" href="$d3/ddd/core_2include_2userver_2server_2component_8hpp.html" title="Component that listens for incoming requests, manages incoming connections and passes the requests to..." alt="" coords="401,225,600,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="503,162,503,225,498,225,498,162"/>
+</map>

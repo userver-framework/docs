@@ -1,0 +1,33 @@
+<map id="userver/ugrpc/server/middlewares/fwd.hpp" name="userver/ugrpc/server/middlewares/fwd.hpp">
+<area shape="rect" id="Node000001" title="Forward declarations for grpc server middlewares." alt="" coords="419,5,568,45"/>
+<area shape="rect" id="Node000002" href="$d4/d79/grpc_2include_2userver_2ugrpc_2server_2server_8hpp.html" title="Manages the gRPC server." alt="" coords="315,181,456,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,59,486,97,470,135,447,162,420,183,416,179,443,158,466,132,481,95,489,58"/>
+<area shape="rect" id="Node000011" href="$df/da9/service__base_8hpp.html" title="The type&#45;erased base class for all gRPC service implementations." alt="" coords="315,93,456,133"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="460,56,411,95,408,91,457,52"/>
+<area shape="rect" id="Node000012" href="$d1/d68/service__component__base_8hpp.html" title="Base class for all the gRPC service components." alt="" coords="491,181,690,221"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="513,56,582,180,578,182,508,59"/>
+<area shape="rect" id="Node000003" href="$d4/d41/reflection__service__component_8hpp.html" title=" " alt="" coords="479,269,703,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,224,547,267,545,272,442,229"/>
+<area shape="rect" id="Node000006" href="$db/d7e/server__component_8hpp.html" title="Component that configures and manages the gRPC server." alt="" coords="295,269,454,309"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,235,380,269,374,269,379,235"/>
+<area shape="rect" id="Node000007" href="$d3/d31/service_8hpp.html" title="Base classes for testing and benchmarking ugrpc service implementations in a simplified gRPC environm..." alt="" coords="137,269,271,309"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="334,230,245,272,243,267,332,225"/>
+<area shape="rect" id="Node000004" href="$db/d29/grpc-reflection_2functional__tests_2golden__path_2main_8cpp_source.html" title=" " alt="" coords="363,357,538,441"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="557,320,505,359,502,355,554,316"/>
+<area shape="rect" id="Node000005" href="$d4/df7/reflection__service__component_8cpp_source.html" title=" " alt="" coords="563,357,787,441"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="616,318,645,356,641,359,612,322"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="441,311,563,355,561,360,439,316"/>
+<area shape="rect" id="Node000008" href="$d1/d31/service__fixtures_8hpp.html" title="gtest fixtures for testing ugrpc service implementations. Requires linking to userver::grpc&#45;utest." alt="" coords="133,379,275,419"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="207,323,207,379,201,379,201,323"/>
+<area shape="rect" id="Node000009" href="$d2/d65/validator__client__test_8cpp_source.html" title=" " alt="" coords="5,489,192,573"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="182,432,134,491,130,487,178,429"/>
+<area shape="rect" id="Node000010" href="$d5/d32/validator__service__test_8cpp_source.html" title=" " alt="" coords="216,489,403,573"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="230,429,278,487,274,491,226,432"/>
+<area shape="poly" id="edge12_Node000011_Node000002" title=" " alt="" coords="388,147,388,181,383,181,383,147"/>
+<area shape="poly" id="edge17_Node000011_Node000007" title=" " alt="" coords="351,144,304,183,259,230,222,271,218,267,255,226,301,179,347,140"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="444,136,547,179,545,184,442,141"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="593,235,593,269,588,269,588,235"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="669,225,696,243,717,268,725,290,724,314,717,337,706,358,701,356,712,335,718,313,719,291,712,271,692,247,666,230"/>
+<area shape="rect" id="Node000013" href="$d7/d19/generic__service__base_8hpp.html" title="Allows to handle RPCs with dynamic method names." alt="" coords="778,269,955,309"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="665,223,807,267,805,272,663,228"/>
+</map>

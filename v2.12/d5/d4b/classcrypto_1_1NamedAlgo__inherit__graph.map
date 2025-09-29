@@ -1,0 +1,83 @@
+<map id="crypto::NamedAlgo" name="crypto::NamedAlgo">
+<area shape="rect" id="Node000001" title="Base class for a crypto algorithm implementation." alt="" coords="5,704,140,729"/>
+<area shape="rect" id="Node000002" href="$d8/d20/classcrypto_1_1CmsSigner.html" title=" " alt="" coords="190,629,321,655"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,696,187,664,217,652,218,657,189,668,115,700"/>
+<area shape="rect" id="Node000003" href="$d6/def/classcrypto_1_1CmsVerifier.html" title=" " alt="" coords="188,679,323,704"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,703,187,698,188,703,154,708"/>
+<area shape="rect" id="Node000004" href="$d8/d17/classcrypto_1_1Signer.html" title="Base signer class." alt="" coords="204,728,307,753"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,725,204,731,203,737,153,730"/>
+<area shape="rect" id="Node000023" href="$dc/d53/classcrypto_1_1Verifier.html" title="Base verifier class." alt="" coords="202,1949,309,1975"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="80,742,255,1949,250,1950,75,743"/>
+<area shape="rect" id="Node000005" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="382,5,571,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="316,719,320,714,334,689,343,659,351,582,350,491,344,393,337,295,336,204,345,127,354,95,369,70,380,58,384,62,373,73,359,97,350,128,341,204,343,295,349,393,355,491,357,582,348,660,339,691,325,717,320,722"/>
+<area shape="rect" id="Node000006" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="382,84,571,139"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="316,719,320,714,332,692,341,666,349,598,348,519,344,433,339,346,339,266,347,198,356,171,369,148,380,137,384,140,373,152,361,173,352,200,344,267,345,346,349,432,354,519,354,599,346,667,337,695,325,717,320,722"/>
+<area shape="rect" id="Node000007" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="382,163,571,217"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="316,719,321,714,341,682,355,651,362,621,364,591,358,531,344,472,329,413,323,353,326,322,333,291,347,259,369,227,380,216,383,219,373,230,352,262,338,293,331,323,328,353,334,412,349,471,363,530,370,591,367,621,360,653,346,685,325,717,320,722"/>
+<area shape="rect" id="Node000008" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="386,241,567,296"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="316,719,321,714,338,687,350,661,356,636,359,611,355,561,344,512,333,462,329,411,331,385,338,359,350,333,369,306,384,291,388,295,373,309,355,335,343,361,337,386,334,411,338,461,349,510,360,560,364,611,362,637,355,663,343,690,325,717,320,722"/>
+<area shape="rect" id="Node000009" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="386,320,567,375"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="316,719,321,714,335,693,345,672,353,631,351,591,344,551,336,511,334,469,343,428,353,406,369,384,384,370,387,374,373,388,358,409,348,429,340,470,342,510,349,550,357,590,359,632,350,674,340,695,325,717,320,722"/>
+<area shape="rect" id="Node000010" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="386,399,567,453"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="316,718,321,714,340,682,348,651,348,621,344,590,340,559,340,528,348,496,369,463,384,449,388,453,373,466,353,498,345,528,345,559,349,589,353,620,353,652,345,684,325,717,320,722"/>
+<area shape="rect" id="Node000011" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="371,477,583,532"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="316,718,321,714,335,692,343,671,344,629,345,586,353,564,369,542,382,530,385,534,373,545,358,566,351,587,349,629,348,672,340,695,325,717,319,722"/>
+<area shape="rect" id="Node000012" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="371,556,583,611"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="313,719,321,713,338,691,344,668,351,644,369,620,384,609,387,613,373,624,356,646,349,669,342,693,325,717,316,724"/>
+<area shape="rect" id="Node000013" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="371,635,583,689"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="304,721,398,687,400,692,306,726"/>
+<area shape="rect" id="Node000014" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="382,713,571,768"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="320,738,382,738,382,743,320,743"/>
+<area shape="rect" id="Node000015" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title=" " alt="" coords="371,792,583,847"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="306,756,400,789,398,794,304,761"/>
+<area shape="rect" id="Node000016" href="$d0/d37/classcrypto_1_1HmacShaSigner.html" title=" " alt="" coords="396,871,557,911"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="276,763,317,810,343,835,372,856,399,869,396,874,369,860,340,839,313,814,272,766"/>
+<area shape="rect" id="Node000017" href="$d0/d37/classcrypto_1_1HmacShaSigner.html" title=" " alt="" coords="396,935,557,975"/>
+<area shape="poly" id="edge16_Node000004_Node000017" title=" " alt="" coords="268,765,283,800,306,843,336,885,372,921,397,935,394,940,369,925,331,888,301,845,279,803,263,767"/>
+<area shape="rect" id="Node000018" href="$d0/d37/classcrypto_1_1HmacShaSigner.html" title=" " alt="" coords="396,999,557,1039"/>
+<area shape="poly" id="edge17_Node000004_Node000018" title=" " alt="" coords="264,767,276,814,297,873,328,933,349,961,372,985,397,1001,394,1005,369,989,345,964,324,936,292,875,271,815,259,768"/>
+<area shape="rect" id="Node000019" href="$d0/d37/classcrypto_1_1HmacShaSigner.html" title=" " alt="" coords="396,1063,557,1103"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="261,767,269,825,288,901,302,941,321,981,344,1017,372,1049,397,1065,394,1070,369,1053,340,1020,316,983,298,943,283,902,264,826,256,767"/>
+<area shape="rect" id="Node000020" href="$dd/dd6/classcrypto_1_1DsaSigner.html" title="Generic signer for asymmetric cryptography." alt="" coords="409,1127,544,1167"/>
+<area shape="poly" id="edge19_Node000004_Node000020" title=" " alt="" coords="259,767,264,836,280,929,294,979,314,1028,340,1073,373,1113,390,1126,410,1135,408,1140,387,1131,369,1117,335,1076,309,1030,289,980,275,930,259,837,254,767"/>
+<area shape="rect" id="Node000021" href="$d0/d37/classcrypto_1_1HmacShaSigner.html" title="HMAC&#45;SHA signer." alt="" coords="396,1191,557,1231"/>
+<area shape="poly" id="edge20_Node000004_Node000021" title=" " alt="" coords="263,767,277,859,301,982,333,1100,352,1146,373,1177,397,1195,394,1199,369,1181,347,1149,328,1102,295,983,272,859,257,768"/>
+<area shape="rect" id="Node000022" href="$db/d35/classcrypto_1_1SignerNone.html" title="&quot;none&quot; algorithm signer" alt="" coords="409,1256,544,1281"/>
+<area shape="poly" id="edge21_Node000004_Node000022" title=" " alt="" coords="262,766,273,870,295,1014,310,1086,328,1152,349,1206,373,1241,390,1254,410,1262,408,1267,387,1259,369,1245,344,1208,323,1154,305,1087,290,1014,268,871,256,767"/>
+<area shape="rect" id="Node000024" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="378,1305,575,1360"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="256,1935,266,1815,287,1647,302,1560,320,1481,342,1415,369,1370,381,1358,384,1362,373,1373,347,1418,325,1482,307,1561,292,1647,271,1816,261,1935"/>
+<area shape="rect" id="Node000025" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="378,1384,575,1439"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="257,1935,269,1830,291,1685,307,1611,325,1543,345,1487,369,1448,381,1437,384,1441,373,1452,350,1490,330,1545,312,1612,297,1686,274,1831,262,1936"/>
+<area shape="rect" id="Node000026" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="378,1463,575,1517"/>
+<area shape="poly" id="edge25_Node000023_Node000026" title=" " alt="" coords="253,1935,255,1857,269,1749,283,1690,304,1631,332,1576,369,1527,382,1515,385,1519,373,1530,337,1579,309,1634,289,1691,274,1750,261,1858,258,1935"/>
+<area shape="rect" id="Node000027" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="382,1541,571,1596"/>
+<area shape="poly" id="edge26_Node000023_Node000027" title=" " alt="" coords="255,1935,261,1870,279,1782,293,1735,313,1688,338,1645,369,1605,382,1594,386,1598,373,1609,342,1648,317,1691,298,1737,284,1783,267,1871,260,1936"/>
+<area shape="rect" id="Node000028" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="382,1620,571,1675"/>
+<area shape="poly" id="edge27_Node000023_Node000028" title=" " alt="" coords="258,1935,269,1883,289,1816,321,1746,343,1713,369,1684,383,1673,387,1677,372,1688,347,1716,326,1749,294,1818,274,1884,263,1936"/>
+<area shape="rect" id="Node000029" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="382,1699,571,1753"/>
+<area shape="poly" id="edge28_Node000023_Node000029" title=" " alt="" coords="263,1935,278,1897,300,1851,331,1804,369,1763,385,1751,388,1756,372,1767,335,1807,305,1854,282,1899,268,1937"/>
+<area shape="rect" id="Node000030" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="401,1777,553,1832"/>
+<area shape="poly" id="edge29_Node000023_Node000030" title=" " alt="" coords="272,1936,313,1889,340,1863,369,1841,399,1825,401,1830,372,1846,343,1867,317,1892,276,1940"/>
+<area shape="rect" id="Node000031" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="401,1856,553,1911"/>
+<area shape="poly" id="edge30_Node000023_Node000031" title=" " alt="" coords="304,1942,399,1908,401,1913,306,1947"/>
+<area shape="rect" id="Node000032" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="401,1935,553,1989"/>
+<area shape="poly" id="edge31_Node000023_Node000032" title=" " alt="" coords="323,1959,401,1959,401,1965,323,1965"/>
+<area shape="rect" id="Node000033" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="378,2013,575,2068"/>
+<area shape="poly" id="edge32_Node000023_Node000033" title=" " alt="" coords="306,1977,400,2011,398,2016,304,1982"/>
+<area shape="rect" id="Node000034" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title=" " alt="" coords="401,2092,553,2147"/>
+<area shape="poly" id="edge33_Node000023_Node000034" title=" " alt="" coords="276,1984,317,2031,344,2055,372,2077,401,2093,399,2098,369,2082,340,2059,313,2034,272,1987"/>
+<area shape="rect" id="Node000035" href="$d6/db8/classcrypto_1_1HmacShaVerifier.html" title=" " alt="" coords="394,2171,559,2211"/>
+<area shape="poly" id="edge34_Node000023_Node000035" title=" " alt="" coords="267,1987,282,2024,304,2070,334,2116,372,2156,395,2170,393,2174,369,2160,330,2120,299,2073,277,2027,262,1989"/>
+<area shape="rect" id="Node000036" href="$d6/db8/classcrypto_1_1HmacShaVerifier.html" title=" " alt="" coords="394,2235,559,2275"/>
+<area shape="poly" id="edge35_Node000023_Node000036" title=" " alt="" coords="263,1988,274,2037,295,2100,327,2166,348,2195,372,2221,395,2236,392,2241,369,2225,344,2199,322,2168,290,2102,269,2039,258,1989"/>
+<area shape="rect" id="Node000037" href="$d6/db8/classcrypto_1_1HmacShaVerifier.html" title=" " alt="" coords="394,2299,559,2339"/>
+<area shape="poly" id="edge36_Node000023_Node000037" title=" " alt="" coords="261,1988,268,2049,286,2129,301,2171,319,2213,343,2251,372,2285,395,2301,392,2305,369,2289,339,2255,315,2215,296,2173,281,2130,263,2050,255,1989"/>
+<area shape="rect" id="Node000038" href="$d6/db8/classcrypto_1_1HmacShaVerifier.html" title=" " alt="" coords="394,2363,559,2403"/>
+<area shape="poly" id="edge37_Node000023_Node000038" title=" " alt="" coords="259,1988,263,2060,278,2157,292,2209,312,2260,339,2307,372,2349,395,2365,392,2370,369,2353,334,2310,307,2262,287,2210,273,2158,257,2060,254,1989"/>
+<area shape="rect" id="Node000039" href="$dc/d8c/classcrypto_1_1DsaVerifier.html" title="Generic verifier for asymmetric cryptography." alt="" coords="411,2427,542,2467"/>
+<area shape="poly" id="edge38_Node000023_Node000039" title=" " alt="" coords="263,1988,276,2082,299,2210,315,2275,332,2333,351,2381,373,2414,391,2427,412,2436,410,2441,388,2432,369,2417,347,2384,327,2335,310,2276,294,2211,271,2083,257,1989"/>
+<area shape="rect" id="Node000040" href="$d6/db8/classcrypto_1_1HmacShaVerifier.html" title="HMAC&#45;SHA verifier." alt="" coords="394,2491,559,2531"/>
+<area shape="poly" id="edge39_Node000023_Node000040" title=" " alt="" coords="262,1988,273,2095,295,2242,311,2316,328,2384,349,2440,373,2478,395,2494,392,2498,369,2481,344,2442,323,2386,305,2318,290,2243,268,2096,256,1989"/>
+<area shape="rect" id="Node000041" href="$d3/d87/classcrypto_1_1VerifierNone.html" title="&quot;none&quot; algorithm verifier" alt="" coords="407,2556,546,2581"/>
+<area shape="poly" id="edge40_Node000023_Node000041" title=" " alt="" coords="261,1989,270,2107,290,2274,305,2359,324,2436,346,2499,359,2523,373,2541,389,2554,408,2561,406,2566,386,2558,369,2545,354,2526,341,2501,318,2438,300,2360,285,2275,265,2108,256,1989"/>
+</map>

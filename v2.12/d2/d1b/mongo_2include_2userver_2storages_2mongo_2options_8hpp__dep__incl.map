@@ -1,0 +1,38 @@
+<map id="userver/storages/mongo/options.hpp" name="userver/storages/mongo/options.hpp">
+<area shape="rect" id="Node000001" title="Query options." alt="" coords="355,5,517,45"/>
+<area shape="rect" id="Node000002" href="$dd/d6c/base__mongo__cache_8hpp.html" title="Base class for all caches polling mongo collection" alt="" coords="661,357,797,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,49,559,91,610,131,650,180,678,227,700,277,727,356,722,358,695,278,673,230,646,183,606,134,556,96,487,54"/>
+<area shape="rect" id="Node000003" href="$d2/d86/mongo_8hpp.html" title="Include&#45;all header for MongoDB client." alt="" coords="5,453,192,478"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,38,261,54,221,68,183,85,151,106,125,132,107,163,101,200,101,291,101,453,96,453,96,291,96,200,102,161,120,129,147,102,181,80,219,63,260,49,340,33"/>
+<area shape="rect" id="Node000004" href="$d5/d0f/bulk_8hpp.html" title="Bulk collection operation model." alt="" coords="261,181,424,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="384,54,362,72,345,95,338,116,336,139,340,181,335,181,330,139,333,115,340,92,358,69,381,50"/>
+<area shape="rect" id="Node000013" href="$d3/df1/bulk__ops_8hpp.html" title="Bulk sub&#45;operation models." alt="" coords="355,93,517,133"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="439,59,439,93,433,93,433,59"/>
+<area shape="rect" id="Node000014" href="$de/d6b/mongo_2include_2userver_2storages_2mongo_2operations_8hpp.html" title="Collection operation models." alt="" coords="473,181,636,221"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="487,51,511,69,532,92,543,114,551,138,557,181,551,181,545,139,538,116,527,95,508,73,484,55"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="309,232,242,288,171,359,134,410,107,453,103,451,129,407,167,356,239,284,305,228"/>
+<area shape="rect" id="Node000005" href="$d4/db6/collection_8hpp.html" title="MongoDB collection handle, the main way to operate with MongoDB." alt="" coords="356,269,519,309"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="376,229,418,267,415,271,372,233"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="515,311,666,355,665,360,514,316"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="343,314,284,334,227,360,170,403,113,455,109,451,167,399,224,355,282,329,342,309"/>
+<area shape="rect" id="Node000006" href="$d5/d93/mongo_2include_2userver_2storages_2mongo_2dist__lock__component__base_8hpp.html" title="Base class for mongo&#45;based distlock worker components." alt="" coords="641,445,850,485"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="439,323,445,361,453,380,464,395,487,406,530,418,644,443,643,448,529,423,485,411,461,399,448,382,440,363,434,324"/>
+<area shape="rect" id="Node000007" href="$d6/d83/mongo_2include_2userver_2storages_2mongo_2dist__lock__strategy_8hpp_source.html" title=" " alt="" coords="475,357,637,397"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="476,315,531,355,528,359,473,320"/>
+<area shape="rect" id="Node000008" href="$d8/d62/mongo_2include_2userver_2storages_2mongo_2pool_8hpp.html" title="MongoDB client pool." alt="" coords="237,357,400,397"/>
+<area shape="poly" id="edge11_Node000005_Node000008" title=" " alt="" coords="401,320,346,359,343,355,398,315"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="611,401,705,443,703,448,609,405"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="259,405,129,455,127,450,257,400"/>
+<area shape="rect" id="Node000009" href="$d1/dd7/mongo_2include_2userver_2storages_2mongo_2component_8hpp.html" title="MongoDB client component." alt="" coords="207,533,369,573"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="284,409,269,426,257,446,253,469,257,492,277,532,272,534,252,493,248,469,252,444,264,423,280,405"/>
+<area shape="rect" id="Node000010" href="$d2/de5/multi__mongo_8hpp_source.html" title=" " alt="" coords="267,445,429,485"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="332,410,344,444,339,446,327,411"/>
+<area shape="rect" id="Node000011" href="$d7/d49/mongo__local_8hpp.html" title="Mongo local class." alt="" coords="453,445,616,485"/>
+<area shape="poly" id="edge16_Node000008_Node000011" title=" " alt="" coords="380,400,488,443,486,448,378,405"/>
+<area shape="poly" id="edge15_Node000010_Node000009" title=" " alt="" coords="329,498,303,535,299,532,325,495"/>
+<area shape="rect" id="Node000012" href="$d0/d79/mongo__fixture_8hpp.html" title="Provides access to storages::mongo::Pool by means storages::mongo::utest::MongoLocal class." alt="" coords="451,533,618,573"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="537,499,537,533,532,533,532,499"/>
+<area shape="poly" id="edge19_Node000013_Node000004" title=" " alt="" coords="407,145,365,183,362,179,403,141"/>
+<area shape="poly" id="edge21_Node000014_Node000002" title=" " alt="" coords="585,229,712,355,708,359,582,233"/>
+<area shape="poly" id="edge22_Node000014_Node000005" title=" " alt="" coords="519,232,465,271,462,267,516,228"/>
+</map>

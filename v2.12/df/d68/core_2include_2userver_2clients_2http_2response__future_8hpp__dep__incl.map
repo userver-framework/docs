@@ -1,0 +1,64 @@
+<map id="userver/clients/http/response_future.hpp" name="userver/clients/http/response_future.hpp">
+<area shape="rect" id="Node000001" title="Allows to perform a request concurrently with other work without creating an extra coroutine for wait..." alt="" coords="973,5,1117,45"/>
+<area shape="rect" id="Node000002" href="$d1/d57/core_2include_2userver_2clients_2http_2request_8hpp.html" title="Class for creating and performing new http requests." alt="" coords="979,93,1112,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1048,59,1048,93,1043,93,1043,59"/>
+<area shape="rect" id="Node000003" href="$da/d0c/s3api_2src_2s3api_2authenticators_2utils_8cpp_source.html" title=" " alt="" coords="5,416,171,500"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="965,125,833,142,663,175,572,198,479,226,388,261,301,301,255,328,210,359,135,418,132,414,207,354,252,324,299,296,386,256,477,221,570,193,662,170,832,137,964,119"/>
+<area shape="rect" id="Node000004" href="$d6/d5d/libraries_2s3api_2src_2s3api_2clients_2client_8hpp_source.html" title=" " alt="" coords="1060,181,1241,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1077,141,1117,179,1113,183,1073,145"/>
+<area shape="rect" id="Node000006" href="$de/d4d/s3__connection_8hpp_source.html" title=" " alt="" coords="844,181,1036,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1017,145,977,183,974,179,1014,141"/>
+<area shape="rect" id="Node000008" href="$d3/db8/core_2include_2userver_2clients_2http_2client_8hpp.html" title="HTTP client that returns a HTTP request builder from CreateRequest()." alt="" coords="1265,196,1399,236"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="1123,135,1254,179,1291,193,1289,198,1252,184,1121,140"/>
+<area shape="rect" id="Node000020" href="$d6/d65/libraries_2s3api_2include_2userver_2s3api_2models_2request_8hpp.html" title="Request class. Although it is rarely used in S3 client, it is required to implement authenticator." alt="" coords="661,196,808,236"/>
+<area shape="poly" id="edge25_Node000002_Node000020" title=" " alt="" coords="972,140,833,184,789,198,788,193,831,179,970,135"/>
+<area shape="rect" id="Node000027" href="$d2/d6c/http__server__mock_8hpp.html" title="Toy HTTP server for testing; for raw TCP or TLS testing use utest::SimpleServer." alt="" coords="1423,196,1553,236"/>
+<area shape="poly" id="edge35_Node000002_Node000027" title=" " alt="" coords="1126,121,1261,143,1337,159,1411,179,1450,193,1448,198,1410,184,1336,164,1260,148,1125,127"/>
+<area shape="rect" id="Node000005" href="$d9/d95/client_8cpp_source.html" title=" " alt="" coords="989,423,1171,493"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1139,265,1092,424,1087,422,1134,263"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1019,257,1040,275,1057,297,1071,328,1080,362,1085,423,1079,423,1075,363,1066,330,1052,300,1036,279,1015,261"/>
+<area shape="rect" id="Node000007" href="$db/dbf/s3__connection_8cpp_source.html" title=" " alt="" coords="851,299,1043,368"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="945,264,947,298,942,299,940,265"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="1279,244,1254,253,1146,286,1043,313,1042,308,1144,281,1252,248,1277,239"/>
+<area shape="rect" id="Node000009" href="$d7/d98/core_2include_2userver_2clients_2http_2component_8hpp.html" title="Component that manages clients::http::Client." alt="" coords="1508,313,1641,353"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1385,239,1536,311,1534,316,1383,244"/>
+<area shape="rect" id="Node000015" href="$d9/d66/easy_8hpp.html" title="Headers of an library for easy prototyping." alt="" coords="2093,321,2213,346"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="1384,239,1411,248,1506,270,1604,287,1797,312,1967,324,2093,329,2093,334,1967,329,1796,317,1603,293,1505,275,1410,253,1382,244"/>
+<area shape="rect" id="Node000010" href="$d4/d8e/easy_2samples_24__custom__dependency_2main_8cpp_source.html" title=" " alt="" coords="1572,416,1785,500"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1602,362,1646,414,1642,417,1598,366"/>
+<area shape="rect" id="Node000011" href="$d3/dc4/easy_2samples_25__pg__service__template_2src_2main_8cpp_source.html" title=" " alt="" coords="1809,416,2023,500"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1641,356,1810,416,1808,421,1639,361"/>
+<area shape="rect" id="Node000012" href="$d1/de1/easy_2samples_26__pg__service__template__no__http__with_2src_2main_8cpp_source.html" title=" " alt="" coords="2047,416,2260,500"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="1656,342,1831,370,1934,390,2035,413,2047,417,2045,422,2034,419,1933,395,1830,375,1655,348"/>
+<area shape="rect" id="Node000013" href="$dc/d2e/easy_8cpp_source.html" title=" " alt="" coords="1394,423,1547,493"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="1552,366,1501,425,1497,421,1548,362"/>
+<area shape="rect" id="Node000014" href="$db/d29/grpc-reflection_2functional__tests_2golden__path_2main_8cpp_source.html" title=" " alt="" coords="1195,416,1370,500"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="1518,361,1371,423,1369,418,1516,356"/>
+<area shape="poly" id="edge21_Node000015_Node000010" title=" " alt="" coords="2082,351,1949,380,1798,419,1787,422,1785,417,1797,413,1948,375,2081,346"/>
+<area shape="poly" id="edge22_Node000015_Node000011" title=" " alt="" coords="2120,355,1997,418,1994,413,2118,350"/>
+<area shape="poly" id="edge23_Node000015_Node000012" title=" " alt="" coords="2156,360,2156,416,2151,416,2151,360"/>
+<area shape="poly" id="edge24_Node000015_Node000013" title=" " alt="" coords="2080,341,1976,348,1846,362,1703,385,1561,419,1540,426,1538,421,1559,413,1702,380,1845,357,1976,343,2079,335"/>
+<area shape="rect" id="Node000016" href="$db/d04/easy_2samples_20__hello__world_2main_8cpp_source.html" title=" " alt="" coords="2901,423,3115,493"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="2227,335,2354,342,2519,356,2705,379,2890,413,2918,421,2917,426,2889,419,2704,385,2519,362,2353,348,2227,340"/>
+<area shape="rect" id="Node000017" href="$de/d8c/easy_2samples_21__hi_2main_8cpp_source.html" title=" " alt="" coords="2284,423,2444,493"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="2186,351,2307,421,2305,425,2184,355"/>
+<area shape="rect" id="Node000018" href="$d0/df2/easy_2samples_22__key__value_2main_8cpp_source.html" title=" " alt="" coords="2469,423,2678,493"/>
+<area shape="poly" id="edge19_Node000015_Node000018" title=" " alt="" coords="2214,347,2457,413,2480,421,2478,426,2455,419,2212,352"/>
+<area shape="rect" id="Node000019" href="$da/d8c/easy_2samples_23__json_2main_8cpp_source.html" title=" " alt="" coords="2702,423,2877,493"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="2227,338,2438,362,2565,384,2691,413,2714,421,2713,426,2690,419,2564,389,2437,367,2227,343"/>
+<area shape="poly" id="edge26_Node000020_Node000007" title=" " alt="" coords="782,240,886,296,883,301,780,245"/>
+<area shape="rect" id="Node000021" href="$da/d4a/s3api__methods_8hpp_source.html" title=" " alt="" coords="630,299,826,368"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="735,250,733,299,727,299,730,250"/>
+<area shape="rect" id="Node000024" href="$d6/d92/libraries_2s3api_2include_2userver_2s3api_2authenticators_2utils_8hpp.html" title="Helpers for writing your own authenticators." alt="" coords="312,313,499,353"/>
+<area shape="poly" id="edge31_Node000020_Node000024" title=" " alt="" coords="669,243,460,316,458,311,667,238"/>
+<area shape="poly" id="edge28_Node000021_Node000005" title=" " alt="" coords="840,367,978,413,998,421,996,426,976,419,839,372"/>
+<area shape="rect" id="Node000022" href="$d8/d26/s3api__methods_8cpp_source.html" title=" " alt="" coords="574,423,770,493"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="709,382,690,424,685,422,705,379"/>
+<area shape="rect" id="Node000023" href="$d8/d2e/s3api__methods__test_8cpp_source.html" title=" " alt="" coords="795,416,965,500"/>
+<area shape="poly" id="edge30_Node000021_Node000023" title=" " alt="" coords="782,375,831,414,828,418,779,379"/>
+<area shape="poly" id="edge33_Node000024_Node000003" title=" " alt="" coords="340,360,184,418,172,423,170,418,182,414,338,355"/>
+<area shape="rect" id="Node000025" href="$d9/dd8/access__key_8cpp_source.html" title=" " alt="" coords="384,416,549,500"/>
+<area shape="poly" id="edge32_Node000024_Node000025" title=" " alt="" coords="423,365,448,414,444,417,419,367"/>
+<area shape="rect" id="Node000026" href="$d5/d38/utils__test_8cpp_source.html" title=" " alt="" coords="195,416,360,500"/>
+<area shape="poly" id="edge34_Node000024_Node000026" title=" " alt="" coords="377,365,322,417,319,414,373,361"/>
+</map>
