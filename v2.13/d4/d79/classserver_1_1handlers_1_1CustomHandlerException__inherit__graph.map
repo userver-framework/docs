@@ -1,0 +1,37 @@
+<map id="server::handlers::CustomHandlerException" name="server::handlers::CustomHandlerException">
+<area shape="rect" id="Node000001" title="The generic base class for handler exceptions. Thrown exceptions should typically derive from Excepti..." alt="" coords="355,313,540,353"/>
+<area shape="rect" id="Node000004" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="615,5,819,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,299,469,245,495,179,534,112,558,82,586,55,614,39,616,44,590,59,562,85,538,115,500,182,474,247,458,301"/>
+<area shape="rect" id="Node000005" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="610,70,825,125"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="461,300,481,261,509,217,544,172,586,134,609,121,611,125,590,138,548,176,513,220,485,264,466,302"/>
+<area shape="rect" id="Node000007" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="588,149,847,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="475,301,525,256,587,214,614,201,616,206,589,218,528,261,479,305"/>
+<area shape="rect" id="Node000009" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="610,227,825,282"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="529,307,622,280,624,285,531,312"/>
+<area shape="rect" id="Node000011" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="610,306,825,361"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="554,331,610,331,610,336,554,336"/>
+<area shape="rect" id="Node000013" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="610,385,825,439"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="531,355,624,382,622,387,529,360"/>
+<area shape="rect" id="Node000015" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title=" " alt="" coords="610,463,825,518"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="478,361,528,407,558,430,589,450,613,461,611,466,587,454,554,434,524,411,475,365"/>
+<area shape="rect" id="Node000017" href="$d5/d58/classserver_1_1handlers_1_1ExceptionWithCode.html" title="Base class for handler exceptions. For common HandlerErrorCode values you can use more specific excep..." alt="" coords="618,543,817,583"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="465,365,485,404,513,448,548,492,589,528,619,544,617,548,587,533,544,495,508,451,480,406,461,368"/>
+<area shape="rect" id="Node000018" href="$d1/dc3/classserver_1_1http_1_1CustomHandlerException.html" title="An extension of server::handlers::CustomHandlerException that allows to specify a custom HttpStatus." alt="" coords="614,607,821,647"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="459,366,476,417,502,478,540,540,563,568,590,593,615,607,612,612,586,597,559,572,535,543,497,481,471,418,454,367"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="168,321,307,346"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,331,354,331,354,336,320,336"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,321,120,346"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,331,168,331,168,336,134,336"/>
+<area shape="rect" id="Node000006" href="$db/d63/classserver_1_1handlers_1_1ClientError.html" title=" " alt="" coords="919,77,1093,117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="838,95,919,95,919,100,838,100"/>
+<area shape="rect" id="Node000008" href="$db/d1c/classserver_1_1handlers_1_1ConflictError.html" title=" " alt="" coords="914,156,1098,196"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="861,173,914,173,914,179,861,179"/>
+<area shape="rect" id="Node000010" href="$d3/d98/classserver_1_1handlers_1_1InternalServerError.html" title=" " alt="" coords="913,235,1099,275"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="838,252,913,252,913,257,838,257"/>
+<area shape="rect" id="Node000012" href="$d4/ddf/classserver_1_1handlers_1_1RequestParseError.html" title=" " alt="" coords="912,313,1100,353"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="838,331,912,331,912,336,838,336"/>
+<area shape="rect" id="Node000014" href="$d2/d91/classserver_1_1handlers_1_1ResourceNotFound.html" title=" " alt="" coords="909,392,1103,432"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="838,409,909,409,909,415,838,415"/>
+<area shape="rect" id="Node000016" href="$d1/d7b/classserver_1_1handlers_1_1Unauthorized.html" title=" " alt="" coords="895,478,1117,503"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="838,488,894,488,894,493,838,493"/>
+</map>

@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['1_0',['RabbitMQ (AMQP 0-9-1)',['../dd/de2/rabbitmq_driver.html',1,'']]],
+  ['1_200_1',['Boost Software License - Version 1.0',['../d6/dc8/md__2data_2code_2userver_2THIRD__PARTY.html#autotoc_md88',1,'']]],
+  ['1_200_200_2',['Release 1.0.0',['../dc/d30/md_en_2userver_2publications.html#autotoc_md767',1,'']]],
+  ['1_20may_202024_3',['Release v2.1 (May 2024)',['../da/d9a/md_en_2userver_2roadmap__and__changelog.html#autotoc_md801',1,'']]],
+  ['10_4',['10',['../da/d9a/md_en_2userver_2roadmap__and__changelog.html#autotoc_md792',1,'Release v2.10'],['../d1/dc1/md_en_2deps_2ubuntu-21_810.html',1,'ubuntu-21.10']]],
+  ['10_20impish_20indri_5',['Ubuntu 21.10 (Impish Indri)',['../de/db9/md_en_2userver_2build_2dependencies.html#autotoc_md216',1,'']]],
+  ['11_6',['11',['../de/db9/md_en_2userver_2build_2dependencies.html#autotoc_md218',1,'Debian 11'],['../da/d91/md_en_2deps_2debian-11.html',1,'debian-11'],['../da/d9a/md_en_2userver_2roadmap__and__changelog.html#autotoc_md791',1,'Release v2.11']]],
+  ['11_2032_20bit_7',['Debian 11 32-bit',['../de/db9/md_en_2userver_2build_2dependencies.html#autotoc_md219',1,'']]],
+  ['12_8',['12',['../de/db9/md_en_2userver_2build_2dependencies.html#autotoc_md217',1,'Debian 12'],['../d1/dea/md_en_2deps_2debian-12.html',1,'debian-12'],['../da/d9a/md_en_2userver_2roadmap__and__changelog.html#autotoc_md790',1,'Release v2.12']]],
+  ['13_9',['13',['../d5/d1e/md_en_2deps_2debian-13.html',1,'debian-13'],['../da/d9a/md_en_2userver_2roadmap__and__changelog.html#autotoc_md789',1,'Release v2.13']]]
+];

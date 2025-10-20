@@ -1,0 +1,124 @@
+<map id="/data/code/userver/libraries/proto&#45;structs/include/userver/proto&#45;structs/io/fwd.hpp" name="/data/code/userver/libraries/proto&#45;structs/include/userver/proto&#45;structs/io/fwd.hpp">
+<area shape="rect" id="Node000001" title="Forward declarations of utlity types for conversions." alt="" coords="4891,5,5057,75"/>
+<area shape="rect" id="Node000002" href="$d2/d81/libraries_2proto-structs_2include_2userver_2proto-structs_2io_2context_8hpp.html" title="Conversion context classes which provide methods for performing conversion." alt="" coords="3854,137,4022,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4877,56,4022,163,4022,158,4877,51"/>
+<area shape="rect" id="Node000045" href="$dd/d97/time__point__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::chrono::time_point conversion." alt="" coords="4349,130,4543,214"/>
+<area shape="poly" id="edge47_Node000001_Node000045" title=" " alt="" coords="4877,57,4725,83,4640,102,4556,125,4535,132,4533,127,4555,120,4638,97,4724,78,4877,51"/>
+<area shape="rect" id="Node000046" href="$da/d9e/year__month__day__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::chrono::year_month_day conversion." alt="" coords="4567,130,4759,214"/>
+<area shape="poly" id="edge49_Node000001_Node000046" title=" " alt="" coords="4879,82,4772,125,4756,132,4754,127,4770,120,4877,77"/>
+<area shape="rect" id="Node000019" href="$d2/ded/any__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::proto_structs::Any conversion." alt="" coords="4783,130,4962,214"/>
+<area shape="poly" id="edge51_Node000001_Node000019" title=" " alt="" coords="4941,87,4907,131,4903,128,4937,84"/>
+<area shape="rect" id="Node000047" href="$d5/d14/date__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::proto_structs::Date conversion." alt="" coords="4986,130,5165,214"/>
+<area shape="poly" id="edge53_Node000001_Node000047" title=" " alt="" coords="5011,84,5045,128,5041,131,5007,87"/>
+<area shape="rect" id="Node000048" href="$d3/d7f/userver_2proto__structs_2duration__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::proto_structs::Duration convers..." alt="" coords="5189,130,5385,214"/>
+<area shape="poly" id="edge55_Node000001_Node000048" title=" " alt="" coords="5071,77,5178,120,5195,127,5193,132,5176,125,5069,82"/>
+<area shape="rect" id="Node000049" href="$d5/dd6/proto__structs_2time__of__day__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::proto_structs::TimeOfDay conver..." alt="" coords="5677,130,5900,214"/>
+<area shape="poly" id="edge57_Node000001_Node000049" title=" " alt="" coords="5071,42,5192,50,5341,64,5504,87,5665,120,5691,127,5689,132,5664,125,5503,92,5340,70,5191,56,5071,48"/>
+<area shape="rect" id="Node000050" href="$d1/d3f/timestamp__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::proto_structs::Timestamp conver..." alt="" coords="5925,130,6138,214"/>
+<area shape="poly" id="edge59_Node000001_Node000050" title=" " alt="" coords="5071,38,5233,41,5443,52,5678,77,5796,96,5912,120,5937,127,5936,132,5911,125,5795,101,5677,82,5443,58,5232,46,5071,43"/>
+<area shape="rect" id="Node000051" href="$de/daf/unbreakable__dependency__cycle__conv_8hpp.html" title="Provides read/write context class with the ability to handle. proto_structs::UnbreakableDependecyCycl..." alt="" coords="5410,123,5653,221"/>
+<area shape="poly" id="edge61_Node000001_Node000051" title=" " alt="" coords="5071,53,5225,80,5397,120,5410,124,5409,129,5396,125,5224,86,5070,58"/>
+<area shape="rect" id="Node000052" href="$de/d21/box__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::utils::Box conversion." alt="" coords="6163,130,6335,214"/>
+<area shape="poly" id="edge62_Node000001_Node000052" title=" " alt="" coords="5071,41,5314,48,5626,62,5930,86,6056,101,6151,120,6172,127,6171,132,6149,125,6055,107,5930,91,5626,67,5314,53,5071,46"/>
+<area shape="rect" id="Node000053" href="$df/d55/struct__simple_8hpp_source.html" title=" " alt="" coords="2117,145,2295,199"/>
+<area shape="poly" id="edge64_Node000001_Node000053" title=" " alt="" coords="4877,49,2296,169,2296,164,4877,43"/>
+<area shape="rect" id="Node000015" href="$db/da8/libraries_2proto-structs_2tests_2structs_8hpp_source.html" title=" " alt="" coords="1996,284,2163,339"/>
+<area shape="poly" id="edge72_Node000001_Node000015" title=" " alt="" coords="4877,45,4243,53,3325,69,2875,81,2491,94,2219,108,2140,117,2106,125,2092,141,2082,160,2072,203,2072,246,2076,283,2071,284,2066,247,2067,202,2077,158,2088,138,2103,120,2139,111,2218,103,2490,88,2875,75,3325,64,4243,48,4877,40"/>
+<area shape="rect" id="Node000003" href="$d2/d34/libraries_2proto-structs_2include_2userver_2proto-structs_2convert_8hpp.html" title="Functions for protobuf message to/from struct conversion." alt="" coords="1061,277,1228,346"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3840,181,1228,309,1228,303,3840,175"/>
+<area shape="rect" id="Node000024" href="$d2/dbc/std_2chrono_2duration__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::chrono::duration conversion." alt="" coords="3001,269,3219,353"/>
+<area shape="poly" id="edge17_Node000002_Node000024" title=" " alt="" coords="3841,183,3565,213,3398,239,3232,272,3220,275,3218,270,3231,267,3397,233,3565,208,3840,178"/>
+<area shape="rect" id="Node000025" href="$df/da4/hh__mm__ss__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::chrono::hh_mm_ss conversion." alt="" coords="5319,269,5498,353"/>
+<area shape="poly" id="edge21_Node000002_Node000025" title=" " alt="" coords="4036,184,4178,202,4337,219,4485,227,4611,229,4825,222,4928,221,5038,225,5163,240,5308,267,5320,270,5318,275,5307,272,5162,245,5038,231,4928,226,4825,227,4611,234,4485,233,4336,224,4178,208,4035,190"/>
+<area shape="rect" id="Node000026" href="$d4/dcb/scalar__conv_8hpp.html" title="Provides read/write context class with the ability to handle all scalar conversions." alt="" coords="3243,277,3462,346"/>
+<area shape="poly" id="edge23_Node000002_Node000026" title=" " alt="" coords="3841,193,3669,226,3475,272,3450,279,3448,274,3473,267,3668,221,3840,187"/>
+<area shape="rect" id="Node000034" href="$dd/d0f/vector__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::vector conversion." alt="" coords="3486,277,3707,346"/>
+<area shape="poly" id="edge32_Node000002_Node000034" title=" " alt="" coords="3843,214,3681,279,3679,274,3841,209"/>
+<area shape="rect" id="Node000035" href="$d3/dbf/decimal__conv_8hpp_source.html" title=" " alt="" coords="4612,269,4824,353"/>
+<area shape="poly" id="edge34_Node000002_Node000035" title=" " alt="" coords="4036,183,4337,222,4490,246,4600,267,4612,270,4611,275,4599,272,4489,251,4337,228,4035,188"/>
+<area shape="rect" id="Node000036" href="$d1/d86/utils_2datetime_2time__of__day__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::utils::datetime::TimeOfDay conv..." alt="" coords="4847,269,5082,353"/>
+<area shape="poly" id="edge36_Node000002_Node000036" title=" " alt="" coords="4036,183,4337,219,4477,230,4587,235,4697,244,4836,267,4848,269,4847,275,4835,272,4696,249,4587,240,4477,235,4336,224,4036,188"/>
+<area shape="rect" id="Node000037" href="$d6/d79/strong__typedef__conv_8hpp.html" title="Provides read/write context class with the ability to handle userver::utils::StrongTypedef conversion..." alt="" coords="5106,269,5295,353"/>
+<area shape="poly" id="edge38_Node000002_Node000037" title=" " alt="" coords="4036,184,4337,219,4452,227,4550,229,4718,227,4798,228,4884,233,4981,245,5095,267,5106,270,5105,275,5093,272,4980,251,4884,239,4798,233,4718,233,4550,234,4452,232,4336,224,4036,189"/>
+<area shape="rect" id="Node000038" href="$d2/d85/context__base_8cpp_source.html" title=" " alt="" coords="3732,277,3933,346"/>
+<area shape="poly" id="edge40_Node000002_Node000038" title=" " alt="" coords="3906,219,3861,278,3856,275,3902,216"/>
+<area shape="rect" id="Node000039" href="$df/d0d/time__point_8cpp_source.html" title=" " alt="" coords="3957,277,4129,346"/>
+<area shape="poly" id="edge41_Node000002_Node000039" title=" " alt="" coords="3974,216,4020,275,4015,278,3970,219"/>
+<area shape="rect" id="Node000040" href="$dd/d17/year__month__day_8cpp_source.html" title=" " alt="" coords="4154,277,4362,346"/>
+<area shape="poly" id="edge42_Node000002_Node000040" title=" " alt="" coords="4030,210,4180,274,4178,279,4028,215"/>
+<area shape="rect" id="Node000041" href="$da/df5/io_2userver_2proto__structs_2date_8cpp_source.html" title=" " alt="" coords="4387,277,4588,346"/>
+<area shape="poly" id="edge43_Node000002_Node000041" title=" " alt="" coords="4036,189,4196,222,4375,267,4398,274,4397,279,4373,272,4195,227,4035,194"/>
+<area shape="rect" id="Node000042" href="$d6/dc9/io_2userver_2proto__structs_2duration_8cpp_source.html" title=" " alt="" coords="2292,277,2493,346"/>
+<area shape="poly" id="edge44_Node000002_Node000042" title=" " alt="" coords="3840,179,3550,190,3164,209,2783,236,2626,253,2507,272,2479,279,2477,274,2505,267,2625,248,2783,231,3164,204,3549,185,3840,174"/>
+<area shape="rect" id="Node000043" href="$d5/d96/io_2userver_2proto__structs_2time__of__day_8cpp_source.html" title=" " alt="" coords="2518,277,2739,346"/>
+<area shape="poly" id="edge45_Node000002_Node000043" title=" " alt="" coords="3840,176,3640,180,3369,194,3217,207,3061,223,2905,245,2752,272,2722,279,2721,274,2751,267,2904,239,3060,218,3217,201,3368,189,3640,175,3840,171"/>
+<area shape="rect" id="Node000044" href="$da/d12/io_2userver_2proto__structs_2timestamp_8cpp_source.html" title=" " alt="" coords="2763,277,2977,346"/>
+<area shape="poly" id="edge46_Node000002_Node000044" title=" " alt="" coords="3840,179,3677,186,3464,202,3227,230,3106,249,2989,272,2961,279,2960,274,2988,267,3106,244,3226,225,3464,197,3677,181,3840,173"/>
+<area shape="rect" id="Node000004" href="$d1/d3e/libraries_2grpc-proto-structs_2include_2userver_2grpc-proto-structs_2client_2response__future_8hpp.html" title="Structs future wrapper over Vanilla ResponseFufure." alt="" coords="1159,401,1341,485"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1183,355,1219,399,1215,403,1179,359"/>
+<area shape="rect" id="Node000005" href="$d3/dd0/libraries_2grpc-proto-structs_2include_2userver_2grpc-proto-structs_2client_2stream_8hpp.html" title="Structs Reader/Writer stream wrappers over Vanilla streams." alt="" coords="5,533,188,617"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1048,316,792,320,474,333,323,345,192,360,95,379,63,391,44,403,35,417,30,432,33,466,47,500,66,532,61,535,42,503,28,467,25,432,30,415,40,399,60,386,93,374,191,354,322,339,474,328,792,315,1048,310"/>
+<area shape="rect" id="Node000006" href="$d8/dd0/libraries_2grpc-proto-structs_2include_2userver_2grpc-proto-structs_2client_2stream__read__future_8hpp.html" title="proto&#45;struct stream response future." alt="" coords="55,401,237,485"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1048,321,716,348,509,372,301,404,238,418,237,413,300,399,508,366,715,342,1047,315"/>
+<area shape="rect" id="Node000007" href="$d9/d1f/libraries_2grpc-proto-structs_2include_2userver_2grpc-proto-structs_2server_2stream_8hpp.html" title="proto&#45;struct based server streaming interfaces" alt="" coords="1366,401,1553,485"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="1240,349,1367,401,1365,406,1238,354"/>
+<area shape="rect" id="Node000008" href="$dc/df4/initialization__test_8cpp_source.html" title=" " alt="" coords="1577,401,1747,485"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="1242,325,1395,355,1481,375,1565,399,1578,403,1576,408,1564,404,1480,380,1394,360,1241,330"/>
+<area shape="rect" id="Node000009" href="$de/d85/maps_2basic__test_8cpp_source.html" title=" " alt="" coords="505,409,686,478"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="1048,329,883,359,790,380,699,404,676,411,675,406,697,399,789,374,882,354,1047,324"/>
+<area shape="rect" id="Node000010" href="$dd/d9b/not__recommended__field__names_2basic__test_8cpp_source.html" title=" " alt="" coords="711,401,920,485"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="1049,353,920,404,918,399,1047,348"/>
+<area shape="rect" id="Node000011" href="$d0/d8e/simple__test_8cpp_source.html" title=" " alt="" coords="945,409,1134,478"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="1111,359,1069,410,1065,407,1106,355"/>
+<area shape="rect" id="Node000012" href="$d2/d62/any_8hpp.html" title="Wrapper for google.protobuf.Any which provides interface to access stored message as compatible struc..." alt="" coords="313,409,480,478"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="1047,320,934,330,794,346,643,370,493,404,471,411,470,406,492,399,642,365,793,340,933,324,1047,315"/>
+<area shape="rect" id="Node000016" href="$d9/d34/message__to__struct__test_8cpp_source.html" title=" " alt="" coords="1980,409,2165,478"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="1242,312,1385,319,1567,334,1768,360,1869,377,1968,399,1993,406,1992,411,1967,404,1868,383,1767,365,1566,339,1384,325,1242,318"/>
+<area shape="rect" id="Node000017" href="$dd/dc9/struct__to__message__test_8cpp_source.html" title=" " alt="" coords="1771,409,1956,478"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="1242,317,1349,328,1479,344,1619,368,1759,399,1783,406,1782,411,1757,404,1618,373,1478,350,1348,333,1241,323"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="128,499,115,534,110,532,123,497"/>
+<area shape="rect" id="Node000022" href="$d0/df3/any__test_8cpp_source.html" title=" " alt="" coords="2120,548,2287,603"/>
+<area shape="poly" id="edge13_Node000012_Node000022" title=" " alt="" coords="482,480,493,483,641,507,838,527,1067,542,1312,553,1784,566,2120,571,2120,576,1784,572,1312,558,1067,547,838,532,640,512,492,488,480,485"/>
+<area shape="rect" id="Node000023" href="$dd/df3/oneof__test_8cpp_source.html" title=" " alt="" coords="241,548,408,603"/>
+<area shape="poly" id="edge14_Node000012_Node000023" title=" " alt="" coords="374,491,342,549,337,547,369,489"/>
+<area shape="poly" id="edge20_Node000024_Node000022" title=" " alt="" coords="2988,356,2886,373,2804,378,2725,384,2627,404,2533,433,2462,462,2392,496,2302,536,2267,550,2265,545,2300,531,2390,491,2460,458,2531,428,2625,399,2724,379,2804,373,2885,367,2987,351"/>
+<area shape="rect" id="Node000020" href="$d8/dc5/supported__types__conv_8hpp.html" title="Bundle for all proto&#45;structs/io conv&#45;headers which provide read/write context class with the ability ..." alt="" coords="5372,401,5571,485"/>
+<area shape="poly" id="edge18_Node000024_Node000020" title=" " alt="" coords="3232,350,3384,365,3623,380,4252,405,4907,425,5372,437,5372,442,4906,431,4252,411,3622,385,3384,371,3232,356"/>
+<area shape="rect" id="Node000018" href="$dc/deb/structs_8cpp_source.html" title=" " alt="" coords="2516,548,2683,603"/>
+<area shape="poly" id="edge19_Node000020_Node000018" title=" " alt="" coords="5358,452,2683,573,2683,568,5358,447"/>
+<area shape="poly" id="edge22_Node000025_Node000020" title=" " alt="" coords="5437,364,5454,400,5449,402,5432,367"/>
+<area shape="poly" id="edge31_Node000026_Node000020" title=" " alt="" coords="3457,347,3474,351,3648,374,3877,393,4145,408,4430,419,4979,433,5372,439,5372,444,4979,438,4430,425,4144,413,3877,398,3647,379,3474,356,3456,352"/>
+<area shape="rect" id="Node000027" href="$d6/d72/int32__t__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::int32_t conversion." alt="" coords="2639,401,2805,485"/>
+<area shape="poly" id="edge24_Node000026_Node000027" title=" " alt="" coords="3246,352,3231,356,3169,368,3116,374,3026,378,2936,383,2883,390,2823,404,2806,409,2805,404,2821,399,2883,385,2935,378,3025,372,3116,368,3168,362,3229,351,3245,347"/>
+<area shape="rect" id="Node000029" href="$dc/dd2/int64__t__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::int64_t conversion." alt="" coords="3461,401,3628,485"/>
+<area shape="poly" id="edge26_Node000026_Node000029" title=" " alt="" coords="3416,352,3486,399,3483,403,3413,356"/>
+<area shape="rect" id="Node000030" href="$d0/d14/size__t__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::size_t conversion." alt="" coords="3653,409,3871,478"/>
+<area shape="poly" id="edge27_Node000026_Node000030" title=" " alt="" coords="3465,348,3475,351,3640,399,3663,406,3662,411,3639,404,3473,356,3463,353"/>
+<area shape="rect" id="Node000031" href="$d8/d16/string__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::string conversion." alt="" coords="2835,409,3052,478"/>
+<area shape="poly" id="edge28_Node000026_Node000031" title=" " alt="" coords="3241,353,3231,356,3065,404,3043,411,3041,406,3064,399,3229,351,3239,348"/>
+<area shape="rect" id="Node000032" href="$d8/d11/uint32__t__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::uint32_t conversion." alt="" coords="3077,401,3245,485"/>
+<area shape="poly" id="edge29_Node000026_Node000032" title=" " alt="" coords="3293,356,3223,403,3220,399,3290,352"/>
+<area shape="rect" id="Node000033" href="$d4/dc4/uint64__t__conv_8hpp.html" title="Provides read/write context class with the ability to handle std::uint64_t conversion." alt="" coords="3269,401,3437,485"/>
+<area shape="poly" id="edge30_Node000026_Node000033" title=" " alt="" coords="3355,360,3355,401,3350,401,3350,360"/>
+<area shape="rect" id="Node000028" href="$db/d58/struct__simple_8cpp_source.html" title=" " alt="" coords="2313,548,2491,603"/>
+<area shape="poly" id="edge25_Node000027_Node000028" title=" " alt="" coords="2626,486,2467,550,2465,545,2624,481"/>
+<area shape="poly" id="edge33_Node000034_Node000020" title=" " alt="" coords="3702,347,3720,351,3869,371,4068,389,4298,403,4545,415,5023,430,5372,438,5372,443,5023,436,4545,420,4298,409,4067,394,3869,377,3719,356,3701,352"/>
+<area shape="poly" id="edge35_Node000035_Node000020" title=" " alt="" coords="4838,351,4986,381,5132,404,5372,432,5371,437,5131,410,4985,387,4837,356"/>
+<area shape="poly" id="edge37_Node000036_Node000020" title=" " alt="" coords="5096,351,5245,389,5373,418,5371,423,5243,394,5095,356"/>
+<area shape="poly" id="edge39_Node000037_Node000020" title=" " alt="" coords="5299,357,5387,399,5385,404,5297,362"/>
+<area shape="poly" id="edge48_Node000045_Node000020" title=" " alt="" coords="4545,216,4556,219,4623,225,4738,226,5044,223,5203,224,5345,230,5453,244,5489,254,5512,267,5522,282,5528,299,5528,334,5517,370,5501,402,5496,400,5512,368,5523,334,5523,300,5518,285,5508,271,5487,259,5452,249,5344,235,5203,229,5044,228,4738,231,4623,230,4555,224,4543,221"/>
+<area shape="poly" id="edge50_Node000046_Node000020" title=" " alt="" coords="4761,216,4772,219,4827,224,4921,226,5172,227,5303,229,5419,235,5507,247,5537,256,5556,267,5569,288,5571,309,5566,330,5556,354,5542,380,5523,403,5519,399,5538,377,5552,352,5561,329,5566,308,5564,290,5552,271,5535,261,5506,253,5418,241,5302,234,5172,232,4921,231,4827,229,4771,224,4759,221"/>
+<area shape="poly" id="edge52_Node000019_Node000020" title=" " alt="" coords="4965,216,4975,219,5019,224,5095,227,5297,230,5402,234,5496,240,5567,251,5592,258,5607,267,5620,288,5623,309,5618,331,5607,355,5587,382,5561,403,5558,399,5583,378,5602,352,5613,329,5618,309,5615,290,5603,271,5589,263,5566,256,5495,245,5402,239,5297,235,5094,232,5018,229,4973,224,4964,221"/>
+<area shape="poly" id="edge54_Node000047_Node000020" title=" " alt="" coords="5169,216,5177,219,5224,226,5285,227,5428,224,5500,224,5565,230,5619,243,5641,254,5657,268,5671,289,5675,310,5670,332,5658,355,5641,376,5620,394,5572,420,5570,415,5617,389,5637,372,5653,352,5665,330,5670,310,5666,291,5653,271,5638,258,5617,248,5564,235,5499,230,5428,229,5285,232,5224,231,5176,224,5167,221"/>
+<area shape="poly" id="edge56_Node000048_Node000020" title=" " alt="" coords="5390,216,5399,219,5429,224,5468,227,5560,230,5649,240,5684,251,5708,267,5722,289,5726,310,5721,332,5708,355,5681,384,5647,407,5609,423,5572,433,5570,428,5608,418,5644,402,5677,380,5704,352,5716,330,5720,310,5717,291,5704,271,5681,255,5648,245,5560,235,5468,232,5428,229,5397,224,5388,221"/>
+<area shape="poly" id="edge58_Node000049_Node000020" title=" " alt="" coords="5788,228,5782,260,5772,294,5757,326,5736,355,5700,385,5658,407,5614,423,5572,433,5571,428,5613,418,5656,402,5697,380,5732,351,5753,324,5767,292,5777,259,5783,227"/>
+<area shape="poly" id="edge60_Node000050_Node000020" title=" " alt="" coords="5974,225,5883,292,5830,326,5775,356,5724,378,5672,396,5571,424,5570,419,5670,391,5722,373,5773,351,5827,322,5880,288,5971,221"/>
+<area shape="poly" id="edge63_Node000052_Node000020" title=" " alt="" coords="6154,222,6151,224,6008,295,5944,325,5860,356,5710,398,5571,428,5570,422,5708,393,5859,351,5942,320,6006,291,6149,219,6152,218"/>
+<area shape="poly" id="edge65_Node000053_Node000022" title=" " alt="" coords="2208,213,2206,548,2201,548,2203,213"/>
+<area shape="poly" id="edge66_Node000053_Node000023" title=" " alt="" coords="2103,180,1677,203,1396,222,1103,246,822,276,578,313,478,333,397,355,337,378,317,391,303,403,293,419,287,437,288,476,298,514,312,547,308,549,293,516,283,477,282,436,288,417,299,400,313,386,335,374,395,350,477,328,578,307,822,271,1103,241,1396,216,1677,197,2102,175"/>
+<area shape="poly" id="edge67_Node000053_Node000028" title=" " alt="" coords="2223,211,2249,278,2282,352,2339,461,2388,546,2384,549,2334,464,2277,354,2244,280,2218,213"/>
+<area shape="poly" id="edge68_Node000053_Node000015" title=" " alt="" coords="2174,212,2106,286,2102,282,2170,208"/>
+<area shape="poly" id="edge69_Node000015_Node000016" title=" " alt="" coords="2080,353,2077,409,2072,408,2075,352"/>
+<area shape="poly" id="edge70_Node000015_Node000017" title=" " alt="" coords="2025,348,1921,411,1918,406,2022,344"/>
+<area shape="poly" id="edge71_Node000015_Node000018" title=" " alt="" coords="2144,342,2549,546,2546,550,2142,347"/>
+</map>
