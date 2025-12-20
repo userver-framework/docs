@@ -175,8 +175,8 @@ $(function(){initNavTree('d6/de0/md_en_2userver_2sql__files.html','../../'); ini
 <div class="fragment"><div class="line"><span class="keyword">const</span> USERVER_NAMESPACE::storages::Query kSelectValue = {</div>
 <div class="line">    R<span class="stringliteral">&quot;-(</span></div>
 <div class="line"><span class="stringliteral">    SELECT value FROM key_value_table WHERE key=$1</span></div>
-<div class="line"><span class="stringliteral">    )-&quot;,</span></div>
-<div class="line"><span class="stringliteral">    USERVER_NAMESPACE::storages::Query::NameLiteral(</span><span class="stringliteral">&quot;select_value&quot;</span>),</div>
+<div class="line"><span class="stringliteral">    )-&quot;</span><span>,</span></div>
+<div class="line"><span>    USERVER_NAMESPACE::storages::Query::NameLiteral(</span><span class="stringliteral">&quot;select_value&quot;</span>),</div>
 <div class="line">    USERVER_NAMESPACE::storages::Query::LogMode::kFull,</div>
 <div class="line">};</div>
 </div><!-- fragment --><p>Each variable is statically initialized (has no dynamic|runtime initialization), giving a protection against static initialization order fiasco when those variables are used.</p>
