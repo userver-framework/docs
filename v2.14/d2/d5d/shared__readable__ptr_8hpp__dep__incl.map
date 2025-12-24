@@ -1,0 +1,18 @@
+<map id="userver/utils/shared_readable_ptr.hpp" name="userver/utils/shared_readable_ptr.hpp">
+<area shape="rect" id="Node000001" title="std::shared_ptr&lt;const T&gt; wrapper that makes sure that the pointer is stored before dereferencing...." alt="" coords="292,5,443,45"/>
+<area shape="rect" id="Node000002" href="$df/d56/caching__component__base_8hpp.html" title="Base class for caching components." alt="" coords="173,181,341,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,55,302,73,284,95,274,116,266,140,260,182,255,181,261,138,269,114,280,92,299,69,321,51"/>
+<area shape="rect" id="Node000006" href="$d9/d48/data__provider_8hpp.html" title="A simple interface for hiding implementation and making mocks easy to implement." alt="" coords="294,93,441,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="370,59,370,93,365,93,365,59"/>
+<area shape="rect" id="Node000008" href="$d1/df2/lazy__shared__ptr_8hpp.html" title="A lazy wrapper around utils::SharedReadablePtr that fetches the data on first access." alt="" coords="465,93,600,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="417,49,498,91,495,96,415,54"/>
+<area shape="rect" id="Node000003" href="$dd/d6c/base__mongo__cache_8hpp.html" title="Base class for all caches polling mongo collection" alt="" coords="5,269,153,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,230,119,272,117,267,204,225"/>
+<area shape="rect" id="Node000004" href="$dc/df7/base__postgres__cache_8hpp.html" title="Caching component for PostgreSQL. See Caching Component for PostgreSQL." alt="" coords="177,269,336,309"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,235,259,269,254,269,254,235"/>
+<area shape="rect" id="Node000005" href="$db/df3/core_2include_2userver_2dynamic__config_2updater_2component_8hpp.html" title="Component that does a periodic update of runtime configs." alt="" coords="361,269,542,309"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="313,224,410,267,408,272,311,229"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="333,144,283,183,280,179,330,140"/>
+<area shape="rect" id="Node000007" href="$d5/d22/data__provider__mock_8hpp.html" title="Mock implementation of DataProvider." alt="" coords="365,181,519,221"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="395,142,427,179,423,183,391,146"/>
+</map>

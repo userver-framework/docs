@@ -1,0 +1,27 @@
+var namespaceproto__structs =
+[
+    [ "io", "d9/dd8/namespaceproto__structs_1_1io.html", "d9/dd8/namespaceproto__structs_1_1io" ],
+    [ "traits", "d0/d1d/namespaceproto__structs_1_1traits.html", "d0/d1d/namespaceproto__structs_1_1traits" ],
+    [ "Any", "d8/ddc/classproto__structs_1_1Any.html", "d8/ddc/classproto__structs_1_1Any" ],
+    [ "AnyPackError", "d0/dd8/classproto__structs_1_1AnyPackError.html", "d0/dd8/classproto__structs_1_1AnyPackError" ],
+    [ "AnyUnpackError", "d6/d10/classproto__structs_1_1AnyUnpackError.html", "d6/d10/classproto__structs_1_1AnyUnpackError" ],
+    [ "ConversionError", "de/dd1/classproto__structs_1_1ConversionError.html", null ],
+    [ "Date", "db/d88/classproto__structs_1_1Date.html", "db/d88/classproto__structs_1_1Date" ],
+    [ "Duration", "db/dd0/classproto__structs_1_1Duration.html", "db/dd0/classproto__structs_1_1Duration" ],
+    [ "Error", "dc/d41/classproto__structs_1_1Error.html", null ],
+    [ "Oneof", "de/d14/classproto__structs_1_1Oneof.html", "de/d14/classproto__structs_1_1Oneof" ],
+    [ "OneofAccessError", "d4/d02/classproto__structs_1_1OneofAccessError.html", "d4/d02/classproto__structs_1_1OneofAccessError" ],
+    [ "ReadError", "d2/d7f/classproto__structs_1_1ReadError.html", "d2/d7f/classproto__structs_1_1ReadError" ],
+    [ "TimeOfDay", "db/da9/classproto__structs_1_1TimeOfDay.html", "db/da9/classproto__structs_1_1TimeOfDay" ],
+    [ "Timestamp", "dc/d94/classproto__structs_1_1Timestamp.html", "dc/d94/classproto__structs_1_1Timestamp" ],
+    [ "UnbreakableDependencyCycle", "d5/d23/structproto__structs_1_1UnbreakableDependencyCycle.html", "d5/d23/structproto__structs_1_1UnbreakableDependencyCycle" ],
+    [ "ValueError", "d4/d3f/classproto__structs_1_1ValueError.html", null ],
+    [ "WriteError", "d5/dfc/classproto__structs_1_1WriteError.html", "d5/dfc/classproto__structs_1_1WriteError" ],
+    [ "HashMap", "df/de5/namespaceproto__structs.html#ade5ca40a8aca48c6e83853ca357bf2b9", null ],
+    [ "OneofAlternativeTrait", "df/de5/namespaceproto__structs.html#a54d6cd53dae9140737a234a534469424", null ],
+    [ "MessageToStruct", "df/de5/namespaceproto__structs.html#aec642ef74b17fd6a5ce17da2d80de5d7", null ],
+    [ "MessageToStruct", "df/de5/namespaceproto__structs.html#a3a1aff463525909ef14ec05f7101e612", null ],
+    [ "StructToMessage", "df/de5/namespaceproto__structs.html#a68adfc939a1d720fbf92d5cd47ced2e0", null ],
+    [ "StructToMessage", "df/de5/namespaceproto__structs.html#a0edb21b7567fdac481f325c1d58feb89", null ],
+    [ "kOneofNpos", "df/de5/namespaceproto__structs.html#a62ad13f863bdafd2b3da0f87b59ba891", null ]
+];

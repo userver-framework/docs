@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['rabbitmq_20amqp_200_209_201_0',['RabbitMQ (AMQP 0-9-1)',['../dd/de2/rabbitmq_driver.html',1,'']]],
+  ['recently_20used_20lru_20caches_20and_20expirable_20lru_20caches_1',['Least Recently Used (LRU) Caches and expirable LRU caches',['../d0/dd8/md_en_2userver_2lru__cache.html',1,'']]],
+  ['redis_2',['Valkey/Redis',['../dd/dde/md_en_2userver_2redis.html',1,'']]],
+  ['redis_20service_3',['Valkey/Redis service',['../d3/da2/md_en_2userver_2tutorial_2redis__service.html',1,'']]],
+  ['redis_5fcommands_5fbuffering_5fsettings_4',['REDIS_COMMANDS_BUFFERING_SETTINGS',['../d2/d11/md_en_2dynamic__configs_2REDIS__COMMANDS__BUFFERING__SETTINGS.html',1,'']]],
+  ['redis_5fdeadline_5fpropagation_5fversion_5',['REDIS_DEADLINE_PROPAGATION_VERSION',['../d8/d51/md_en_2dynamic__configs_2REDIS__DEADLINE__PROPAGATION__VERSION.html',1,'']]],
+  ['redis_5fdefault_5fcommand_5fcontrol_6',['REDIS_DEFAULT_COMMAND_CONTROL',['../d3/db2/md_en_2dynamic__configs_2REDIS__DEFAULT__COMMAND__CONTROL.html',1,'']]],
+  ['redis_5fmetrics_5fsettings_7',['REDIS_METRICS_SETTINGS',['../d6/d0e/md_en_2dynamic__configs_2REDIS__METRICS__SETTINGS.html',1,'']]],
+  ['redis_5fpubsub_5fmetrics_5fsettings_8',['REDIS_PUBSUB_METRICS_SETTINGS',['../d5/d11/md_en_2dynamic__configs_2REDIS__PUBSUB__METRICS__SETTINGS.html',1,'']]],
+  ['redis_5freplica_5fmonitoring_5fsettings_9',['REDIS_REPLICA_MONITORING_SETTINGS',['../d4/d94/md_en_2dynamic__configs_2REDIS__REPLICA__MONITORING__SETTINGS.html',1,'']]],
+  ['redis_5fretry_5fbudget_5fsettings_10',['REDIS_RETRY_BUDGET_SETTINGS',['../d2/d76/md_en_2dynamic__configs_2REDIS__RETRY__BUDGET__SETTINGS.html',1,'']]],
+  ['redis_5fsubscriber_5fdefault_5fcommand_5fcontrol_11',['REDIS_SUBSCRIBER_DEFAULT_COMMAND_CONTROL',['../d9/d09/md_en_2dynamic__configs_2REDIS__SUBSCRIBER__DEFAULT__COMMAND__CONTROL.html',1,'']]],
+  ['redis_5fsubscriptions_5frebalance_5fmin_5finterval_5fseconds_12',['REDIS_SUBSCRIPTIONS_REBALANCE_MIN_INTERVAL_SECONDS',['../d7/d21/md_en_2dynamic__configs_2REDIS__SUBSCRIPTIONS__REBALANCE__MIN__INTERVAL__SECONDS.html',1,'']]],
+  ['redis_5fwait_5fconnected_13',['REDIS_WAIT_CONNECTED',['../dd/d28/md_en_2dynamic__configs_2REDIS__WAIT__CONNECTED.html',1,'']]],
+  ['reflection_14',['gRPC reflection',['../d9/d39/md_en_2userver_2libraries_2grpc-reflection.html',1,'']]],
+  ['releases_20trunk_20based_20development_20and_20pull_20requests_15',['Releases, Trunk-based Development and Pull Requests',['../d0/d7b/md_en_2userver_2development_2releases.html',1,'']]],
+  ['remote_16',['Pre-caching data from HTTP remote',['../dc/d8a/md_en_2userver_2tutorial_2http__caching.html',1,'']]],
+  ['requests_17',['requests',['../d8/d91/md_en_2userver_2tutorial_2flatbuf__service.html',1,'HTTP Flatbuf handler and requests'],['../d8/d7b/md_en_2userver_2requests__in__flight.html',1,'Inspecting in-flight requests'],['../d0/d7b/md_en_2userver_2development_2releases.html',1,'Releases, Trunk-based Development and Pull Requests']]],
+  ['result_20sets_18',['uPg: Working with result sets',['../db/db5/pg_process_results.html',1,'']]],
+  ['results_19',['uPg: Typed PostgreSQL results',['../d2/d2f/pg_user_row_types.html',1,'']]],
+  ['retries_20',['gRPC Timeouts and Retries',['../d8/d54/md_en_2userver_2grpc_2timeouts__retries.html',1,'']]],
+  ['roadmap_20and_20changelog_21',['Roadmap and Changelog',['../da/d9a/md_en_2userver_2roadmap__and__changelog.html',1,'']]],
+  ['runner_5fcomponent_5fbase_22',['runner_component_base',['../de/d93/md_en_2components__schema_2core_2src_2middlewares_2runner__component__base.html',1,'']]],
+  ['running_20queries_23',['uPg: Running queries',['../da/d1c/pg_run_queries.html',1,'']]],
+  ['runtime_24',['runtime',['../d7/d5b/md_en_2userver_2dump__coroutines.html',1,'Dump coroutines in runtime'],['../d1/de2/md_en_2userver_2log__level__running__service.html',1,'Logging at runtime']]]
+];

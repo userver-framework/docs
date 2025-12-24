@@ -1,0 +1,13 @@
+<map id="components::DynamicConfigClientUpdater" name="components::DynamicConfigClientUpdater">
+<area shape="rect" id="Node000001" title="Component that does a periodic update of runtime configs." alt="" coords="251,240,461,280"/>
+<area shape="rect" id="Node000002" href="$df/dd1/classcomponents_1_1CachingComponentBase.html" title=" " alt="" coords="229,152,483,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,206,359,240,353,240,353,206"/>
+<area shape="rect" id="Node000003" href="$d7/db4/classcomponents_1_1ComponentBase.html" title="Base class for all application components, it depends on components::Logger and components::Tracer." alt="" coords="19,79,237,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,106,302,149,300,154,173,111"/>
+<area shape="rect" id="Node000004" href="$d2/d86/classcomponents_1_1RawComponentBase.html" title="The base class for all components. Don&#39;t use it for application components, use ComponentBase instead..." alt="" coords="5,5,251,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,44,131,79,125,79,125,44"/>
+<area shape="rect" id="Node000005" href="$d6/d98/classcache_1_1DataProvider.html" title="Interface for providing cached data of type T." alt="" coords="261,79,451,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="359,118,359,152,353,152,353,118"/>
+<area shape="rect" id="Node000006" href="$da/df8/classcache_1_1CacheUpdateTrait.html" title="Base class for periodically updated caches." alt="" coords="475,79,658,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="524,111,408,154,406,149,522,106"/>
+</map>

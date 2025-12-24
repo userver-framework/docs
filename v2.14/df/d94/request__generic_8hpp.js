@@ -1,0 +1,4 @@
+var request__generic_8hpp =
+[
+    [ "storages::redis::RequestGeneric< ReplyType >", "df/d89/classstorages_1_1redis_1_1RequestGeneric.html", null ]
+];

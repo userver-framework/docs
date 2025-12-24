@@ -1,0 +1,29 @@
+<map id="middlewares::MiddlewareFactoryComponentBase&lt; MiddlewareBaseType, HandlerInfo &gt;" name="middlewares::MiddlewareFactoryComponentBase&lt; MiddlewareBaseType, HandlerInfo &gt;">
+<area shape="rect" id="Node000001" title="Base class for middleware factory component." alt="" coords="928,360,1215,415"/>
+<area shape="rect" id="Node000005" href="$d2/d87/classgrpc__protovalidate_1_1client_1_1ValidatorComponent.html" title="Component for gRPC client response validation." alt="" coords="1277,5,1508,60"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1084,346,1108,285,1146,210,1196,134,1227,100,1261,69,1278,58,1281,62,1264,73,1231,103,1201,138,1150,213,1113,287,1088,348"/>
+<area shape="rect" id="Node000006" href="$d6/d82/classgrpc__protovalidate_1_1server_1_1ValidatorComponent.html" title="Component for gRPC server request validation." alt="" coords="1272,84,1513,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1092,346,1120,300,1159,247,1206,194,1261,148,1281,136,1284,141,1264,152,1210,197,1163,250,1125,303,1096,349"/>
+<area shape="rect" id="Node000007" href="$db/d0b/classugrpc_1_1client_1_1middlewares_1_1headers__propagator_1_1Component.html" title="gRPC client middleware for sending headers stored by the respective HTTP and gRPC server middlewares." alt="" coords="1271,163,1514,217"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1106,348,1174,286,1217,254,1261,226,1286,215,1288,220,1264,231,1220,258,1178,290,1110,352"/>
+<area shape="rect" id="Node000008" href="$d2/d09/classugrpc_1_1client_1_1middlewares_1_1log_1_1Component.html" title="Component for gRPC client logging." alt="" coords="1263,241,1523,296"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1145,352,1262,305,1295,294,1297,299,1264,310,1147,357"/>
+<area shape="rect" id="Node000009" href="$d1/d9f/classugrpc_1_1client_1_1middlewares_1_1origin_1_1Component.html" title="gRPC client middleware that sets x&#45;origin metadata. gRPC server will then copy that to useragent tag ..." alt="" coords="1272,320,1513,375"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1228,365,1272,360,1272,365,1229,370"/>
+<area shape="rect" id="Node000010" href="$d3/dce/classugrpc_1_1client_1_1middlewares_1_1testsuite_1_1Component.html" title="Component for gRPC client testsuite support." alt="" coords="1283,399,1503,453"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1228,404,1283,410,1282,415,1228,409"/>
+<area shape="rect" id="Node000011" href="$d3/d41/classugrpc_1_1server_1_1middlewares_1_1access__log_1_1Component.html" title="gRPC server access log middleware component. Writes one TSKV log line per handled RPC in a static for..." alt="" coords="1272,477,1513,532"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1148,418,1264,463,1297,475,1295,480,1262,469,1146,423"/>
+<area shape="rect" id="Node000012" href="$d4/dae/classugrpc_1_1server_1_1middlewares_1_1congestion__control_1_1Component.html" title="Component for gRPC server logging." alt="" coords="1272,556,1513,611"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1110,423,1178,484,1220,515,1264,542,1288,554,1286,558,1261,547,1217,520,1175,488,1107,427"/>
+<area shape="rect" id="Node000013" href="$d6/dee/classugrpc_1_1server_1_1middlewares_1_1headers__propagator_1_1Component.html" title="Component for gRPC server headers_propagator." alt="" coords="1271,635,1514,689"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1096,425,1125,471,1163,524,1210,576,1264,621,1284,632,1281,637,1261,626,1206,580,1159,527,1120,474,1092,428"/>
+<area shape="rect" id="Node000014" href="$d8/db0/classugrpc_1_1server_1_1middlewares_1_1log_1_1Component.html" title="Component for gRPC server logging." alt="" coords="1263,713,1523,768"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1089,427,1113,487,1150,561,1201,636,1231,670,1264,700,1281,711,1278,715,1261,704,1227,674,1197,639,1146,564,1108,489,1084,429"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="564,367,880,407"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="894,385,928,385,928,390,894,390"/>
+<area shape="rect" id="Node000003" href="$d7/db4/classcomponents_1_1ComponentBase.html" title="Base class for all application components, it depends on components::Logger and components::Tracer." alt="" coords="299,375,516,400"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,385,563,385,563,390,529,390"/>
+<area shape="rect" id="Node000004" href="$d2/d86/classcomponents_1_1RawComponentBase.html" title="The base class for all components. Don&#39;t use it for application components, use ComponentBase instead..." alt="" coords="5,375,251,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,385,299,385,299,390,264,390"/>
+</map>
