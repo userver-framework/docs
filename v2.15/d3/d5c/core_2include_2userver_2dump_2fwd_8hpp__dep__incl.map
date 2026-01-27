@@ -1,0 +1,124 @@
+<map id="userver/dump/fwd.hpp" name="userver/dump/fwd.hpp">
+<area shape="rect" id="Node000001" title="Forward declarations of dump::Reader, dump::Writer and dump::To." alt="" coords="1167,5,1333,31"/>
+<area shape="rect" id="Node000002" href="$d1/d20/cache__update__trait_8hpp.html" title="Base class for periodically updated caches." alt="" coords="970,79,1125,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1209,38,1097,81,1095,76,1207,33"/>
+<area shape="rect" id="Node000007" href="$d9/d0d/core_2include_2userver_2dump_2meta_8hpp.html" title="Provides dump::kIsDumpable and includes userver/dump/fwd.hpp." alt="" coords="1161,86,1339,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1253,44,1253,86,1247,86,1247,44"/>
+<area shape="rect" id="Node000011" href="$d3/d3c/core_2include_2userver_2dump_2operations_8hpp_source.html" title=" " alt="" coords="1846,181,2059,207"/>
+<area shape="poly" id="edge45_Node000001_Node000011" title=" " alt="" coords="1285,35,1353,77,1377,99,1388,108,1403,116,1438,128,1485,139,1602,157,1846,182,1845,188,1601,163,1484,144,1437,133,1401,121,1385,112,1374,103,1350,81,1282,40"/>
+<area shape="rect" id="Node000030" href="$d8/d90/protobuf_8hpp.html" title="Dumping support for protobuf messages." alt="" coords="1413,86,1612,111"/>
+<area shape="poly" id="edge46_Node000001_Node000030" title=" " alt="" coords="1302,32,1475,83,1474,89,1300,37"/>
+<area shape="rect" id="Node000031" href="$d6/db8/chrono_8hpp.html" title="Timestamp (std::chrono::*) I/O support." alt="" coords="699,79,889,119"/>
+<area shape="poly" id="edge47_Node000001_Node000031" title=" " alt="" coords="1171,36,890,84,889,78,1170,30"/>
+<area shape="rect" id="Node000003" href="$df/d56/caching__component__base_8hpp.html" title="Base class for caching components." alt="" coords="938,269,1106,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1036,132,1026,167,1021,223,1023,269,1018,269,1016,222,1021,166,1031,130"/>
+<area shape="rect" id="Node000004" href="$dd/d6c/base__mongo__cache_8hpp.html" title="Base class for all caches polling mongo collection" alt="" coords="928,357,1076,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1017,324,1009,358,1004,357,1012,322"/>
+<area shape="rect" id="Node000005" href="$dc/df7/base__postgres__cache_8hpp.html" title="Caching component for PostgreSQL. See Caching Component for PostgreSQL." alt="" coords="781,812,940,852"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="966,318,940,336,919,359,903,385,895,408,893,464,893,657,890,701,884,744,869,812,863,811,879,743,885,701,887,657,887,464,890,407,898,383,915,356,937,332,963,314"/>
+<area shape="rect" id="Node000006" href="$db/df3/core_2include_2userver_2dynamic__config_2updater_2component_8hpp.html" title="Component that does a periodic update of runtime configs." alt="" coords="1101,357,1282,397"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1072,313,1155,355,1153,360,1070,318"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="1166,117,1114,137,1090,151,1069,169,1051,192,1039,219,1027,270,1022,268,1034,218,1047,189,1065,165,1087,147,1112,132,1164,112"/>
+<area shape="rect" id="Node000008" href="$d9/daf/lru__cache__component__base_8hpp.html" title="Base class for LRU&#45;cache components." alt="" coords="2505,541,2683,581"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1296,114,1336,135,1375,165,1400,196,1416,226,1434,284,1442,313,1453,340,1471,368,1498,395,1532,418,1576,438,1628,456,1687,472,1822,499,1971,520,2124,535,2270,545,2505,555,2504,560,2270,550,2123,540,1970,525,1821,505,1686,477,1626,461,1574,443,1529,422,1495,399,1467,371,1449,343,1437,314,1429,286,1412,228,1396,199,1371,169,1333,140,1293,119"/>
+<area shape="rect" id="Node000009" href="$df/d8a/core_2include_2userver_2dump_2common__containers_8hpp.html" title="Dump support for C++ Standard Library and Boost containers, std::optional, utils::StrongTypedef,..." alt="" coords="1261,445,1434,485"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1293,115,1323,136,1347,165,1362,203,1371,243,1375,283,1375,323,1367,395,1355,446,1350,445,1361,394,1369,323,1370,283,1366,243,1357,204,1342,168,1319,140,1290,120"/>
+<area shape="rect" id="Node000010" href="$d4/d5a/meta__containers_8hpp_source.html" title=" " alt="" coords="1079,181,1333,207"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="1241,125,1214,182,1209,180,1236,122"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="1327,111,1358,116,1624,152,1850,179,1849,184,1623,157,1358,121,1326,116"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="1221,218,1296,356,1340,444,1336,446,1292,359,1217,220"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="1833,210,1107,282,1106,277,1832,205"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="2074,202,2213,224,2288,242,2360,267,2429,309,2495,355,2530,403,2557,455,2591,539,2586,541,2552,457,2525,406,2491,359,2426,313,2358,272,2287,247,2212,229,2073,207"/>
+<area shape="poly" id="edge24_Node000011_Node000009" title=" " alt="" coords="1833,210,1659,235,1581,252,1527,272,1498,290,1471,312,1424,360,1386,409,1361,447,1356,444,1382,406,1420,357,1468,308,1495,286,1525,267,1580,247,1658,230,1832,205"/>
+<area shape="rect" id="Node000012" href="$db/d6e/nway__lru__cache_8hpp_source.html" title=" " alt="" coords="2806,357,2958,397"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="2073,193,2293,198,2549,209,2668,218,2769,231,2845,247,2871,257,2887,268,2898,289,2901,313,2892,358,2887,357,2896,313,2893,290,2883,271,2868,261,2843,252,2768,236,2667,224,2548,214,2293,203,2073,199"/>
+<area shape="rect" id="Node000015" href="$d8/deb/aggregates_8hpp.html" title="Dumping support for aggregates." alt="" coords="2437,277,2655,302"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="2039,206,2474,274,2473,279,2038,211"/>
+<area shape="rect" id="Node000016" href="$d8/d6b/core_2include_2userver_2dump_2common_8hpp.html" title="Serialization and deserialization of integral, floating point, string, std::chrono,..." alt="" coords="1808,365,2009,390"/>
+<area shape="poly" id="edge20_Node000011_Node000016" title=" " alt="" coords="1912,215,1877,238,1862,253,1850,270,1845,289,1850,308,1870,339,1894,362,1891,366,1866,343,1845,310,1839,289,1845,268,1858,250,1874,234,1909,211"/>
+<area shape="rect" id="Node000017" href="$df/db4/json__helpers_8hpp.html" title="Convenience functions to load and dump as JSON in classes derived from components::CachingComponentBa..." alt="" coords="1795,453,2022,478"/>
+<area shape="poly" id="edge37_Node000011_Node000017" title=" " alt="" coords="1914,215,1874,239,1837,271,1821,292,1811,311,1799,358,1795,378,1799,396,1813,414,1831,429,1872,450,1869,455,1828,434,1809,418,1794,398,1789,378,1794,357,1806,309,1817,289,1833,268,1871,234,1912,210"/>
+<area shape="rect" id="Node000018" href="$d5/dd9/dumper_8hpp.html" title="Manages dumps of a cache&#45;like component." alt="" coords="2679,277,2872,302"/>
+<area shape="poly" id="edge25_Node000011_Node000018" title=" " alt="" coords="2073,203,2346,228,2668,267,2714,274,2713,279,2667,272,2345,234,2073,208"/>
+<area shape="rect" id="Node000024" href="$dc/d2d/factory_8hpp_source.html" title=" " alt="" coords="2123,277,2311,302"/>
+<area shape="poly" id="edge34_Node000011_Node000024" title=" " alt="" coords="1999,209,2185,274,2183,279,1997,214"/>
+<area shape="rect" id="Node000025" href="$d9/de9/operations__encrypted_8hpp_source.html" title=" " alt="" coords="2085,357,2271,397"/>
+<area shape="poly" id="edge38_Node000011_Node000025" title=" " alt="" coords="1983,212,2061,267,2160,355,2157,359,2058,271,1980,216"/>
+<area shape="rect" id="Node000026" href="$d3/d85/operations__file_8hpp_source.html" title=" " alt="" coords="2295,357,2480,397"/>
+<area shape="poly" id="edge39_Node000011_Node000026" title=" " alt="" coords="2072,206,2217,230,2281,247,2325,267,2346,287,2363,311,2384,356,2379,358,2358,314,2342,291,2322,272,2279,252,2216,235,2071,211"/>
+<area shape="rect" id="Node000027" href="$d8/d92/operations__mock_8hpp_source.html" title=" " alt="" coords="1537,269,1723,309"/>
+<area shape="poly" id="edge40_Node000011_Node000027" title=" " alt="" coords="1901,213,1696,272,1694,267,1899,208"/>
+<area shape="rect" id="Node000029" href="$dd/d0b/unsafe_8hpp_source.html" title=" " alt="" coords="1859,277,2047,302"/>
+<area shape="poly" id="edge42_Node000011_Node000029" title=" " alt="" coords="1955,220,1955,277,1950,277,1950,220"/>
+<area shape="rect" id="Node000013" href="$d8/de1/expirable__lru__cache_8hpp.html" title="Class for expirable LRU cache. Use cache::LruMap for not expirable LRU Cache." alt="" coords="2679,445,2858,485"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="2848,408,2795,447,2792,443,2845,404"/>
+<area shape="poly" id="edge17_Node000013_Node000008" title=" " alt="" coords="2723,494,2631,543,2628,538,2720,489"/>
+<area shape="rect" id="Node000014" href="$db/df0/standalone__checker_8hpp.html" title="Class for digest authentication checker. Implements a stand&#45;alone digest&#45;authentication logic." alt="" coords="2707,533,2883,588"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="2780,498,2790,532,2785,534,2775,499"/>
+<area shape="poly" id="edge22_Node000016_Node000009" title=" " alt="" coords="1820,395,1435,453,1434,448,1819,390"/>
+<area shape="poly" id="edge21_Node000016_Node000013" title=" " alt="" coords="2021,389,2074,395,2680,453,2679,459,2074,400,2020,394"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="1911,404,1911,452,1906,452,1906,404"/>
+<area shape="poly" id="edge27_Node000018_Node000008" title=" " alt="" coords="2761,315,2670,447,2608,542,2603,539,2665,444,2757,312"/>
+<area shape="poly" id="edge28_Node000018_Node000012" title=" " alt="" coords="2802,309,2860,355,2857,359,2799,313"/>
+<area shape="poly" id="edge26_Node000018_Node000013" title=" " alt="" coords="2777,316,2772,445,2767,445,2772,315"/>
+<area shape="rect" id="Node000019" href="$d2/d2b/dump__control_8hpp.html" title="Dumper control interface for testsuite." alt="" coords="2178,636,2351,676"/>
+<area shape="poly" id="edge29_Node000018_Node000019" title=" " alt="" coords="2749,313,2293,638,2290,634,2746,308"/>
+<area shape="rect" id="Node000020" href="$d3/d37/testsuite__support_8hpp.html" title="Testsuite support component." alt="" coords="1557,812,1751,852"/>
+<area shape="poly" id="edge30_Node000019_Node000020" title=" " alt="" coords="2187,682,1721,814,1719,809,2185,677"/>
+<area shape="rect" id="Node000021" href="$d1/de1/easy_2samples_26__pg__service__template__no__http__with_2src_2main_8cpp_source.html" title=" " alt="" coords="1267,900,1467,969"/>
+<area shape="poly" id="edge31_Node000020_Node000021" title=" " alt="" coords="1589,859,1464,902,1462,897,1587,854"/>
+<area shape="rect" id="Node000022" href="$dc/d2e/easy_8cpp_source.html" title=" " alt="" coords="1491,907,1633,962"/>
+<area shape="poly" id="edge32_Node000020_Node000022" title=" " alt="" coords="1629,864,1588,909,1584,905,1625,861"/>
+<area shape="rect" id="Node000023" href="$db/d29/grpc-reflection_2functional__tests_2golden__path_2main_8cpp_source.html" title=" " alt="" coords="1658,900,1837,969"/>
+<area shape="poly" id="edge33_Node000020_Node000023" title=" " alt="" coords="1683,860,1718,898,1714,901,1679,864"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="2208,316,2189,358,2184,356,2203,314"/>
+<area shape="poly" id="edge36_Node000024_Node000026" title=" " alt="" coords="2253,306,2351,355,2348,360,2251,311"/>
+<area shape="rect" id="Node000028" href="$d5/d46/utest_2include_2userver_2dump_2test__helpers_8hpp_source.html" title=" " alt="" coords="1509,365,1733,390"/>
+<area shape="poly" id="edge41_Node000027_Node000028" title=" " alt="" coords="1629,323,1625,364,1619,364,1624,323"/>
+<area shape="poly" id="edge43_Node000029_Node000016" title=" " alt="" coords="1943,316,1917,365,1912,363,1938,313"/>
+<area shape="poly" id="edge44_Node000029_Node000017" title=" " alt="" coords="1984,308,2007,329,2024,356,2031,378,2024,399,2009,418,1990,434,1948,455,1946,450,1987,429,2005,414,2020,396,2025,378,2020,358,2003,333,1981,312"/>
+<area shape="poly" id="edge48_Node000031_Node000005" title=" " alt="" coords="809,131,831,202,839,245,842,288,842,657,848,743,859,811,854,812,843,744,837,657,837,288,833,245,825,203,804,132"/>
+<area shape="rect" id="Node000032" href="$de/da6/time__point__tz_8hpp_source.html" title=" " alt="" coords="607,167,802,221"/>
+<area shape="poly" id="edge49_Node000031_Node000032" title=" " alt="" coords="769,130,732,168,728,165,765,127"/>
+<area shape="rect" id="Node000033" href="$dc/da2/postgresql_2include_2userver_2storages_2postgres_2io_2supported__types_8hpp.html" title="Includes parsers and formatters for all supported data types; prefer using the type specific include ..." alt="" coords="392,174,583,214"/>
+<area shape="poly" id="edge50_Node000031_Node000033" title=" " alt="" coords="720,125,550,176,549,171,718,120"/>
+<area shape="rect" id="Node000034" href="$d5/da1/field_8hpp.html" title="Result field accessors." alt="" coords="525,269,716,309"/>
+<area shape="poly" id="edge51_Node000033_Node000034" title=" " alt="" coords="527,220,595,267,592,271,524,224"/>
+<area shape="rect" id="Node000035" href="$dc/d69/row_8hpp.html" title="Result row accessors." alt="" coords="475,357,665,397"/>
+<area shape="poly" id="edge74_Node000033_Node000035" title=" " alt="" coords="493,227,501,267,516,308,533,333,552,355,548,359,528,337,512,311,496,268,488,228"/>
+<area shape="rect" id="Node000036" href="$dd/daf/postgresql_2include_2userver_2storages_2postgres_2result__set_8hpp.html" title="Result accessors." alt="" coords="409,445,600,485"/>
+<area shape="poly" id="edge73_Node000033_Node000036" title=" " alt="" coords="479,228,469,263,461,306,459,352,466,397,477,422,491,444,487,446,472,424,461,398,454,352,456,305,464,262,473,226"/>
+<area shape="poly" id="edge52_Node000034_Node000035" title=" " alt="" coords="605,323,584,358,579,356,600,320"/>
+<area shape="poly" id="edge53_Node000035_Node000036" title=" " alt="" coords="549,410,521,447,517,443,545,407"/>
+<area shape="rect" id="Node000037" href="$d2/de3/portal_8hpp_source.html" title=" " alt="" coords="461,541,652,581"/>
+<area shape="poly" id="edge54_Node000036_Node000037" title=" " alt="" coords="524,496,548,539,544,542,520,499"/>
+<area shape="rect" id="Node000038" href="$da/deb/postgresql_2include_2userver_2storages_2postgres_2transaction_8hpp.html" title="Transactions." alt="" coords="396,636,587,676"/>
+<area shape="poly" id="edge72_Node000036_Node000038" title=" " alt="" coords="476,497,463,514,453,534,447,560,453,587,463,612,478,634,473,637,459,615,447,589,442,560,447,532,458,512,472,493"/>
+<area shape="rect" id="Node000047" href="$df/d02/postgres_8hpp.html" title=" " alt="" coords="396,812,587,852"/>
+<area shape="poly" id="edge69_Node000036_Node000047" title=" " alt="" coords="475,497,440,535,406,583,395,606,386,637,383,662,387,688,395,713,408,736,440,778,471,810,467,814,436,782,404,739,391,715,382,689,378,662,381,635,390,604,402,580,436,532,471,493"/>
+<area shape="rect" id="Node000048" href="$d8/d63/query__queue_8hpp.html" title="An utility to execute multiple queries in a single network round&#45;trip." alt="" coords="611,636,801,676"/>
+<area shape="poly" id="edge70_Node000036_Node000048" title=" " alt="" coords="599,488,635,506,667,532,684,557,696,585,707,635,702,636,691,586,679,559,663,535,632,511,597,493"/>
+<area shape="poly" id="edge55_Node000037_Node000038" title=" " alt="" coords="538,593,507,637,502,634,534,590"/>
+<area shape="rect" id="Node000039" href="$de/dd3/postgresql_2include_2userver_2storages_2postgres_2cluster_8hpp.html" title="Interface for executing queries on a cluster of PostgreSQL servers." alt="" coords="596,724,787,764"/>
+<area shape="poly" id="edge56_Node000038_Node000039" title=" " alt="" coords="549,679,649,722,646,726,547,684"/>
+<area shape="poly" id="edge68_Node000038_Node000047" title=" " alt="" coords="494,690,494,812,489,812,489,690"/>
+<area shape="poly" id="edge57_Node000039_Node000005" title=" " alt="" coords="742,768,825,810,822,814,739,773"/>
+<area shape="rect" id="Node000040" href="$d9/d66/easy_8hpp.html" title="Headers of an library for easy prototyping." alt="" coords="625,819,757,845"/>
+<area shape="poly" id="edge58_Node000039_Node000040" title=" " alt="" coords="694,778,694,819,689,819,689,778"/>
+<area shape="poly" id="edge67_Node000039_Node000047" title=" " alt="" coords="636,772,536,814,534,810,634,767"/>
+<area shape="poly" id="edge65_Node000040_Node000021" title=" " alt="" coords="748,845,770,849,906,866,1013,871,1120,877,1256,897,1267,900,1266,905,1255,903,1120,883,1013,876,906,871,770,855,747,850"/>
+<area shape="poly" id="edge66_Node000040_Node000022" title=" " alt="" coords="748,845,770,849,878,862,969,867,1126,865,1202,864,1283,867,1374,877,1480,897,1505,905,1503,910,1479,903,1373,882,1282,872,1202,869,1126,870,969,872,877,867,770,855,747,850"/>
+<area shape="rect" id="Node000041" href="$db/d04/easy_2samples_20__hello__world_2main_8cpp_source.html" title=" " alt="" coords="5,907,185,962"/>
+<area shape="poly" id="edge59_Node000040_Node000041" title=" " alt="" coords="626,850,600,855,487,869,398,875,310,883,199,903,171,910,169,905,197,897,309,878,398,870,486,863,599,849,625,845"/>
+<area shape="rect" id="Node000042" href="$de/d8c/easy_2samples_21__hi_2main_8cpp_source.html" title=" " alt="" coords="210,907,383,962"/>
+<area shape="poly" id="edge60_Node000040_Node000042" title=" " alt="" coords="625,850,396,903,372,910,371,905,395,897,624,845"/>
+<area shape="rect" id="Node000043" href="$d0/df2/easy_2samples_22__key__value_2main_8cpp_source.html" title=" " alt="" coords="407,907,581,962"/>
+<area shape="poly" id="edge61_Node000040_Node000043" title=" " alt="" coords="658,853,547,910,544,905,655,849"/>
+<area shape="rect" id="Node000044" href="$da/d8c/easy_2samples_23__json_2main_8cpp_source.html" title=" " alt="" coords="605,907,778,962"/>
+<area shape="poly" id="edge62_Node000040_Node000044" title=" " alt="" coords="694,859,694,907,689,907,689,859"/>
+<area shape="rect" id="Node000045" href="$d4/d8e/easy_2samples_24__custom__dependency_2main_8cpp_source.html" title=" " alt="" coords="803,907,1041,962"/>
+<area shape="poly" id="edge63_Node000040_Node000045" title=" " alt="" coords="731,848,863,905,861,910,729,853"/>
+<area shape="rect" id="Node000046" href="$d3/dc4/easy_2samples_25__pg__service__template_2src_2main_8cpp_source.html" title=" " alt="" coords="1065,900,1243,969"/>
+<area shape="poly" id="edge64_Node000040_Node000046" title=" " alt="" coords="751,845,771,849,850,863,913,871,975,880,1055,897,1065,900,1064,905,1053,903,974,886,912,877,849,869,769,855,750,850"/>
+<area shape="poly" id="edge71_Node000048_Node000039" title=" " alt="" coords="703,690,697,724,692,723,698,689"/>
+</map>
