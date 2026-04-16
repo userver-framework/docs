@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['reason_0',['reason',['../d7/d7f/structugrpc_1_1ErrorInfo.html#a13caf9fe8997e827482a1f949c51cd6d',1,'ugrpc::ErrorInfo']]],
+  ['recent_5ferrors_5fthreshold_1',['recent_errors_threshold',['../d0/dbf/structstorages_1_1postgres_1_1ConnectionSettings.html#a7e24ceca0f70f89e836c698202b0b9b6',1,'storages::postgres::ConnectionSettings']]],
+  ['relation_5fid_2',['relation_id',['../d5/d73/structstorages_1_1postgres_1_1DBTypeDescription.html#ad0c0b4153e271749f484ea8feebd0d7c',1,'storages::postgres::DBTypeDescription']]],
+  ['repeatablereadro_3',['RepeatableReadRO',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#a465ac281de1c340adcb39c9d023757b4',1,'storages::postgres::Transaction']]],
+  ['repeatablereadrw_4',['RepeatableReadRW',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#a1acbdf711b633d8315764680df2d1d01',1,'storages::postgres::Transaction']]],
+  ['replication_5flag_5',['replication_lag',['../d1/db4/structstorages_1_1postgres_1_1InstanceTopologyStatistics.html#aceec3d50ad1563b97e60abca135df268',1,'storages::postgres::InstanceTopologyStatistics']]],
+  ['reply_5ftotal_6',['reply_total',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#af51e7141b56a1e7a15e7bb351370bca6',1,'storages::postgres::TransactionStatistics']]],
+  ['require_5flabels_7',['require_labels',['../da/dc2/classutils_1_1statistics_1_1Request.html#a890218072aa7f135314f6acd32ad9a6c',1,'utils::statistics::Request']]],
+  ['resource_5fname_8',['resource_name',['../d3/d30/structugrpc_1_1ResourceInfo.html#a1ae886c8ba7812cfc9dd752177e3b5d7',1,'ugrpc::ResourceInfo']]],
+  ['resource_5ftype_9',['resource_type',['../d3/d30/structugrpc_1_1ResourceInfo.html#a8c7700085c850d45c07c63ef87c9deeb',1,'ugrpc::ResourceInfo']]],
+  ['restart_5fdelay_10',['restart_delay',['../d8/d26/structydb_1_1DistLockSettings.html#a487ad34ea0468f3ca331af31b3ce633e',1,'ydb::DistLockSettings']]],
+  ['restart_5fsession_5fdelay_11',['restart_session_delay',['../d8/d26/structydb_1_1DistLockSettings.html#a57c85621d048653edb77ad9acf94244d',1,'ydb::DistLockSettings']]],
+  ['retries_5fcount_12',['retries_count',['../dd/dd6/structclients_1_1http_1_1LocalStats.html#a24d468a918652aa15fb3aec12bdbbaaf',1,'clients::http::LocalStats']]],
+  ['retry_5fconfig_13',['retry_config',['../db/d27/structugrpc_1_1client_1_1ClientFactorySettings.html#ab0fb312b10dffb1f4d8b83c96410c000',1,'ugrpc::client::ClientFactorySettings']]],
+  ['retry_5fcounter_14',['retry_counter',['../dd/dc2/structstorages_1_1redis_1_1CommandControl.html#afcc9fbcf68ab94c278d8f0d67e8c0a67',1,'storages::redis::CommandControl']]],
+  ['retry_5fdelay_15',['retry_delay',['../dc/d8d/structugrpc_1_1RetryInfo.html#a43a1046a9d8035fa450d2dbc07d10f99',1,'ugrpc::RetryInfo']]],
+  ['retry_5flimiter_5ffactory_16',['retry_limiter_factory',['../db/d27/structugrpc_1_1client_1_1ClientFactorySettings.html#a2bdf14f68798a2883972dd1b7e22fed9',1,'ugrpc::client::ClientFactorySettings']]],
+  ['return_5fto_5fpool_5fpercentile_17',['return_to_pool_percentile',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#a480b65acb4a566fa4cffe2a31b1ce1c7',1,'storages::postgres::TransactionStatistics']]],
+  ['ro_18',['RO',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#abff60a085b8598ad4ac72c392c969dd0',1,'storages::postgres::Transaction']]],
+  ['rollback_5ftotal_19',['rollback_total',['../d8/d2f/structstorages_1_1postgres_1_1TransactionStatistics.html#a1066b67016a20bd17ef17aa5ce5282e1',1,'storages::postgres::TransactionStatistics']]],
+  ['roundtrip_5ftime_20',['roundtrip_time',['../d1/db4/structstorages_1_1postgres_1_1InstanceTopologyStatistics.html#aa3005ee6dde24612fa4278a9c72df7b8',1,'storages::postgres::InstanceTopologyStatistics']]],
+  ['rows_5faffected_21',['rows_affected',['../d1/df4/structstorages_1_1mysql_1_1ExecutionResult.html#a559e9272a2443484a3880cdc4d244bdb',1,'storages::mysql::ExecutionResult::rows_affected'],['../dc/db4/structstorages_1_1sqlite_1_1ExecutionResult.html#aab27b840cd1c13123fa89da1e967fa70',1,'storages::sqlite::ExecutionResult::rows_affected']]],
+  ['rw_22',['RW',['../d1/dc2/classstorages_1_1postgres_1_1Transaction.html#af17e2fdf88aa13347bc64ad1aae75fe0',1,'storages::postgres::Transaction']]]
+];

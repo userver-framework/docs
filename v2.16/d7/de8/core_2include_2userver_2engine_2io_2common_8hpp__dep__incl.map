@@ -1,0 +1,28 @@
+<map id="userver/engine/io/common.hpp" name="userver/engine/io/common.hpp">
+<area shape="rect" id="Node000001" title="Common definitions and base classes for stream like objects." alt="" coords="371,5,595,31"/>
+<area shape="rect" id="Node000002" href="$d0/d92/buffered_8hpp.html" title="Buffered I/O wrappers." alt="" coords="224,79,445,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,39,360,81,358,76,446,34"/>
+<area shape="rect" id="Node000004" href="$d5/db7/pipe_8hpp.html" title="Unidirectional pipe representation." alt="" coords="5,79,200,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="409,36,165,81,164,76,408,31"/>
+<area shape="rect" id="Node000005" href="$d0/d3f/poller_8hpp.html" title="I/O event monitor." alt="" coords="755,79,957,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="557,31,796,76,795,81,556,36"/>
+<area shape="rect" id="Node000006" href="$da/dfc/socket_8hpp.html" title="Socket representation." alt="" coords="521,79,730,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="519,34,603,76,601,81,516,39"/>
+<area shape="rect" id="Node000008" href="$d2/d28/tls__wrapper_8hpp.html" title="TLS socket wrappers." alt="" coords="371,152,525,192"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="480,45,455,152,450,151,474,43"/>
+<area shape="rect" id="Node000003" href="$d2/dc6/io_8hpp.html" title="Include&#45;all header for low&#45;level asynchronous I/O interfaces." alt="" coords="184,159,347,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,116,278,161,274,157,313,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="140,107,243,157,240,162,137,112"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="560,110,318,162,317,157,559,104"/>
+<area shape="rect" id="Node000007" href="$d2/d41/tcp__acceptor__base_8hpp.html" title="Component for accepting incoming TCP connections." alt="" coords="995,152,1170,192"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="711,104,984,149,995,151,995,157,984,155,710,109"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="588,112,492,154,490,149,586,107"/>
+<area shape="rect" id="Node000009" href="$d9/d2d/blocking_2connect__tcp__by__name_8hpp.html" title="Establishes a TCP connection to the given host and port using blocking DNS resolution via net::blocki..." alt="" coords="1194,152,1393,192"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="744,102,1183,149,1194,151,1193,156,1182,155,744,107"/>
+<area shape="rect" id="Node000010" href="$d3/df4/connect__tcp__by__name_8hpp.html" title="Establishes a TCP connection to the given host and port using DNS resolution via the provided clients..." alt="" coords="550,152,701,192"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="628,118,628,152,623,152,623,118"/>
+<area shape="rect" id="Node000011" href="$dd/d42/connection_8hpp_source.html" title=" " alt="" coords="725,159,971,185"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="671,106,816,157,815,162,669,111"/>
+<area shape="rect" id="Node000012" href="$d4/d64/websocket__handler_8hpp.html" title="Base class for WebSocket handler." alt="" coords="759,240,937,280"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="851,198,851,240,845,240,845,198"/>
+</map>

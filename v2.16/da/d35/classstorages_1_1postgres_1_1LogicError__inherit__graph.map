@@ -1,0 +1,99 @@
+<map id="storages::postgres::LogicError" name="storages::postgres::LogicError">
+<area shape="rect" id="Node000001" title="Base Postgres logic error. Reports errors that are consequences of erroneous driver usage,..." alt="" coords="545,997,688,1037"/>
+<area shape="rect" id="Node000005" href="$da/d34/classstorages_1_1postgres_1_1ServerError.html" title=" " alt="" coords="736,293,935,333"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="626,983,825,333,830,334,631,985"/>
+<area shape="rect" id="Node000015" href="$d6/d1b/classstorages_1_1postgres_1_1ArrayError.html" title="Base error when working with array types." alt="" coords="764,645,907,685"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="622,983,636,930,659,863,691,793,711,759,734,728,761,703,790,683,793,688,764,707,738,731,715,762,696,795,664,865,641,932,627,984"/>
+<area shape="rect" id="Node000018" href="$dc/d02/classstorages_1_1postgres_1_1BitStringError.html" title="Base error when working with bit string types." alt="" coords="764,741,907,781"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="624,983,639,939,662,888,693,836,734,791,762,775,765,779,738,795,698,839,667,890,644,941,630,984"/>
+<area shape="rect" id="Node000021" href="$d5/d44/classstorages_1_1postgres_1_1BoundedRangeError.html" title="PostgreSQL range type has at least one end unbound." alt="" coords="756,805,915,845"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="632,983,673,919,701,884,734,855,755,843,758,848,738,859,705,888,677,922,636,986"/>
+<area shape="rect" id="Node000022" href="$d8/d70/classstorages_1_1postgres_1_1EnumerationError.html" title=" " alt="" coords="763,869,907,909"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="647,985,687,951,735,919,762,907,764,911,737,924,690,955,650,989"/>
+<area shape="rect" id="Node000025" href="$d9/d89/classstorages_1_1postgres_1_1InvalidInputFormat.html" title="Invalid format for input data." alt="" coords="759,933,912,973"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="698,991,766,971,767,976,699,996"/>
+<area shape="rect" id="Node000026" href="$d6/d97/classstorages_1_1postgres_1_1IpAddressError.html" title=" " alt="" coords="764,997,907,1037"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="702,1015,764,1015,764,1020,702,1020"/>
+<area shape="rect" id="Node000028" href="$d2/d9d/classstorages_1_1postgres_1_1NotImplemented.html" title=" " alt="" coords="764,1061,907,1101"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="699,1039,767,1059,766,1064,698,1044"/>
+<area shape="rect" id="Node000029" href="$d2/d86/classstorages_1_1postgres_1_1NumericError.html" title=" " alt="" coords="764,1125,907,1165"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="650,1045,690,1079,737,1111,765,1123,763,1128,735,1116,687,1084,647,1049"/>
+<area shape="rect" id="Node000033" href="$d5/d9d/classstorages_1_1postgres_1_1ResultSetError.html" title=" " alt="" coords="764,1477,907,1517"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="635,1049,827,1476,823,1478,630,1051"/>
+<area shape="rect" id="Node000049" href="$da/d65/classstorages_1_1postgres_1_1TransactionError.html" title=" " alt="" coords="764,1541,907,1581"/>
+<area shape="poly" id="edge46_Node000001_Node000049" title=" " alt="" coords="624,1051,638,1159,661,1301,677,1373,695,1438,715,1491,738,1527,765,1546,762,1551,734,1531,710,1494,690,1440,671,1374,656,1302,632,1159,619,1051"/>
+<area shape="rect" id="Node000053" href="$d3/db3/classstorages_1_1postgres_1_1UnsupportedInterval.html" title=" " alt="" coords="754,1605,917,1645"/>
+<area shape="poly" id="edge47_Node000001_Node000053" title=" " alt="" coords="623,1051,635,1170,657,1332,672,1414,691,1489,713,1550,738,1592,755,1605,752,1609,734,1595,708,1552,686,1490,667,1415,652,1333,629,1171,618,1051"/>
+<area shape="rect" id="Node000054" href="$d8/d1c/classstorages_1_1postgres_1_1UserTypeError.html" title="Base error when working with mapped types." alt="" coords="764,1669,907,1709"/>
+<area shape="poly" id="edge48_Node000001_Node000054" title=" " alt="" coords="622,1051,632,1183,653,1364,668,1456,687,1540,711,1609,724,1635,738,1656,750,1666,765,1674,762,1679,747,1671,734,1659,719,1638,706,1611,682,1541,663,1457,648,1364,627,1183,617,1051"/>
+<area shape="rect" id="Node000002" href="$df/d3d/classstorages_1_1postgres_1_1Error.html" title="Base class for all exceptions that may be thrown by the driver." alt="" coords="355,997,497,1037"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,1015,545,1015,545,1020,511,1020"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,1005,307,1030"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,1015,355,1015,355,1020,321,1020"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,1005,120,1030"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,1015,168,1015,168,1020,134,1020"/>
+<area shape="rect" id="Node000006" href="$da/d85/classstorages_1_1postgres_1_1AccessRuleViolation.html" title=" " alt="" coords="1023,5,1186,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="844,279,862,229,890,169,930,107,954,80,981,55,1001,43,1022,35,1024,39,1003,48,984,59,958,83,934,111,895,171,867,231,849,281"/>
+<area shape="rect" id="Node000007" href="$de/d0b/classstorages_1_1postgres_1_1CardinalityViolation.html" title=" " alt="" coords="1025,69,1184,109"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="850,279,872,242,901,199,938,156,981,119,1024,100,1026,105,984,124,942,159,905,202,876,245,855,282"/>
+<area shape="rect" id="Node000008" href="$d4/db6/classstorages_1_1postgres_1_1DuplicatePreparedStatement.html" title=" " alt="" coords="995,133,1214,173"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="861,281,914,231,946,205,981,183,1009,171,1011,176,984,188,949,209,917,235,865,285"/>
+<area shape="rect" id="Node000009" href="$db/d84/classstorages_1_1postgres_1_1FeatureNotSupported.html" title=" " alt="" coords="1021,197,1189,237"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="890,285,982,247,1020,235,1022,240,984,252,892,290"/>
+<area shape="rect" id="Node000010" href="$d1/df6/classstorages_1_1postgres_1_1InvalidAuthorizationSpecification.html" title=" " alt="" coords="983,261,1227,301"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="948,297,982,293,983,299,949,303"/>
+<area shape="rect" id="Node000011" href="$d4/d47/classstorages_1_1postgres_1_1InvalidObjectName.html" title="Exception class for several Invalid * Name classes. Class 34 &#45; Invalid Cursor Name Class 3D &#45; Invalid..." alt="" coords="1027,325,1182,365"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="948,324,1027,334,1027,339,948,329"/>
+<area shape="rect" id="Node000012" href="$da/dca/classstorages_1_1postgres_1_1InvalidRoleSpecification.html" title=" " alt="" coords="1011,389,1198,429"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="892,337,984,375,1022,387,1020,392,982,380,890,342"/>
+<area shape="rect" id="Node000013" href="$d4/db9/classstorages_1_1postgres_1_1SqlStatementNotYetComplete.html" title=" " alt="" coords="993,453,1216,493"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="865,342,917,392,949,417,984,439,1011,451,1009,456,981,444,946,422,914,396,861,345"/>
+<area shape="rect" id="Node000014" href="$d3/d71/classstorages_1_1postgres_1_1SyntaxError.html" title=" " alt="" coords="1033,517,1176,557"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="855,345,876,382,905,425,942,467,984,503,1008,516,1034,524,1032,529,1006,521,981,508,938,471,901,428,872,385,850,347"/>
+<area shape="rect" id="Node000016" href="$d7/d98/classstorages_1_1postgres_1_1DimensionMismatch.html" title="Array received from postgres has different dimensions from those of C++ container." alt="" coords="1023,581,1187,621"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="919,643,1022,618,1023,623,921,648"/>
+<area shape="rect" id="Node000017" href="$da/d07/classstorages_1_1postgres_1_1InvalidDimensions.html" title=" " alt="" coords="1029,645,1180,685"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="920,663,1029,663,1029,668,920,668"/>
+<area shape="rect" id="Node000019" href="$da/d9a/classstorages_1_1postgres_1_1BitStringOverflow.html" title="Value in PostgreSQL binary buffer cannot be represented by a given C++ type." alt="" coords="1033,709,1177,749"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="920,749,1032,735,1033,740,921,754"/>
+<area shape="rect" id="Node000020" href="$d5/d1b/classstorages_1_1postgres_1_1InvalidBitStringRepresentation.html" title="Value in PostgreSQL binary buffer cannot be represented as bit string type." alt="" coords="990,773,1219,813"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="921,769,990,777,990,782,920,774"/>
+<area shape="rect" id="Node000023" href="$d0/d05/classstorages_1_1postgres_1_1InvalidEnumerationLiteral.html" title=" " alt="" coords="1005,837,1204,877"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="920,877,1005,866,1005,872,921,882"/>
+<area shape="rect" id="Node000024" href="$da/dc8/classstorages_1_1postgres_1_1InvalidEnumerationValue.html" title=" " alt="" coords="1008,901,1201,941"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="921,897,1008,907,1007,912,920,902"/>
+<area shape="rect" id="Node000027" href="$de/dc0/classstorages_1_1postgres_1_1IpAddressInvalidFormat.html" title=" " alt="" coords="1013,965,1197,1005"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="920,1005,1012,994,1013,999,921,1010"/>
+<area shape="rect" id="Node000030" href="$da/d3b/classstorages_1_1postgres_1_1InvalidRepresentation.html" title="Integral representation for a numeric contains invalid data." alt="" coords="1018,1029,1191,1069"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="918,1118,933,1111,957,1095,981,1079,1017,1066,1019,1071,984,1084,960,1099,936,1116,920,1123"/>
+<area shape="rect" id="Node000031" href="$d0/d40/classstorages_1_1postgres_1_1NumericOverflow.html" title="Value in PostgreSQL binary buffer cannot be represented by a given C++ type." alt="" coords="1033,1093,1176,1133"/>
+<area shape="poly" id="edge30_Node000029_Node000031" title=" " alt="" coords="920,1133,1033,1119,1034,1124,921,1138"/>
+<area shape="rect" id="Node000032" href="$d0/dee/classstorages_1_1postgres_1_1ValueIsNaN.html" title=" " alt="" coords="1033,1157,1176,1197"/>
+<area shape="poly" id="edge31_Node000029_Node000032" title=" " alt="" coords="921,1153,1034,1166,1033,1172,920,1158"/>
+<area shape="rect" id="Node000034" href="$d3/d1e/classstorages_1_1postgres_1_1FieldIndexOutOfBounds.html" title="Result set has less columns that the requested index." alt="" coords="1013,1221,1196,1261"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="847,1463,867,1419,896,1367,934,1315,981,1271,1012,1255,1014,1260,984,1276,938,1319,900,1370,871,1422,852,1465"/>
+<area shape="rect" id="Node000035" href="$d5/db8/classstorages_1_1postgres_1_1FieldNameDoesntExist.html" title="Result set doesn&#39;t have field with the requested name." alt="" coords="1015,1285,1194,1325"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="855,1464,907,1398,942,1364,981,1335,1014,1320,1016,1325,984,1340,945,1368,911,1402,859,1467"/>
+<area shape="rect" id="Node000036" href="$d9/de9/classstorages_1_1postgres_1_1FieldTupleMismatch.html" title="A row was requested to be parsed based on field names/indexed, the count of names/indexes doesn&#39;t mat..." alt="" coords="1025,1349,1184,1389"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="871,1467,922,1432,982,1399,1024,1384,1026,1389,984,1404,925,1436,874,1471"/>
+<area shape="rect" id="Node000037" href="$d8/d2e/classstorages_1_1postgres_1_1FieldValueIsNull.html" title="Data extraction from a null field value to a non&#45;nullable type requested." alt="" coords="1033,1413,1176,1453"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="919,1475,1033,1448,1034,1453,920,1480"/>
+<area shape="rect" id="Node000038" href="$df/dd8/classstorages_1_1postgres_1_1InvalidBinaryBuffer.html" title="Binary buffer contains invalid data. Can occur when parsing binary buffers containing multiple fields..." alt="" coords="1027,1477,1182,1517"/>
+<area shape="poly" id="edge37_Node000033_Node000038" title=" " alt="" coords="920,1495,1027,1495,1027,1500,920,1500"/>
+<area shape="rect" id="Node000039" href="$da/d14/classstorages_1_1postgres_1_1InvalidInputBufferSize.html" title="Buffer size is invalid for a fixed&#45;size type. Can occur when a wrong field type is requested for repl..." alt="" coords="1018,1541,1191,1581"/>
+<area shape="poly" id="edge38_Node000033_Node000039" title=" " alt="" coords="921,1515,1021,1539,1019,1544,919,1520"/>
+<area shape="rect" id="Node000040" href="$d5/d0d/classstorages_1_1postgres_1_1InvalidParserCategory.html" title="Field buffer contains different category of data than expected by data parser." alt="" coords="1018,1605,1191,1645"/>
+<area shape="poly" id="edge39_Node000033_Node000040" title=" " alt="" coords="920,1518,936,1527,952,1544,961,1560,969,1576,984,1591,1019,1608,1017,1613,981,1596,965,1579,956,1563,948,1547,933,1531,918,1522"/>
+<area shape="rect" id="Node000041" href="$da/d37/classstorages_1_1postgres_1_1InvalidTupleSizeRequested.html" title="A tuple was requested to be parsed out of a row that doesn&#39;t have enough fields." alt="" coords="1003,1669,1207,1709"/>
+<area shape="poly" id="edge40_Node000033_Node000041" title=" " alt="" coords="921,1516,937,1527,950,1544,957,1561,961,1593,965,1625,972,1640,984,1655,1004,1669,1001,1673,981,1659,967,1643,960,1627,956,1594,952,1562,945,1547,933,1531,917,1520"/>
+<area shape="rect" id="Node000042" href="$da/d19/classstorages_1_1postgres_1_1NarrowingOverflow.html" title="A binary buffer contains a numeric value that does not fit into a given C++ value type." alt="" coords="1027,1733,1182,1773"/>
+<area shape="poly" id="edge41_Node000033_Node000042" title=" " alt="" coords="920,1514,937,1528,954,1552,961,1577,963,1602,961,1626,959,1650,960,1673,968,1697,985,1719,1005,1734,1028,1744,1026,1749,1002,1739,981,1723,963,1699,955,1674,953,1650,955,1626,957,1602,956,1578,949,1555,933,1531,917,1519"/>
+<area shape="rect" id="Node000043" href="$dd/d9a/classstorages_1_1postgres_1_1NoBinaryParser.html" title="A field in a result set doesn&#39;t have a binary parser." alt="" coords="1033,1797,1176,1837"/>
+<area shape="poly" id="edge42_Node000033_Node000043" title=" " alt="" coords="921,1514,937,1528,958,1561,966,1594,965,1626,960,1659,956,1690,955,1721,964,1752,985,1783,1007,1800,1034,1810,1032,1815,1005,1805,981,1787,959,1755,950,1722,950,1690,955,1658,960,1626,961,1594,953,1563,933,1531,918,1519"/>
+<area shape="rect" id="Node000044" href="$d1/d0b/classstorages_1_1postgres_1_1NonSingleColumnResultSet.html" title="A row or result set requested to be treated as a single column, but contains more than one column." alt="" coords="1001,1861,1209,1901"/>
+<area shape="poly" id="edge43_Node000033_Node000044" title=" " alt="" coords="921,1514,937,1528,952,1548,962,1569,971,1610,968,1651,960,1691,952,1730,950,1769,959,1808,970,1828,985,1847,1002,1862,998,1866,981,1851,965,1831,954,1810,945,1770,947,1730,955,1690,963,1650,965,1611,957,1571,947,1551,933,1531,917,1518"/>
+<area shape="rect" id="Node000045" href="$da/d2a/classstorages_1_1postgres_1_1NonSingleRowResultSet.html" title="A result set containing a single row was expected." alt="" coords="1011,1925,1198,1965"/>
+<area shape="poly" id="edge44_Node000033_Node000045" title=" " alt="" coords="921,1514,937,1528,954,1553,966,1578,973,1602,975,1627,971,1675,960,1723,949,1770,945,1817,948,1841,955,1864,967,1888,985,1912,997,1923,1012,1931,1010,1936,994,1927,981,1915,962,1891,950,1866,943,1842,940,1817,944,1769,955,1722,965,1675,970,1627,967,1603,961,1580,950,1555,933,1531,917,1518"/>
+<area shape="rect" id="Node000046" href="$db/dea/classstorages_1_1postgres_1_1RowIndexOutOfBounds.html" title="Result set has less rows than the requested row index." alt="" coords="1015,1989,1195,2029"/>
+<area shape="poly" id="edge45_Node000033_Node000046" title=" " alt="" coords="921,1513,937,1528,957,1557,970,1586,977,1615,980,1644,973,1700,960,1755,946,1810,941,1865,943,1892,951,1920,964,1948,985,1976,999,1988,1016,1997,1013,2001,996,1992,981,1979,960,1950,946,1922,938,1893,935,1865,941,1809,954,1754,968,1699,974,1644,972,1616,965,1588,952,1560,933,1531,917,1517"/>
+</map>

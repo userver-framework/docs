@@ -1,0 +1,41 @@
+<map id="userver/formats/serialize/common_containers.hpp" name="userver/formats/serialize/common_containers.hpp">
+<area shape="rect" id="Node000001" title="Serializers for standard containers and optional." alt="" coords="407,5,594,45"/>
+<area shape="rect" id="Node000002" href="$d0/d8e/simple__test_8cpp_source.html" title=" " alt="" coords="211,93,401,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,54,372,96,370,91,451,49"/>
+<area shape="rect" id="Node000003" href="$d0/dcf/core_2include_2userver_2dynamic__config_2value_8hpp_source.html" title=" " alt="" coords="413,211,591,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="482,58,466,94,460,128,466,162,476,187,489,209,485,212,471,189,461,163,455,128,461,93,477,56"/>
+<area shape="rect" id="Node000017" href="$de/dad/json_2serialize__container_8hpp_source.html" title=" " alt="" coords="475,108,651,148"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="522,55,554,107,549,109,517,58"/>
+<area shape="rect" id="Node000018" href="$d9/df2/default__dict_8hpp.html" title="Dictionary with special value for missing keys." alt="" coords="676,108,829,148"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="562,48,706,105,704,110,560,53"/>
+<area shape="rect" id="Node000004" href="$d2/d68/core_2include_2userver_2dynamic__config_2client_2client_8hpp.html" title="Client for the dynamic configs service." alt="" coords="209,299,387,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,258,344,301,342,296,444,253"/>
+<area shape="rect" id="Node000007" href="$df/db4/storage__mock_8hpp.html" title="Backing storage for dynamic_config::Source in tests and benchmarks." alt="" coords="413,299,591,339"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="505,265,505,298,499,298,499,265"/>
+<area shape="rect" id="Node000016" href="$d0/d5e/redis__config_8hpp.html" title="Main config for the Valkey/Redis." alt="" coords="615,299,781,339"/>
+<area shape="poly" id="edge16_Node000003_Node000016" title=" " alt="" coords="558,254,656,296,654,301,556,259"/>
+<area shape="rect" id="Node000005" href="$d7/d00/core_2include_2userver_2dynamic__config_2client_2component_8hpp.html" title="Component that starts a clients::dynamic_config::Client client." alt="" coords="5,387,183,427"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,346,140,389,138,384,240,341"/>
+<area shape="rect" id="Node000006" href="$db/df3/core_2include_2userver_2dynamic__config_2updater_2component_8hpp.html" title="Component that does a periodic update of runtime configs." alt="" coords="207,387,389,427"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="301,353,301,386,295,386,295,353"/>
+<area shape="rect" id="Node000008" href="$d5/db8/include_2userver_2dynamic__config_2test__helpers_8hpp.html" title="Accessors for dynamic config defaults for tests and benchmarks." alt="" coords="413,387,591,427"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="505,353,505,386,499,386,499,353"/>
+<area shape="rect" id="Node000011" href="$d3/d31/service_8hpp.html" title="Base classes for testing and benchmarking ugrpc service implementations in a simplified gRPC environm..." alt="" coords="597,475,743,515"/>
+<area shape="poly" id="edge15_Node000007_Node000011" title=" " alt="" coords="552,344,579,362,605,385,640,430,664,473,659,476,636,433,601,388,576,367,549,348"/>
+<area shape="rect" id="Node000009" href="$d7/d49/mongo__local_8hpp.html" title="Mongo local class." alt="" coords="199,475,379,515"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="444,434,336,477,334,472,442,429"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="552,430,634,472,632,477,550,435"/>
+<area shape="rect" id="Node000015" href="$da/dd5/grpc_2include_2userver_2ugrpc_2tests_2standalone__client_8hpp.html" title="Sets up a mini gRPC client that is not directly associated with any userver gRPC server." alt="" coords="403,475,572,515"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="499,441,493,475,488,474,494,440"/>
+<area shape="rect" id="Node000010" href="$d0/d79/mongo__fixture_8hpp.html" title="Provides access to storages::mongo::Pool by means storages::mongo::utest::MongoLocal class." alt="" coords="196,563,381,603"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="291,529,291,562,286,562,286,529"/>
+<area shape="rect" id="Node000012" href="$d1/d31/service__fixtures_8hpp.html" title="gtest fixtures for testing ugrpc service implementations. Requires linking to userver::grpc&#45;utest." alt="" coords="591,563,749,603"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="673,529,673,562,667,562,667,529"/>
+<area shape="rect" id="Node000013" href="$d2/d65/validator__client__test_8cpp_source.html" title=" " alt="" coords="433,651,656,705"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="635,613,582,653,578,648,632,609"/>
+<area shape="rect" id="Node000014" href="$d5/d32/validator__service__test_8cpp_source.html" title=" " alt="" coords="680,651,913,705"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="708,609,763,648,759,653,705,613"/>
+<area shape="poly" id="edge19_Node000018_Node000003" title=" " alt="" coords="694,156,550,213,548,208,692,151"/>
+<area shape="rect" id="Node000019" href="$d6/d85/client__qos_8hpp.html" title=" " alt="" coords="677,211,828,251"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="755,162,755,211,750,211,750,162"/>
+</map>
