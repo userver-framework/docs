@@ -1,0 +1,37 @@
+<map id="storages::mongo::MongoException" name="storages::mongo::MongoException">
+<area shape="rect" id="Node000001" title="Generic mongo&#45;related exception." alt="" coords="480,301,727,326"/>
+<area shape="rect" id="Node000005" href="$d5/dd6/classstorages_1_1mongo_1_1AuthenticationException.html" title="Authentication error." alt="" coords="779,5,1013,45"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="612,286,634,237,668,174,715,110,742,81,773,55,794,43,796,48,776,60,746,85,719,113,673,177,639,239,617,289"/>
+<area shape="rect" id="Node000006" href="$d0/d98/classstorages_1_1mongo_1_1CancelledException.html" title="The current task has been cancelled, e.g. by deadline propagation." alt="" coords="795,69,997,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="618,287,643,249,678,204,723,158,773,119,797,107,799,112,776,124,726,162,682,208,647,253,622,290"/>
+<area shape="rect" id="Node000007" href="$d8/d48/classstorages_1_1mongo_1_1ClusterUnavailableException.html" title="No server available to satisfy request constraints." alt="" coords="803,133,989,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="626,289,690,236,730,208,774,183,803,171,805,176,776,188,733,212,693,240,630,293"/>
+<area shape="rect" id="Node000008" href="$d7/df9/classstorages_1_1mongo_1_1IncompatibleServerException.html" title="Incompatible server version." alt="" coords="784,197,1008,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="648,293,774,247,814,235,816,240,776,252,649,298"/>
+<area shape="rect" id="Node000009" href="$d4/d1d/classstorages_1_1mongo_1_1InvalidConfigException.html" title="Config validation error." alt="" coords="805,261,987,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="733,297,804,289,805,294,733,302"/>
+<area shape="rect" id="Node000010" href="$da/d68/classstorages_1_1mongo_1_1NetworkException.html" title="Network (connectivity) error." alt="" coords="799,325,993,365"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="734,325,799,332,798,337,733,330"/>
+<area shape="rect" id="Node000011" href="$d3/d28/classstorages_1_1mongo_1_1PoolNotFoundException.html" title="Nonexistent pool requested from the set." alt="" coords="801,389,991,429"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="649,329,776,375,816,387,814,392,774,380,648,334"/>
+<area shape="rect" id="Node000012" href="$dc/d28/classstorages_1_1mongo_1_1PoolOverloadException.html" title="Pool refused to satisfy connection request due to high load." alt="" coords="783,453,1009,493"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="630,333,693,386,733,415,776,439,805,451,803,456,774,444,730,419,690,391,626,337"/>
+<area shape="rect" id="Node000013" href="$de/db7/classstorages_1_1mongo_1_1QueryException.html" title="Generic query error." alt="" coords="775,518,1017,543"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="621,337,646,374,681,420,725,465,776,503,804,515,802,520,773,508,722,469,677,423,642,377,617,340"/>
+<area shape="rect" id="Node000018" href="$df/d21/classstorages_1_1mongo_1_1TransactionException.html" title="Transaction&#45;related exception." alt="" coords="789,568,1003,608"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="618,337,640,384,675,443,720,503,747,530,776,554,797,566,795,570,773,558,743,534,716,507,670,446,635,387,613,340"/>
+<area shape="rect" id="Node000002" href="$df/dae/classutils_1_1TracefulException.html" title="Exception that remembers the backtrace at the point of its construction." alt="" coords="259,301,432,326"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,311,480,311,480,316,446,316"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,275,165,301"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,293,259,301,258,307,179,298"/>
+<area shape="rect" id="Node000004" href="$d9/d28/classutils_1_1TracefulExceptionBase.html" title="Base class implementing backtrace storage and message builder, published only for documentation purpo..." alt="" coords="5,325,211,350"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,323,258,319,259,325,225,328"/>
+<area shape="rect" id="Node000014" href="$d6/db8/classstorages_1_1mongo_1_1InvalidQueryArgumentException.html" title="Query argument validation error." alt="" coords="1093,483,1283,523"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1031,515,1093,509,1094,514,1032,520"/>
+<area shape="rect" id="Node000015" href="$d1/de8/classstorages_1_1mongo_1_1ServerException.html" title="Server&#45;side error." alt="" coords="1065,547,1311,573"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="1031,542,1065,545,1065,550,1031,547"/>
+<area shape="rect" id="Node000016" href="$d7/d4b/classstorages_1_1mongo_1_1DuplicateKeyException.html" title="Duplicate key error." alt="" coords="1371,508,1573,548"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1314,543,1371,537,1371,542,1315,548"/>
+<area shape="rect" id="Node000017" href="$d9/d98/classstorages_1_1mongo_1_1WriteConcernException.html" title="Write concern error." alt="" coords="1359,572,1585,612"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="1315,572,1359,577,1358,582,1314,577"/>
+</map>
