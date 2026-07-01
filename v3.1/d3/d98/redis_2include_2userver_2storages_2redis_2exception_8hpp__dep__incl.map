@@ -1,0 +1,52 @@
+<map id="userver/storages/redis/exception.hpp" name="userver/storages/redis/exception.hpp">
+<area shape="rect" id="Node000001" title="redis&#45;specific exceptions" alt="" coords="27,5,193,45"/>
+<area shape="rect" id="Node000002" href="$d6/ddc/command__options_8hpp.html" title="Definitions of structures representing options for different commands." alt="" coords="5,357,180,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,59,94,94,88,170,87,245,93,357,88,357,82,245,82,170,89,93,97,58"/>
+<area shape="rect" id="Node000008" href="$d7/d98/redis_2include_2userver_2storages_2redis_2request_8hpp.html" title="Valkey/Redis futures for storages::redis::Client and storages::redis::Transaction." alt="" coords="373,357,540,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,59,109,113,116,180,124,215,136,249,153,280,174,307,206,326,256,342,374,364,373,369,255,347,204,331,171,311,148,283,131,251,119,216,111,181,104,113,104,59"/>
+<area shape="rect" id="Node000012" href="$d6/d19/ttl__reply_8hpp.html" title="Redis TTL reply value and exception for invalid TTL queries." alt="" coords="499,93,665,133"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="208,42,499,94,498,100,207,47"/>
+<area shape="rect" id="Node000003" href="$dd/dc2/redis_2include_2userver_2storages_2redis_2client_8hpp.html" title=" " alt="" coords="252,533,419,573"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,410,102,449,110,467,121,484,150,507,182,524,217,536,252,543,251,548,216,541,180,529,147,511,117,487,105,470,97,450,90,411"/>
+<area shape="rect" id="Node000007" href="$db/d36/redis_2include_2userver_2storages_2redis_2transaction_8hpp.html" title="Atomic sequence of Redis commands (https://redis.io/topics/transactions), that is usually retrieved f..." alt="" coords="131,445,297,485"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="132,403,189,443,186,447,129,407"/>
+<area shape="rect" id="Node000004" href="$df/d70/redis_2include_2userver_2storages_2redis_2hedged__request_8hpp.html" title="Classes and functions for performing hedged requests." alt="" coords="157,621,324,661"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,585,263,623,260,619,302,581"/>
+<area shape="rect" id="Node000005" href="$da/dbe/redis__local_8hpp.html" title="Valkey or Redis local class." alt="" coords="348,621,515,661"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="369,581,412,619,408,623,365,585"/>
+<area shape="rect" id="Node000006" href="$d0/dd7/redis__fixture_8hpp.html" title="Valkey or Redis fixture." alt="" coords="345,709,517,749"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="434,675,434,709,429,709,429,675"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="408,407,384,425,364,447,353,468,345,491,339,533,333,533,340,490,348,466,360,444,380,421,405,402"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="392,404,268,448,266,443,390,399"/>
+<area shape="rect" id="Node000009" href="$da/df5/request__eval_8hpp.html" title="Redis future for EVAL responses." alt="" coords="755,445,921,485"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="554,398,755,443,754,448,553,403"/>
+<area shape="rect" id="Node000010" href="$de/d60/request__evalsha_8hpp.html" title="Redis future for EVALSHA responses." alt="" coords="373,445,540,485"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="459,411,459,445,454,445,454,411"/>
+<area shape="rect" id="Node000011" href="$df/d94/request__generic_8hpp.html" title="Redis future for generic command responses. Can be used to request custom modules commands or unsuppo..." alt="" coords="564,445,731,485"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="512,401,607,443,604,448,510,405"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="741,488,419,542,418,537,741,483"/>
+<area shape="rect" id="Node000013" href="$d7/d9e/hexpiretime__reply_8hpp.html" title="Typed reply for HEXPIRETIME (per&#45;hash&#45;field absolute expiration timestamp, seconds precision)." alt="" coords="846,269,1017,309"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="633,137,894,267,892,271,631,142"/>
+<area shape="rect" id="Node000014" href="$d1/daf/parse__reply_8hpp.html" title="Customizations for Redis response parsings." alt="" coords="664,357,831,397"/>
+<area shape="poly" id="edge24_Node000012_Node000014" title=" " alt="" coords="680,115,768,127,816,137,865,153,913,172,957,198,997,229,1031,268,1042,295,1037,317,1017,335,988,349,952,359,912,367,831,376,830,370,911,362,951,354,986,344,1014,331,1032,315,1037,295,1026,271,993,233,954,202,910,177,863,158,815,143,767,132,679,120"/>
+<area shape="rect" id="Node000015" href="$d3/d5c/hpexpiretime__reply_8hpp.html" title="Typed reply for HPEXPIRETIME (per&#45;hash&#45;field absolute expiration timestamp, millisecond precision)." alt="" coords="401,269,579,309"/>
+<area shape="poly" id="edge21_Node000012_Node000015" title=" " alt="" coords="568,147,502,270,498,268,563,144"/>
+<area shape="rect" id="Node000016" href="$dc/df1/pttl__reply_8hpp.html" title="Redis PTTL / HPTTL reply value (millisecond precision)." alt="" coords="604,269,771,309"/>
+<area shape="poly" id="edge25_Node000012_Node000016" title=" " alt="" coords="603,144,678,268,674,271,598,147"/>
+<area shape="rect" id="Node000017" href="$d9/dd6/reply__types_8hpp.html" title="Definitions of structures representing different Redis replies." alt="" coords="276,181,443,221"/>
+<area shape="poly" id="edge28_Node000012_Node000017" title=" " alt="" coords="521,141,409,184,407,179,520,136"/>
+<area shape="poly" id="edge20_Node000013_Node000008" title=" " alt="" coords="833,311,541,364,540,358,832,306"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="880,318,789,360,786,355,877,313"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="779,405,820,443,816,447,775,409"/>
+<area shape="poly" id="edge18_Node000014_Node000010" title=" " alt="" coords="671,404,521,448,520,443,670,399"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="717,408,671,447,668,443,713,404"/>
+<area shape="poly" id="edge23_Node000015_Node000008" title=" " alt="" coords="480,323,467,358,462,356,475,321"/>
+<area shape="poly" id="edge22_Node000015_Node000014" title=" " alt="" coords="560,311,692,355,690,360,559,316"/>
+<area shape="poly" id="edge27_Node000016_Node000008" title=" " alt="" coords="625,317,508,360,506,355,623,312"/>
+<area shape="poly" id="edge26_Node000016_Node000014" title=" " alt="" coords="711,319,736,356,732,359,706,322"/>
+<area shape="poly" id="edge30_Node000017_Node000008" title=" " alt="" coords="266,228,226,243,196,262,186,272,182,283,182,295,189,308,201,318,217,327,263,343,374,364,373,369,262,348,215,332,197,322,185,311,177,296,176,282,182,269,193,258,224,238,264,223"/>
+<area shape="poly" id="edge29_Node000017_Node000014" title=" " alt="" coords="457,201,549,206,647,217,731,237,763,251,785,268,795,290,791,315,780,338,766,358,762,355,775,336,786,313,789,291,781,271,761,255,730,242,646,223,549,212,456,207"/>
+<area shape="rect" id="Node000018" href="$db/d81/request__data__base_8hpp.html" title="Abstract bases for Redis request/scan pending results." alt="" coords="199,269,376,309"/>
+<area shape="poly" id="edge31_Node000017_Node000018" title=" " alt="" coords="337,234,305,271,301,267,333,230"/>
+<area shape="poly" id="edge32_Node000018_Node000008" title=" " alt="" coords="338,313,421,355,418,360,335,318"/>
+</map>

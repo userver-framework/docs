@@ -1,0 +1,19 @@
+<map id="userver/server/congestion_control/limiter.hpp" name="userver/server/congestion_control/limiter.hpp">
+<area shape="rect" id="Node000001" title="HTTP server congestion control limiter." alt="" coords="223,5,414,45"/>
+<area shape="rect" id="Node000002" href="$dd/d55/core_2include_2userver_2congestion__control_2component_8hpp.html" title="Component to limit too active requests, also known as CC." alt="" coords="13,101,192,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,53,147,103,145,98,262,48"/>
+<area shape="rect" id="Node000004" href="$d8/d82/core_2include_2userver_2server_2server_8hpp.html" title="Main HTTP server instance." alt="" coords="225,108,413,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,59,321,108,316,108,316,59"/>
+<area shape="rect" id="Node000006" href="$d7/d59/grpc_2include_2userver_2ugrpc_2server_2middlewares_2congestion__control_2component_8hpp.html" title="Component for gRPC server logging." alt="" coords="453,93,638,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="378,48,483,91,480,96,376,53"/>
+<area shape="rect" id="Node000003" href="$db/d29/grpc-reflection_2functional__tests_2golden__path_2main_8cpp_source.html" title=" " alt="" coords="5,196,184,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,155,100,196,95,195,98,154"/>
+<area shape="rect" id="Node000005" href="$d3/ddd/core_2include_2userver_2server_2component_8hpp.html" title="Component that listens for incoming requests, manages incoming connections and passes the requests to..." alt="" coords="208,218,429,243"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,147,321,218,316,218,316,147"/>
+<area shape="rect" id="Node000007" href="$d1/d2f/grpc_2include_2userver_2ugrpc_2server_2middlewares_2deadline__propagation_2middleware_8hpp.html" title=" " alt="" coords="453,203,669,258"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="554,161,560,203,555,203,549,162"/>
+<area shape="rect" id="Node000008" href="$dc/dbf/grpc_2include_2userver_2ugrpc_2server_2middlewares_2deadline__propagation_2component_8hpp.html" title="Component for gRPC server deadline propagation." alt="" coords="455,313,667,368"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="564,272,564,313,559,313,559,272"/>
+<area shape="rect" id="Node000009" href="$d4/d9a/server_2component_8cpp_source.html" title=" " alt="" coords="454,416,669,485"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="564,382,564,416,559,416,559,382"/>
+</map>

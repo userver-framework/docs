@@ -1,0 +1,64 @@
+<map id="userver/ugrpc/client/completion_status.hpp" name="userver/ugrpc/client/completion_status.hpp">
+<area shape="rect" id="Node000001" title="Result type for gRPC client call completion." alt="" coords="1820,5,1995,45"/>
+<area shape="rect" id="Node000002" href="$d3/d3e/grpc_2include_2userver_2ugrpc_2client_2middlewares_2base_8hpp.html" title="Base class for client gRPC middleware." alt="" coords="1235,93,1409,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1807,44,1409,102,1408,97,1806,39"/>
+<area shape="rect" id="Node000026" href="$dc/d7f/retry__limiter_8hpp.html" title="Interface for controlling retry behavior based on request outcomes." alt="" coords="2419,93,2569,133"/>
+<area shape="poly" id="edge31_Node000001_Node000026" title=" " alt="" coords="2009,39,2419,98,2418,104,2008,44"/>
+<area shape="rect" id="Node000003" href="$d5/db6/libraries_2grpc-protovalidate_2src_2grpc-protovalidate_2client_2middleware_8hpp_source.html" title=" " alt="" coords="24,181,233,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1222,116,1038,118,795,127,521,147,381,163,245,184,234,186,233,181,244,179,381,158,520,142,795,122,1038,113,1222,111"/>
+<area shape="rect" id="Node000007" href="$dc/d12/libraries_2grpc-protovalidate_2include_2userver_2grpc-protovalidate_2client_2component_8hpp.html" title="Component for gRPC client response validation." alt="" coords="521,196,715,236"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1222,124,997,144,865,162,735,184,677,199,675,193,733,179,865,156,997,139,1221,118"/>
+<area shape="rect" id="Node000008" href="$da/dd3/client__factory__component_8hpp.html" title="Provides a ClientFactory in the component system." alt="" coords="2203,416,2425,456"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="1422,111,1658,112,1944,120,2080,128,2197,140,2284,157,2314,167,2332,179,2351,207,2361,239,2363,272,2360,306,2345,369,2326,417,2321,415,2340,368,2355,305,2358,272,2355,240,2346,209,2328,183,2311,172,2283,162,2196,146,2080,134,1944,125,1658,117,1422,116"/>
+<area shape="rect" id="Node000009" href="$d6/d48/grpc_2include_2userver_2ugrpc_2client_2middlewares_2baggage_2middleware_8hpp.html" title="middleware for gRPC client baggage" alt="" coords="790,189,961,243"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="1222,133,1103,154,973,184,949,191,947,186,972,179,1101,149,1221,127"/>
+<area shape="rect" id="Node000011" href="$dd/d5c/grpc_2include_2userver_2ugrpc_2client_2middlewares_2deadline__propagation_2middleware_8hpp.html" title="middleware for RPC handler logging settings" alt="" coords="1214,189,1430,243"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="1325,147,1325,188,1319,188,1319,147"/>
+<area shape="rect" id="Node000013" href="$d7/de8/grpc_2include_2userver_2ugrpc_2client_2middlewares_2headers__propagator_2component_8hpp.html" title="gRPC client middleware for sending headers stored by the respective HTTP and gRPC server middlewares." alt="" coords="985,189,1190,243"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="1266,141,1150,191,1147,186,1264,136"/>
+<area shape="rect" id="Node000014" href="$d1/de5/grpc_2include_2userver_2ugrpc_2client_2middlewares_2log_2component_8hpp.html" title="Component for gRPC client logging." alt="" coords="257,196,496,236"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="1221,120,1081,127,903,138,706,157,509,184,442,199,441,193,508,179,705,152,902,133,1080,121,1221,115"/>
+<area shape="rect" id="Node000015" href="$d6/d88/grpc_2include_2userver_2ugrpc_2client_2middlewares_2origin_2component_8hpp.html" title="gRPC client middleware that sets x&#45;origin metadata. gRPC server will then copy that to useragent tag ..." alt="" coords="1454,196,1710,236"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="1384,136,1534,193,1532,198,1382,141"/>
+<area shape="rect" id="Node000016" href="$d2/d02/grpc_2include_2userver_2ugrpc_2client_2middlewares_2pipeline_8hpp.html" title="Component to create middlewares pipeline." alt="" coords="1929,196,2123,236"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="1423,118,1650,138,1784,155,1917,179,1972,193,1971,198,1916,184,1783,161,1649,143,1422,123"/>
+<area shape="rect" id="Node000023" href="$d0/d14/grpc_2include_2userver_2ugrpc_2client_2middlewares_2testsuite_2component_8hpp.html" title="Component for gRPC client testsuite support." alt="" coords="1734,189,1905,243"/>
+<area shape="poly" id="edge26_Node000002_Node000023" title=" " alt="" coords="1422,124,1565,146,1723,179,1748,186,1747,191,1721,184,1564,151,1422,129"/>
+<area shape="rect" id="Node000024" href="$d7/d66/grpc_2include_2userver_2ugrpc_2client_2middlewares_2testsuite_2middleware_8hpp.html" title="middleware for gRPC client testsuite" alt="" coords="2147,189,2318,243"/>
+<area shape="poly" id="edge27_Node000002_Node000024" title=" " alt="" coords="1423,112,1564,116,1742,127,1939,146,2039,161,2136,179,2164,186,2162,191,2135,184,2038,166,1939,152,1742,132,1564,121,1423,118"/>
+<area shape="rect" id="Node000025" href="$da/d32/simple__client__middleware__pipeline_8hpp.html" title=" " alt="" coords="654,306,851,361"/>
+<area shape="poly" id="edge28_Node000002_Node000025" title=" " alt="" coords="1222,123,956,146,840,163,801,173,780,183,761,211,752,243,750,277,751,306,746,306,744,277,747,242,756,208,776,179,799,168,839,158,956,141,1221,118"/>
+<area shape="rect" id="Node000004" href="$dc/d0c/client_2component_8cpp_source.html" title=" " alt="" coords="291,299,500,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,254,318,296,316,301,218,259"/>
+<area shape="rect" id="Node000005" href="$d7/dbc/client_2middleware_8cpp_source.html" title=" " alt="" coords="5,299,215,368"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="124,265,118,299,113,298,118,264"/>
+<area shape="rect" id="Node000006" href="$d2/d65/validator__client__test_8cpp_source.html" title=" " alt="" coords="347,592,569,647"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="185,257,228,297,441,590,437,593,224,300,182,261"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="571,245,462,301,459,296,568,240"/>
+<area shape="rect" id="Node000010" href="$d4/d96/grpc_2include_2userver_2ugrpc_2client_2middlewares_2baggage_2component_8hpp.html" title="Component for gRPC client baggage." alt="" coords="875,306,1046,361"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="905,253,943,304,939,307,901,256"/>
+<area shape="rect" id="Node000012" href="$d6/d04/grpc_2include_2userver_2ugrpc_2client_2middlewares_2deadline__propagation_2component_8hpp.html" title="Component for gRPC client deadline_propagation. Update deadline from TaskInheritedData if it exists a..." alt="" coords="1216,306,1428,361"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1325,257,1325,306,1319,306,1319,257"/>
+<area shape="poly" id="edge15_Node000014_Node000004" title=" " alt="" coords="385,249,393,298,387,299,379,250"/>
+<area shape="rect" id="Node000017" href="$d0/d98/client__factory_8hpp.html" title="Creates gRPC clients." alt="" coords="1951,313,2101,353"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="2029,250,2029,313,2023,313,2023,250"/>
+<area shape="poly" id="edge19_Node000017_Node000008" title=" " alt="" coords="2094,355,2261,413,2259,418,2092,360"/>
+<area shape="rect" id="Node000018" href="$d8/d98/simple__client__component_8hpp.html" title="Template class for a simple gRPC client." alt="" coords="1915,416,2137,456"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="2029,367,2029,416,2023,416,2023,367"/>
+<area shape="rect" id="Node000019" href="$d3/d31/service_8hpp.html" title="Base classes for testing and benchmarking ugrpc service implementations in a simplified gRPC environm..." alt="" coords="862,416,1009,456"/>
+<area shape="poly" id="edge21_Node000017_Node000019" title=" " alt="" coords="1937,345,1009,431,1009,425,1937,340"/>
+<area shape="rect" id="Node000022" href="$da/dd5/grpc_2include_2userver_2ugrpc_2tests_2standalone__client_8hpp.html" title="Sets up a mini gRPC client that is not directly associated with any userver gRPC server." alt="" coords="668,416,837,456"/>
+<area shape="poly" id="edge25_Node000017_Node000022" title=" " alt="" coords="1937,342,1384,375,1075,397,850,419,838,420,837,415,850,413,1075,392,1383,370,1937,337"/>
+<area shape="rect" id="Node000020" href="$d1/d31/service__fixtures_8hpp.html" title="gtest fixtures for testing ugrpc service implementations. Requires linking to userver::grpc&#45;utest." alt="" coords="734,504,891,544"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="899,466,841,506,838,502,896,462"/>
+<area shape="poly" id="edge23_Node000020_Node000006" title=" " alt="" coords="728,550,558,595,557,589,727,545"/>
+<area shape="rect" id="Node000021" href="$d5/d32/validator__service__test_8cpp_source.html" title=" " alt="" coords="696,592,929,647"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="815,557,815,592,810,592,810,557"/>
+<area shape="poly" id="edge29_Node000025_Node000019" title=" " alt="" coords="813,365,902,413,899,418,811,369"/>
+<area shape="poly" id="edge30_Node000025_Node000022" title=" " alt="" coords="755,375,755,416,750,416,750,375"/>
+<area shape="rect" id="Node000027" href="$d5/db2/client__factory__settings_8hpp.html" title="Settings relating to the ClientFactory." alt="" coords="2393,196,2595,236"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="2497,147,2497,196,2491,196,2491,147"/>
+<area shape="rect" id="Node000028" href="$d2/d79/common__component_8hpp.html" title="Contains common machinery that&#39;s required for all ugrpc clients." alt="" coords="2620,196,2811,236"/>
+<area shape="poly" id="edge34_Node000026_Node000028" title=" " alt="" coords="2549,137,2675,194,2673,198,2547,142"/>
+<area shape="poly" id="edge33_Node000027_Node000017" title=" " alt="" coords="2405,242,2102,316,2101,311,2404,237"/>
+</map>

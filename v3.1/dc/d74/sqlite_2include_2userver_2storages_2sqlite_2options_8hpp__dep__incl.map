@@ -1,0 +1,30 @@
+<map id="userver/storages/sqlite/options.hpp" name="userver/storages/sqlite/options.hpp">
+<area shape="rect" id="Node000001" title="SQLite options." alt="" coords="279,5,450,45"/>
+<area shape="rect" id="Node000002" href="$d4/d44/sqlite_8hpp.html" title=" " alt="" coords="153,460,352,485"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,37,182,54,139,68,98,85,63,108,35,135,17,168,10,208,10,305,10,363,17,386,35,410,60,431,90,446,122,457,154,464,153,469,120,462,88,451,57,435,31,414,12,389,5,364,5,305,5,207,12,166,31,132,60,103,96,81,137,63,180,49,265,32"/>
+<area shape="rect" id="Node000003" href="$d7/d0f/sqlite_2include_2userver_2storages_2sqlite_2client_8hpp.html" title="Interface for executing queries on SQLite connection. Usually retrieved from components::SQLite." alt="" coords="95,284,266,324"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,52,235,70,208,95,195,118,185,142,176,195,176,245,180,283,175,284,170,245,170,195,180,141,190,115,204,92,232,66,265,47"/>
+<area shape="rect" id="Node000005" href="$dd/d55/sqlite_2include_2userver_2storages_2sqlite_2infra_2pool_8hpp.html" title="SQLite connection pool." alt="" coords="463,93,634,133"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="419,49,510,91,507,96,416,54"/>
+<area shape="rect" id="Node000006" href="$d6/dd3/pool__strategy_8hpp.html" title="Selects read&#45;only vs read&#45;write SQLite pool for an operation." alt="" coords="693,93,927,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="464,43,713,91,712,96,463,48"/>
+<area shape="rect" id="Node000010" href="$d0/d5b/savepoint_8hpp.html" title=" " alt="" coords="218,93,389,133"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="345,58,319,95,315,92,341,55"/>
+<area shape="rect" id="Node000011" href="$d7/d37/sqlite_2include_2userver_2storages_2sqlite_2transaction_8hpp.html" title=" " alt="" coords="341,189,511,229"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="386,56,403,92,418,144,426,188,421,189,413,145,398,94,381,59"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="207,333,230,371,246,419,254,459,249,460,241,421,225,373,203,336"/>
+<area shape="rect" id="Node000004" href="$d6/d0e/sqlite_2include_2userver_2storages_2sqlite_2component_8hpp.html" title="components::SQLite" alt="" coords="45,372,215,412"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="165,337,144,373,139,370,160,335"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="173,417,236,458,233,462,170,422"/>
+<area shape="rect" id="Node000007" href="$d8/de5/exclusive__read__write_8hpp.html" title="SQLite pool strategy: single shared read&#45;write pool." alt="" coords="536,181,716,236"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="762,142,679,184,677,179,760,137"/>
+<area shape="rect" id="Node000008" href="$d3/d3e/read__only_8hpp.html" title="SQLite pool strategy: read&#45;only connections only." alt="" coords="741,189,949,229"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="824,145,840,188,835,190,819,147"/>
+<area shape="rect" id="Node000009" href="$d6/db0/read__write_8hpp.html" title="SQLite pool strategy: separate read and read&#45;write connection pools." alt="" coords="973,189,1188,229"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="879,135,1027,186,1025,191,877,140"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="303,148,281,324,258,460,252,459,276,324,297,147"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="286,146,196,285,191,282,281,144"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="341,140,403,186,400,191,338,144"/>
+<area shape="poly" id="edge15_Node000011_Node000002" title=" " alt="" coords="417,243,380,324,354,370,324,414,298,441,272,462,268,458,294,437,320,410,350,367,376,321,412,241"/>
+<area shape="poly" id="edge16_Node000011_Node000003" title=" " alt="" coords="364,236,231,286,229,281,363,231"/>
+</map>

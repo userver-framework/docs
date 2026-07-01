@@ -1,0 +1,29 @@
+<map id="storages::postgres::IntegrityConstraintViolation" name="storages::postgres::IntegrityConstraintViolation">
+<area shape="rect" id="Node000001" title="Base class for integrity constraint violation errors. Doc: https://www.postgresql...." alt="" coords="935,229,1145,269"/>
+<area shape="rect" id="Node000007" href="$d2/d9a/classstorages_1_1postgres_1_1CheckViolation.html" title=" " alt="" coords="1236,5,1379,45"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1056,215,1079,178,1110,135,1148,92,1192,55,1235,36,1237,40,1195,60,1151,96,1114,138,1083,181,1061,218"/>
+<area shape="rect" id="Node000008" href="$d4/d04/classstorages_1_1postgres_1_1ExclusionViolation.html" title=" " alt="" coords="1232,69,1383,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1067,217,1122,167,1156,141,1192,119,1231,103,1233,108,1195,124,1159,146,1126,171,1071,221"/>
+<area shape="rect" id="Node000009" href="$dc/d35/classstorages_1_1postgres_1_1ForeignKeyViolation.html" title=" " alt="" coords="1227,133,1387,173"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1097,221,1192,183,1230,171,1231,176,1194,188,1099,226"/>
+<area shape="rect" id="Node000010" href="$d4/d05/classstorages_1_1postgres_1_1NotNullViolation.html" title=" " alt="" coords="1236,197,1379,237"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1159,232,1235,223,1236,228,1159,238"/>
+<area shape="rect" id="Node000011" href="$d9/daa/classstorages_1_1postgres_1_1RestrictViolation.html" title=" " alt="" coords="1236,261,1379,301"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1159,261,1236,270,1235,275,1159,266"/>
+<area shape="rect" id="Node000012" href="$dd/da4/classstorages_1_1postgres_1_1TriggeredDataChangeViolation.html" title="Class 27 &#45; Triggered Data Change Violation." alt="" coords="1193,325,1421,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1099,273,1194,311,1231,323,1230,328,1192,316,1097,278"/>
+<area shape="rect" id="Node000013" href="$d6/d84/classstorages_1_1postgres_1_1UniqueViolation.html" title=" " alt="" coords="1236,389,1379,429"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1071,277,1126,328,1159,353,1195,375,1237,392,1235,397,1192,380,1156,357,1122,332,1067,281"/>
+<area shape="rect" id="Node000014" href="$d3/d04/classstorages_1_1postgres_1_1WithCheckOptionViolation.html" title="Class 44 &#45; WITH CHECK OPTION Violation." alt="" coords="1207,453,1408,493"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1061,280,1083,318,1114,360,1151,403,1195,439,1217,451,1214,456,1192,444,1148,407,1110,364,1079,320,1056,283"/>
+<area shape="rect" id="Node000002" href="$da/d34/classstorages_1_1postgres_1_1ServerError.html" title=" " alt="" coords="736,237,887,262"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="900,247,935,247,935,252,900,252"/>
+<area shape="rect" id="Node000003" href="$d6/d97/classstorages_1_1postgres_1_1RuntimeError.html" title="Base Postgres runtime error. Reports errors that are consequences of erroneous data,..." alt="" coords="545,229,688,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="702,247,736,247,736,252,702,252"/>
+<area shape="rect" id="Node000004" href="$df/d3d/classstorages_1_1postgres_1_1Error.html" title="Base class for all exceptions that may be thrown by the driver." alt="" coords="355,229,497,269"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="511,247,545,247,545,252,511,252"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="168,237,307,262"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,247,355,247,355,252,321,252"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,237,120,262"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="134,247,168,247,168,252,134,252"/>
+</map>

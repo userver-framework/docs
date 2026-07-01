@@ -1,0 +1,9 @@
+<map id="userver/storages/sqlite/infra/strategy/pool_strategy.hpp" name="userver/storages/sqlite/infra/strategy/pool_strategy.hpp">
+<area shape="rect" id="Node000001" title="Selects read&#45;only vs read&#45;write SQLite pool for an operation." alt="" coords="197,5,431,45"/>
+<area shape="rect" id="Node000002" href="$d8/de5/exclusive__read__write_8hpp.html" title="SQLite pool strategy: single shared read&#45;write pool." alt="" coords="5,93,185,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,53,158,96,156,91,256,48"/>
+<area shape="rect" id="Node000003" href="$d3/d3e/read__only_8hpp.html" title="SQLite pool strategy: read&#45;only connections only." alt="" coords="210,101,418,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,59,317,101,311,101,311,59"/>
+<area shape="rect" id="Node000004" href="$d6/db0/read__write_8hpp.html" title="SQLite pool strategy: separate read and read&#45;write connection pools." alt="" coords="443,101,657,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,48,503,98,501,103,373,53"/>
+</map>
